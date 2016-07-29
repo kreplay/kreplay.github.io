@@ -1,4 +1,4 @@
-function(){
+(function(){
 	var hasFrame = window.parent!=window,
 		scripts = document.getElementsByTagName('script'),
 		current = scripts[scripts.length-1],
