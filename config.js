@@ -7,12 +7,12 @@ var requirejs = ({
 	paths: {
 		'jquery': 'http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min',
 		'jquery.ui': 'http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min',
-		'jquery.scrollto': 'lib/jquery/jquery.scrollTo.min',
+		'jquery.scrollto': 'http://scmplayer.net/js/lib/jquery/jquery.scrollTo.min.js',
 		'underscore': 'http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.1/underscore-min',
 		'knockout':'http://cdnjs.cloudflare.com/ajax/libs/knockout/2.1.0/knockout-min',
 
-		'text': 'lib/require/text',
-		'domready': 'lib/require/domready'
+		'text': 'http://scmplayer.net/js/lib/require/text',
+		'domready': 'http://scmplayer.net/js/lib/require/domready'
 	},
 	config:{
 		'scm':{
