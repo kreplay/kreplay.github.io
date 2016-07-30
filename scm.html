@@ -15,7 +15,7 @@ body{overflow:hidden; background:transparent; }
 #playerW{z-index:2; left:0; right:0; height:0;}
 #content{ position:relative; height:100%; width:100%;  }
 </style>
-<link rel="stylesheet" type="text/css" href="css/scm.css" />
+<link rel="stylesheet" type="text/css" href="css/scm.css?168" />
 <link rel="stylesheet" type="text/css" data-bind="attr:{href:skin}" id="skin" />
 </head>
 <body>
@@ -51,11 +51,62 @@ body{overflow:hidden; background:transparent; }
 </script>
 </div>
 <div id="playerW" data-bind="style:{ top:placement()=='top'?'0':'auto', 
-	bottom:placement()=='top'?'auto':'0',height:'40px'}"></div>
-<script>
-	// MixStream Flash Player, http://mixstreamflashplayer.net/ 
-	var flashvars = {};flashvars.serverHost = &quot;50.7.71.30:9713/stream/1/&quot;;flashvars.getStats = &quot;1&quot;;flashvars.autoStart = &quot;1&quot;;flashvars.textColour = &quot;ffffff&quot;;flashvars.buttonColour = &quot;ffffff&quot;;var params = {};params.bgcolor= &quot;df1523&quot;;
+	bottom:placement()=='top'?'auto':'0',height:'25px'}"></div>
+<div id="playlistW" data-bind="style:{top:placement()=='top'?'25px':'0',
+		bottom:placement()=='top'?'0':'25px', width:showPlaylist()?'202px':'0'}"></div>
+
+<script type="text/javascript" src="js/lib/soundmanager/soundmanager2-nodebug-jsmin.js"></script>
+<script type="text/javascript" src="config.js?168"></script>
+<script type="text/javascript" src="js/lib/require/require.js"></script>
+<script type="text/javascript" >
+require([
+	'knockout','jquery','underscore',
+	'text!view/player.html',
+	'text!view/playlist.html',
+	'scm','song','scm.ui',
+
+	'binding/slider',
+	'binding/scm'
+	],function(ko,$,_,playerView,playlistView,SCM,Song){
+		$("#playerW").html(playerView);
+		$("#playlistW").html(playlistView);
+
+		var config = SCM.config;
+		SCM.config = _.once(function(data){
+			config(data);
+			ko.applyBindings(SCM,$('#skin').get(0));
+			setTimeout(function(){
+				$('#contentW,#playerW,#playlistW').each(function(){
+					ko.applyBindings(SCM,this);
+					$(this).mousedown(function(){
+						return false;
+					});
+				});
+			},200);
+		});
+
+		while(SCMQueue.length > 0)
+			(new Function('SCM,Song',SCMQueue.shift()))(SCM,Song);
+		window.SCM = SCM;
+		window.Song = Song;
+
+		var resize = function(){
+			$('#content').height($('#contentW').height());
+		}
+		$(window).resize(_.throttle(resize,100));
+		resize();
+
+    var 
+    shown = false,
+    checkAd = function(){
+      if(SCM.showAd() && !shown){
+        $.getScript('http://s3.buysellads.com/ac/bsa.js');
+        shown = true;
+      }
+    };
+    SCM.showAd.subscribe(checkAd);
+    checkAd();
+	});
 </script>
-          <script src='http://mixstreamflashplayer.net/v1.3.js' type='text/javascript'/>
 </body>
 </html>
