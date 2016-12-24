@@ -1,0 +1,581 @@
+<head>
+<script src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'/>
+    
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+  <link href="https://rawgit.com/kenwheeler/slick/master/slick/slick.css" rel="stylesheet" type="text/css"></link>
+  <link href="https://rawgit.com/kenwheeler/slick/master/slick/slick-theme.css" rel="stylesheet" type="text/css"></link>
+  </head>
+
+<style>
+@import "compass/css3";
+
+/* Slider */
+
+.slick-slider {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -ms-touch-action: none;
+    touch-action: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.slick-list {
+    position: relative;
+    overflow: hidden;
+    display: block;
+    margin: 0;
+    padding: 0;
+    &:focus {
+        outline: none;
+    }
+    .slick-loading & {
+        background: white url(./ajax-loader.gif) center center no-repeat;
+    }
+    &.dragging {
+        cursor: pointer;
+        cursor: hand;
+    }
+}
+
+.slick-slider .slick-list,
+.slick-track,
+.slick-slide,
+.slick-slide img {
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.slick-track {
+    position: relative;
+background:black;
+padding:15px;
+    left: 0;
+    top: 0;
+    display: block;
+    zoom: 1;
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+    .slick-loading & {
+        visibility: hidden;
+    }
+}
+
+.slick-slide {
+    float: left;
+    height: 100%;
+    min-height: 1px;
+    img {
+        display: block;
+        &.slick-loading {
+            background: white url(./ajax-loader.gif) center center no-repeat;
+            padding-bottom: 100%;
+        }
+    }
+    display: none;
+    &.dragging img {
+        pointer-events: none;
+    }
+    .slick-initialized & {
+        display: block;
+    }
+    .slick-loading & {
+        visibility: hidden;
+    }
+    .slick-vertical & {
+        display: block;
+        height: auto;
+        border: 1px solid transparent;
+    }
+}
+
+/* Icons */
+
+@charset "UTF-8";
+
+@font-face {
+    font-family: "slick";
+    src: url("./fonts/slick.eot");
+    src: url("./fonts/slick.eot?#iefix") format("embedded-opentype"), url("./fonts/slick.woff") format("woff"), url("./fonts/slick.ttf") format("truetype"), url("./fonts/slick.svg#slick") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Arrows */
+
+.slick-prev,
+.slick-next {
+    position: absolute;
+    display: block;
+    height: 30px;
+    width: 30px;
+    line-height: 0;
+    font-size: 0;
+    cursor: pointer;
+    background: transparent;
+    color: transparent;
+    top: 50%;
+    margin-top: -10px;
+    padding: 0;
+    border: none;
+    outline: none;
+    &:focus {
+        outline: none;
+    }
+    &.slick-disabled:before {
+        opacity: 0.25;
+    }
+}
+
+.slick-prev:before, .slick-next:before {
+    font-family: "slick";
+    font-size: 20px;
+    line-height: 1;
+    color: black;
+    opacity: 0.85;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev {
+    left: -25px;
+    &:before {
+        content: '\2190';
+    }
+}
+
+.slick-next {
+    right: -25px;
+    &:before {
+        content: '\2192';
+    }
+}
+
+/* Dots */
+
+.slick-slider {
+    margin-bottom: 30px;
+}
+
+.slick-dots {
+    position: absolute;
+    bottom: -45px;
+    list-style: none;
+    display: block;
+    text-align: center;
+    padding: 0px;
+    width: 100%;
+    li {
+        position: relative;
+        display: inline-block;
+        height: 20px;
+        width: 20px;
+        margin: 0px 5px;
+        padding: 0px;
+        cursor: pointer;
+        button {
+            border: 0;
+            background: transparent;
+            display: block;
+            height: 20px;
+            width: 20px;
+            outline: none;
+            line-height: 0;
+            font-size: 0;
+            color: transparent;
+            padding: 5px;
+            cursor: pointer;
+            outline: none;
+            &:focus {
+                outline: none;
+            }
+            &:before {
+                position: absolute;
+                top: 0;
+                left: 0;
+                content: '\2022';
+                width: 20px;
+                height: 20px;
+                font-family: "slick";
+                font-size: 6px;
+                line-height: 20px;
+                text-align: center;
+                color: black;
+                opacity: 0.25;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+            }
+        }
+        &.slick-active button:before {
+            opacity: 0.75;
+        }
+    }
+}
+
+
+
+    h3 {
+        background: #fff;
+        color: #3498db;
+        font-size: 36px;
+        left:0; 
+        right:0;
+        bottom:0;
+        padding: 2%;
+        position: absolute !important;
+        text-align: center;
+        z-index:100;
+        width:151px;
+    }
+
+
+
+/* Dots */
+
+.slick-slider {
+    margin-bottom: 30px;
+}
+
+.slick-dots {
+    position: absolute;
+    bottom: -45px;
+    list-style: none;
+    display: block;
+    text-align: center;
+    padding: 0px;
+    width: 100%;
+    li {
+        position: relative;
+        display: inline-block;
+        height: 20px;
+        width: 20px;
+        margin: 0px 5px;
+        padding: 0px;
+        cursor: pointer;
+        button {
+            border: 0;
+            background: transparent;
+            display: block;
+            height: 20px;
+            width: 20px;
+            outline: none;
+            line-height: 0;
+            font-size: 0;
+            color: transparent;
+            padding: 5px;
+            cursor: pointer;
+            outline: none;
+            &:focus {
+                outline: none;
+            }
+            &:before {
+                position: absolute;
+                top: 0;
+                left: 0;
+                content: '\2022';
+                width: 20px;
+                height: 20px;
+                font-family: "slick";
+                // font-size: 6px;
+                font-size: 20px;
+                line-height: 20px;
+                text-align: center;
+                // color: black;
+                color: white;
+                opacity: 0.25;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+            }
+        }
+        &.slick-active button:before {
+            opacity: 0.75;
+        }
+    }
+}
+
+.center .slick-center img {
+    color:#e67e22;
+    opacity:1;
+    outline: orange 4px solid;
+}
+.center h3 {
+    opacity:0.8;
+    transition:all 300ms ease;
+
+.center img {
+    opacity:0.8;
+    transition:all 300ms ease;
+    
+}
+
+</style>
+<body>
+<div class="slider center">
+     
+<div>
+<h3>
+00</h3>
+<a href="http://www.kpopreplay.com/p/intocable-00.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-y2LYsbe0cZo/ViZvmqA0VUI/AAAAAAAACyI/ME6DjCaEW3s/s1600/0.jpg" /></a>
+</div>
+<div>
+<h3>
+1</h3>
+<a href="http://www.kpopreplay.com/p/intocable-01.html" imageanchor="1"><img border="0" src="https://2.bp.blogspot.com/-MOr0-DtCiAo/ViZvmtKNb8I/AAAAAAAACzg/oBafUyJS2MQ/s1600/1.jpg" /></a></div>
+<div>
+      <h3>
+2</h3>
+<a href="http://www.kpopreplay.com/p/intocable-02.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-2kSnbWJuU9o/ViZvnDOTPOI/AAAAAAAACyo/a-2Ol8F5rZY/s1600/2.jpg" /></a></div>
+<div>
+      <h3>
+3</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-03.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-L8DQCJXz79A/ViZvnfT7-aI/AAAAAAAACzU/47pj_gdpHr4/s1600/3.jpg" /></a>
+</div>
+<div>
+      <h3>
+4</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-04.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-u1A08CUjFp0/ViZvnju07JI/AAAAAAAACy8/DlxHiLMhQGI/s1600/4.jpg" /></a>
+</div>
+<div>
+      <h3>
+5</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-05.html" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-eFgT8WyACQk/ViZvnwz9rHI/AAAAAAAACy4/iAkalQtAg9s/s1600/5.jpg" /></a>
+</div>
+<div>
+      <h3>
+6</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-06.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-pOMQLBAFcmY/ViZvnzqYP2I/AAAAAAAACzM/sLxDLrOIVxU/s1600/6.jpg" /></a>
+</div>
+<div>
+      <h3>
+7</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-07.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-3o50HWKSsRQ/ViZvoFLjHfI/AAAAAAAACzE/AohoHnj1SJs/s1600/7.jpg" /></a>
+</div>
+<div>
+      <h3>
+8</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-08.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-DwCyxbC_Xc4/ViZvoPj2rVI/AAAAAAAACzI/n5WWPgOxYQM/s1600/8.jpg" /></a>
+</div>
+<div>
+      <h3>
+9</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-09.html" imageanchor="1"><img border="0" src="https://2.bp.blogspot.com/-cuTGzBLRZ-A/ViZvoqtrdCI/AAAAAAAACzQ/uUx2UOosAbE/s1600/9.jpg" /></a>
+</div>
+<div>
+      <h3>
+10</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-10.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-kQ5lnEdfz7Q/ViZvmvncgDI/AAAAAAAACzc/9Czlw06-1eE/s1600/10.jpg" /></a>
+</div>
+<div>
+      <h3>
+11</h3>
+<a href="http://www.kpopreplay.com/p/inticable-episodio-11.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-ZlIi-GcKDb4/ViZvnKXdiPI/AAAAAAAACzY/bd-zgDt9ekA/s1600/11.jpg" /></a>
+</div>
+<div>
+      <h3>
+12</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-12.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-f4Fhz92HYrU/VjAuOEa9-vI/AAAAAAAADF0/2Ub6EkEXlKQ/s1600/12.jpg" /></a>
+</div>
+<div>
+      <h3>
+13</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-13.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-ROVyotJkaTg/VjAuOQRiamI/AAAAAAAADF8/x2uXlK5BWiY/s1600/13.jpg" /></a>
+</div>
+<div>
+      <h3>
+14</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-14.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-FZSsE1_Wgpc/VjAuOa4xB0I/AAAAAAAADF4/aNHIA0DceH0/s1600/14.jpg" /></a>
+</div>
+<div>
+      <h3>
+15</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-15.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-UleHwDYZ9Ts/VjAuOgWDi5I/AAAAAAAADGA/FPCUfl2Vhgg/s1600/15.jpg" /></a>
+</div>
+<div>
+      <h3>
+16</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-16.html" imageanchor="1"><img border="0" src="https://2.bp.blogspot.com/-iNfZKsYPVb4/VnHsFE2m7cI/AAAAAAAAD8Q/Gko7nXEcy3w/s1600/16.jpg" /></a>
+</div>
+<div>
+      <h3>
+17</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-17.html" imageanchor="1"><img border="0" src="https://2.bp.blogspot.com/-P5IOF7l9zHY/VnHsFWwnzDI/AAAAAAAAD8I/2OoN1wkt1KA/s1600/17.jpg" /></a>
+</div>
+<div>
+      <h3>
+18</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-18.html" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-_0uHf3emQLY/VnHsFXjBDAI/AAAAAAAAD8E/HTdpONoh2Ew/s1600/18.jpg" /></a>
+</div>
+<div>
+      <h3>
+19</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-19.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-EEtJZ_S4E_k/VnHsFtc-q1I/AAAAAAAAD8M/XYVBtj4Jgg0/s1600/19.jpeg" /></a>
+</div>
+<div>
+      <h3>
+20</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-20.html" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-eFYQ3U8yI4M/VnHsF4Kpf8I/AAAAAAAAD8U/6Sx5IUtBwkc/s1600/20.jpeg" /></a>
+</div>
+<div>
+      <h3>
+21</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-21.html" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-p-wugCvBWyI/Vnoc3U5UTHI/AAAAAAAAEVM/qiL8GAkR-9o/s1600/21.jpg" /></a>
+</div>
+<div>
+      <h3>
+22</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-22.html" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-xCeCAlfA7Ys/Vnoc3uxU04I/AAAAAAAAEVQ/VLzg3k4lPJs/s1600/22.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+23</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-23.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-nsBR1wBEtmc/VpLsMtUQQ9I/AAAAAAAAExI/Tgj1TLO51xM/s1600/23.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+24</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-24.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-Q9RQMh84RMw/VpLsMtMYJhI/AAAAAAAAExM/SFHXK_Ma8Vg/s1600/24.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+25</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-25.html" imageanchor="1"><img border="0" src="https://2.bp.blogspot.com/-M7Ir4-5Lwew/Vq_Vg-eANhI/AAAAAAAAFJk/z4NcNeKttNM/s1600/25.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+26</h3>
+<a href="http://www.kpopreplay.com/p/episodio-26.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-z8bSZY1tegg/Vq_VhB8ZTPI/AAAAAAAAFJs/VtXgXVZYBBo/s1600/26.jpg" /></a></div>
+<div>
+      <h3>
+27</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-27.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-GuTmkA_kXfU/Vq_Vg0F9ZVI/AAAAAAAAFJo/O0KZuSfVgPw/s1600/27.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+28</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-28.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-EY7_lDEyL6Y/Vsvt2vmHAqI/AAAAAAAAFOM/1dZCopa84A4/s1600/28.jpg" /></a>
+</div>
+<div>
+      <h3>
+29</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-29.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-d10LzgP7Dto/Vsvt2v7Tt4I/AAAAAAAAFOU/9zGk7R7I7mg/s1600/29.jpg" /></a>
+</div>
+<div>
+      <h3>
+30</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-30.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-XpiUtHnrphk/VsvwWVAfWHI/AAAAAAAAFOg/Ltb_1WcBMr0/s1600/30.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+31</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-31.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-0nSxNd1yV2k/VuDuDro-GnI/AAAAAAAAFY0/y3EUOVfyz1g/s1600/31.jpg" /></a>
+</div>
+<div>
+      <h3>
+32</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-32.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-LBbEXSBPqrM/VuDuDrDeaKI/AAAAAAAAFY4/L14rv37LEWw/s1600/32.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+33</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-32_9.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-7gadVrptakQ/VuYuRlBP4GI/AAAAAAAAFa4/POG9l6en_Lw5Xwg1G_nHz7w7mP84opfmQ/s1600/33.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+34</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-33.html" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-z2PaxpjeXo4/VyvdGGmFauI/AAAAAAAAFt8/c9jiB3JlwHw_a65cajx-Q0z45zjpvF8DgCLcB/s1600/34.jpg" /></a>
+
+</div>
+<div>
+      <h3>
+35</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-35.html" imageanchor="1"><img border="0" src="https://4.bp.blogspot.com/-VHlWjvyISW4/VyvdGOKW_pI/AAAAAAAAFuA/sOy4d6WS0YcN4Nn_LSXJIZ_AMq2fT_wtACLcB/s1600/35.jpg" /></a></div>
+<div>
+<h3>
+36</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-36.html" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-AgovF66VE1c/Vzv8w-Z_s5I/AAAAAAAAFvM/sW1rE__zsp4ca0omzn9_-qL1jalcj805gCLcB/s1600/36.jpg" /></a>
+
+</div>
+<div>
+<h3>
+37</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-37.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-gXSe0DBdv2U/Vzv8w1f8CCI/AAAAAAAAFvQ/9BzB4sBzwUofqkUb1CCC5FUUlGUT_iksgCLcB/s1600/37.jpg" /></a>
+
+</div>
+<div>
+<h3>
+38</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-38.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-pOxoxnIBtvQ/V0-6vCTcNZI/AAAAAAAAARU/DkDY8_Q3_hk7VOce_KNOZVwESxj-0DFHgCLcB/s1600/38.jpg" /></a>
+
+</div>
+<div>
+<h3>
+39</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-39.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-7SRuXyBLN4I/V1nrihvgsFI/AAAAAAAAFxs/K2a5NTgE0qol-UR1E8osNf3Ar7EWO-z8QCLcB/s1600/39.jpg" /></a>
+
+</div>
+<div>
+<h3>
+40</h3>
+<a href="http://www.kpopreplay.com/p/intocable-episodio-40.html" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-ut-nlFwIb6Y/V1nriVbYq0I/AAAAAAAAFxo/567tfkcObBQ5caSCQ22T-cXO9ruOfAXQgCLcB/s1600/40.jpg" /></a>
+
+</div>
+</div>
+</body>
+  <script src="http://cdn.jsdelivr.net/jquery.slick/1.3.15/slick.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+$(document).ready(function(){
+
+$('.center').slick({
+  centerMode: true,
+arrows: true,
+centerPadding: '60px',
+  slidesToShow: 5,
+initialSlide: 40,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        arrows: true,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 2,
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        arrows: true,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1,
+      }
+    }
+  ]
+});
+  });
+  </script></body>
