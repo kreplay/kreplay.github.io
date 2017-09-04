@@ -61,6 +61,8 @@ $('.card-content').click(function () {
 		startTemplate: 'minimized',
 
 		betaProxies: true,
+	       
+	        mobileCare: ['ultra','900px'],
 	    
 		direct: true,
 	          defaultArtwork: ['http://i.imgur.com/Bi9sD9n.jpg'],
