@@ -62,7 +62,8 @@ $('.card-content').click(function () {
 
 		betaProxies: true,
 
-		direct: true,		
+		direct: true,
+	          defaultArtwork: ['http://i.imgur.com/Bi9sD9n.jpg'],
 
 
 
