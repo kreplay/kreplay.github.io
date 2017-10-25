@@ -514,7 +514,7 @@
  
 /* waiting element with custom graphic */
 .flowplayer .fp-waiting {
-  background: url(/http://jxnblk.com/loading/loading-spinning-bubbles.svg) no-repeat center center;
+  background: url(http://kreplay.github.io/krflow/17.gif) no-repeat center center;
   height: 100%;
   display: none;
 }
