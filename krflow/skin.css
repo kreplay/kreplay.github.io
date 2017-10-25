@@ -507,6 +507,25 @@
     top: 0; }
   .flowplayer .fp-waiting {
     display: none; }
+
+.flowplayer {
+  background-color: #555;
+}
+ 
+/* waiting element with custom graphic */
+.flowplayer .fp-waiting {
+  background: url(/http://jxnblk.com/loading/loading-spinning-bubbles.svg) no-repeat center center;
+  height: 100%;
+  display: none;
+}
+.flowplayer.is-loading .fp-waiting,
+.flowplayer.is-seeking .fp-waiting {
+  display: block;
+}
+.flowplayer .fp-waiting svg {
+  height: 0;
+}
+
     .flowplayer .fp-waiting p {
       filter: alpha(opacity=0);
       opacity: 0;
@@ -599,11 +618,11 @@
     color: #fff; }
     .flowplayer .fp-captions p {
       border-radius: .2em;
-      font-size: 150%;
+      font-size: 1.8vw;
       display: inline-block;
       padding: .1em .3em;
       margin: .1em; 
-      text-shadow: 2px 2px 2px #333}
+      text-shadow: 1px 3px 4px #000000;
   .flowplayer .fp-speed-flash {
     position: absolute;
     left: 0;
