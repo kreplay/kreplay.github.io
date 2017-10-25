@@ -507,25 +507,6 @@
     top: 0; }
   .flowplayer .fp-waiting {
     display: none; }
-
-.flowplayer {
-  background-color: #555;
-}
- 
-/* waiting element with custom graphic */
-.flowplayer .fp-waiting {
-  background: url(http://kreplay.github.io/krflow/17.gif) no-repeat center center;
-  height: 100%;
-  display: none;
-}
-.flowplayer.is-loading .fp-waiting,
-.flowplayer.is-seeking .fp-waiting {
-  display: block;
-}
-.flowplayer .fp-waiting svg {
-  height: 0;
-}
-
     .flowplayer .fp-waiting p {
       filter: alpha(opacity=0);
       opacity: 0;
