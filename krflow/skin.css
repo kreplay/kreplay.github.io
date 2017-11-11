@@ -602,8 +602,8 @@
       font-size: 1.7em;
       display: inline-block;
       padding: .1em .3em;
-      margin: .1em; 
-      text-shadow: 2px 3px 2px #000}
+      margin: -7px; 
+      text-shadow: rgb(0, 0, 0) -2px 0px 1px, rgb(0, 0, 0) 2px 0px 1px, rgb(0, 0, 0) 0px -2px 1px, rgb(0, 0, 0) 0px 2px 1px, rgb(0, 0, 0) -1px 1px 1px, rgb(0, 0, 0) 1px 1px 1px, rgb(0, 0, 0) 1px -1px 1px, rgb(0, 0, 0) 1px 1px 1px;}
   .flowplayer .fp-speed-flash {
     position: absolute;
     left: 0;
