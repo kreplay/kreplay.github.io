@@ -240,16 +240,16 @@
     ]
   },
   {
-    "title":"WebView",
+    "title":"Chat & Pedidos",
     "drawable":"",
     "submenu":"Other",
     "iap":false,
     "tabs":[
       {
-        "title":"WebView",
+        "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "http://www.google.com"
+          "https://cdn.rawgit.com/kreplay/kreplay.github.io/027a32d0/app/chat.html"
         ]
       }
     ]
