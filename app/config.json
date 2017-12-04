@@ -278,11 +278,11 @@
     "tabs":[
       {
         "title":"WP JSON & Disqus",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "http://androidpolice.com",
+          "http://kpopreplay.blogspot.com/feeds/posts/default?alt=rss",
           "",
-          "http://androidpolice.disqus.com/;androidpolice;%d http://www.androidpolice.com/?p=%d"
+          "http://kpopreplay.disqus.com/;kpopreplay;%d http://www.kpopreplay.com/?p=%d"
         ]
       },
       {
