@@ -249,7 +249,7 @@
         "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "https://cdn.rawgit.com/kreplay/kreplay.github.io/027a32d0/app/chat.html"
+          "http://kpopreplay.chatango.com"
         ]
       }
     ]
