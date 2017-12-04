@@ -45,22 +45,22 @@
         "title":"Radio Kpop Replay",
         "provider":"radio",
         "arguments":[
-          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=709063"
+          "http://178.32.255.199:1935/live/ptven/playlist.m3u8"
         ]
       }
     ]
   },
   {
-    "title":"Live TV ABC",
+    "title":"Mnet",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Live TV ABC",
+        "title":"Mnet",
         "provider":"stream",
         "arguments":[
-          "http://178.32.255.199:1935/live/ptven/playlist.m3u8"
+          "http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8"
         ]
       }
     ]
