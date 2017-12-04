@@ -36,20 +36,28 @@
     ]
   },
   {
-    "title":"Radio Kpop Replay",
+    "title":"Radio 3FM",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Radio Kpop Replay",
+        "title":"Radio 3FM",
         "provider":"radio",
         "arguments":[
-          "http://178.32.255.199:1935/live/ptven/playlist.m3u8"
+          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99226864"
+        ]
+      },
+      {
+        "title":"Radio ZFM",
+        "provider":"radio",
+        "arguments":[
+          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=901725"
         ]
       }
     ]
   },
+
   {
     "title":"Mnet",
     "drawable":"",
