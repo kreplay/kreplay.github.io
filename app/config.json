@@ -42,10 +42,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Radio 3FM",
+        "title":"Radio Kpop Replay",
         "provider":"radio",
         "arguments":[
-          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99226864"
+          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=709063"
         ]
       },
       {
