@@ -37,7 +37,7 @@
   },
    {
     "title":"Radio Kpop Replay",
-    "drawable":"",
+    "drawable":"ic_action_thumbs_up",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
