@@ -82,7 +82,7 @@
   },
   {
     "title":"Mnet",
-    "drawable":"",
+    "drawable":"ic_anuncio",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
