@@ -35,33 +35,53 @@
       }
     ]
   },
-  {
-    "title":"Radio 3FM",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
       {
         "title":"Radio Kpop Replay",
         "provider":"radio",
+        "drawable":"",
+        "submenu":"Diviértete!",
         "arguments":[
           "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=709063"
-        ]
-      },
-      {
-        "title":"Radio ZFM",
-        "provider":"radio",
-        "arguments":[
-          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=901725"
         ]
       }
     ]
   },
+  {
+    "title":"Chat & Pedidos",
+    "drawable":"",
+    "submenu":"Diviértete!",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Chat",
+        "provider":"webview",
+        "arguments":[
+          "http://kpopreplay.chatango.com"
+        ]
+      }
+    ]
 
+  },
+    {
+    "title":"Chat & Pedidos 2",
+    "drawable":"",
+    "submenu":"Diviértete!",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Chat",
+        "provider":"webview",
+        "arguments":[
+          "http://chatwing.com/chatbox/fdc53085-f49a-467e-a00b-42f33590d2f1"
+        ]
+      }
+    ]
+
+  },
   {
     "title":"Mnet",
     "drawable":"",
-    "submenu":"",
+    "submenu":"Streams TV",
     "iap":false,
     "tabs":[
       {
