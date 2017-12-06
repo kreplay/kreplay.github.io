@@ -346,7 +346,7 @@
         "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "http://kpopreplay.chatango.com"
+          "http://kpopreplay.com"
         ]
       }
     ]
@@ -389,7 +389,7 @@
     "tabs":[
       {
         "title":"WP JSON & Disqus",
-        "provider":"rss",
+        "provider":"wordpress",
         "arguments":[
           "http://kpopreplay.blogspot.com/feeds/posts/default?alt=rss",
           "",
