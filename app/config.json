@@ -118,10 +118,17 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Mnet",
+        "title":"Opción 1",
         "provider":"stream",
         "arguments":[
           "http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8"
+        ]
+      },
+            {
+        "title":"Opción 2",
+        "provider":"stream",
+        "arguments":[
+          "http://hpull.kktv8.com/livekktv/724007/playlist.m3u8"
         ]
       }
     ]
@@ -148,10 +155,17 @@
     "iap":false,
     "tabs":[
       {
-        "title":"TvN",
+        "title":"Opción 1",
         "provider":"stream",
         "arguments":[
           "http://199.21.149.41:9083/live/CA42-live1/Rf/DM/RfDMODnZ-dV2NYqGXlMsRQ==/live.m3u8"
+        ]
+      },
+            {
+        "title":"Opción 2,
+        "provider":"stream",
+        "arguments":[
+          "http://hpull.kktv8.com/livekktv/724005/playlist.m3u8"
         ]
       }
     ]
