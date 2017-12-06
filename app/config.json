@@ -91,7 +91,7 @@
         "title":"JTBC",
         "provider":"stream",
         "arguments":[
-          "http://edge1.everyon.tv/etv1/phd343/playlist.m3u8"
+          "http://1.234.61.44/sbsmtvpc/sbsmtv1.stream/playlist.m3u8"
         ]
       }
     ]
