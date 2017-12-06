@@ -106,7 +106,7 @@
         "title":"MBC",
         "provider":"stream",
         "arguments":[
-          "http://119.202.61.202:1935/live/livetv/playlist.m3u8"
+          "http://hpull.kktv8.com/livekktv/724004/playlist.m3u8"
         ]
       }
     ]
@@ -128,7 +128,7 @@
         "title":"Opción 2",
         "provider":"stream",
         "arguments":[
-          "http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8"
+          "http://hpull.kktv8.com/livekktv/724007/playlist.m3u8"
         ]
       }
     ]
@@ -162,10 +162,10 @@
         ]
       },
       {
-        "title":"Opción 2,
+        "title":"Opción 2",
         "provider":"stream",
         "arguments":[
-          "http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8"
+          "http://hpull.kktv8.com/livekktv/724005/playlist.m3u8"
         ]
       }
     ]
