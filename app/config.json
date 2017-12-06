@@ -37,7 +37,7 @@
   },
    {
     "title":"Radio Kpop Replay",
-    "drawable":"ic_action_thumbs_up",
+    "drawable":"",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
@@ -80,9 +80,40 @@
       }
     ]
   },
-  {
+
+      {
+    "title":"JTBC",
+    "drawable":"",
+    "submenu":"Streams TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"JTBC",
+        "provider":"stream",
+        "arguments":[
+          "http://edge1.everyon.tv/etv1/phd343/playlist.m3u8"
+        ]
+      }
+    ]
+  },
+    {
+    "title":"MBC",
+    "drawable":"",
+    "submenu":"Streams TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"MBC",
+        "provider":"stream",
+        "arguments":[
+          "http://119.202.61.202:1935/live/livetv/playlist.m3u8"
+        ]
+      }
+    ]
+  },
+    {
     "title":"Mnet",
-    "drawable":"ic_prueba_launcher",
+    "drawable":"",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -91,6 +122,36 @@
         "provider":"stream",
         "arguments":[
           "http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8"
+        ]
+      }
+    ]
+  },
+        {
+    "title":"SBS",
+    "drawable":"",
+    "submenu":"Streams TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"SBS",
+        "provider":"stream",
+        "arguments":[
+          "http://221.157.125.232:1935/live/psike/chunklist_w855159779.m3u8"
+        ]
+      }
+    ]
+  },
+      {
+    "title":"TvN",
+    "drawable":"",
+    "submenu":"Streams TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"TvN",
+        "provider":"stream",
+        "arguments":[
+          "http://199.21.149.41:9083/live/CA42-live1/Rf/DM/RfDMODnZ-dV2NYqGXlMsRQ==/live.m3u8"
         ]
       }
     ]
