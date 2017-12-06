@@ -128,7 +128,7 @@
         "title":"Opción 2",
         "provider":"stream",
         "arguments":[
-          "http://hpull.kktv8.com/livekktv/724007/playlist.m3u8"
+          "http://1.234.61.108/sbsmtvpc/_definst_/sbsmtv1.stream/chunklist_w1709173900.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MDU1NTIwNDUsInBhdGgiOiIvc2JzbXR2cGMvX2RlZmluc3RfL3Nic210djEuc3RyZWFtIiwiZHVyYXRpb24iOiItMSJ9.OQUjccqDeFfMQI6PwTr5IXccxntWLaurdsL3QZNUo2k"
         ]
       }
     ]
