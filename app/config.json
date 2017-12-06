@@ -128,7 +128,7 @@
         "title":"Opción 2",
         "provider":"stream",
         "arguments":[
-          "http://hpull.kktv8.com/livekktv/724007/playlist.m3u8"
+          "http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8"
         ]
       }
     ]
