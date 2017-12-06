@@ -67,7 +67,7 @@
   },
     {
     "title":"Chat & Pedidos 2",
-    "drawable":"",
+    "mipmap":"ic_prueba_launcher",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
@@ -82,7 +82,7 @@
   },
   {
     "title":"Mnet",
-    "drawable":"ic_anuncio",
+    "drawable":"ic_prueba_launcher",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
