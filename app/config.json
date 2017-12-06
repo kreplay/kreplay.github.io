@@ -124,7 +124,7 @@
           "http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8"
         ]
       },
-            {
+      {
         "title":"Opción 2",
         "provider":"stream",
         "arguments":[
@@ -148,7 +148,7 @@
       }
     ]
   },
-      {
+   {
     "title":"TvN",
     "drawable":"",
     "submenu":"Streams TV",
@@ -161,7 +161,7 @@
           "http://199.21.149.41:9083/live/CA42-live1/Rf/DM/RfDMODnZ-dV2NYqGXlMsRQ==/live.m3u8"
         ]
       },
-            {
+      {
         "title":"Opción 2,
         "provider":"stream",
         "arguments":[
