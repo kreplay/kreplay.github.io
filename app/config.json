@@ -128,7 +128,7 @@
         "title":"Opción 2",
         "provider":"stream",
         "arguments":[
-          "http://1.234.61.108/sbsmtvpc/_definst_/sbsmtv1.stream/chunklist_w1709173900.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MDU1NTIwNDUsInBhdGgiOiIvc2JzbXR2cGMvX2RlZmluc3RfL3Nic210djEuc3RyZWFtIiwiZHVyYXRpb24iOiItMSJ9.OQUjccqDeFfMQI6PwTr5IXccxntWLaurdsL3QZNUo2k"
+          "http://hpull.kktv8.com/livekktv/724003/playlist.m3u8"
         ]
       }
     ]
@@ -143,7 +143,7 @@
         "title":"SBS",
         "provider":"stream",
         "arguments":[
-          "http://198.144.156.93:9083/live/CA42-live1/aU/Zx/aUZxH_RUOehMBmBXwZjwjQ==/live.m3u8"
+          "http://221.157.125.232:1935/live/psike/chunklist_w855159779.m3u8"
         ]
       }
     ]
