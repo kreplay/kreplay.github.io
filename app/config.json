@@ -217,7 +217,7 @@
         "title":"Tumblr",
         "provider":"tumblr",
         "arguments":[
-          "kpopreplay"
+          "kpopreplay.tumblr.com"
         ]
       }
     ]
@@ -254,7 +254,7 @@
         "title":"Twitter",
         "provider":"twitter",
         "arguments":[
-          "Android"
+          "kpop_replay"
         ]
       }
     ]
