@@ -296,18 +296,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Youtube Live",
-        "provider":"youtube",
-        "arguments":[
-          "UCoMdktPbSTixAyNGwb-UYkQ",
-          "live"
-        ]
-      },
-      {
         "title":"Youtube Playlist",
         "provider":"youtube",
         "arguments":[
-          "UU7V6hW6xqPAiUfataAZZtWA",
+          "UCznae5MIJSS6fa8ctgyzZNg",
           "playlist"
         ]
       },
@@ -315,7 +307,7 @@
         "title":"Youtube Channel",
         "provider":"youtube",
         "arguments":[
-          "UCoMdktPbSTixAyNGwb-UYkQ",
+          "UCznae5MIJSS6fa8ctgyzZNg",
           "channel"
         ]
       }
