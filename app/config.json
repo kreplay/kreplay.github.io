@@ -67,7 +67,7 @@
   },
     {
     "title":"Chat & Pedidos 2",
-    "mipmap":"ic_prueba_launcher",
+    "drawable":"ic_action_music",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
