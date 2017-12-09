@@ -1,43 +1,58 @@
 [
   {
     "title":"Noticias",
-    "drawable":"ic_launcher",
+    "drawable":"ic_news",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Recientes",
+        "title":"Destacadas",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?alt=rss"
         ]
       },
       {
-        "title":"Notas",
+        "title":"Más recientes",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Notas?alt=rss"
-        ]
-      },
-      {
-        "title":"Reviews",
-        "provider":"rss",
-        "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Review?alt=rss"
-        ]
-      },
-      {
-        "title":"Rumores",
-        "provider":"rss",
-        "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumor?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?alt=rss"
         ]
       }
     ]
   },
+    {
+    "title":"Editorial",
+    "drawable":"ic_notas",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Editorial",
+        "provider":"rss",
+        "arguments":[
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Editorial?alt=rss"
+        ]
+      }
+     ]
+    },
+      "title":"Rumores",
+    "drawable":"ic_rumors",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Rumores",
+        "provider":"rss",
+        "arguments":[
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumorl?alt=rss"
+        ]
+      }
+     ]
+    },
    {
-    "title":"Radio Kpop Replay",
-    "drawable":"",
+    "title":"Radio",
+    "drawable":"ic_radio1",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
@@ -52,7 +67,7 @@
   },
   {
     "title":"Chat & Pedidos",
-    "drawable":"",
+    "drawable":"ic_chat",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
@@ -67,7 +82,7 @@
   },
     {
     "title":"Chat & Pedidos 2",
-    "drawable":"ic_action_music",
+    "drawable":"ic_chat",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
@@ -83,7 +98,7 @@
 
       {
     "title":"JTBC",
-    "drawable":"",
+    "drawable":"ic_stream",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -98,7 +113,7 @@
   },
     {
     "title":"MBC",
-    "drawable":"",
+    "drawable":"ic_stream",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -113,7 +128,7 @@
   },
     {
     "title":"Mnet",
-    "drawable":"",
+    "drawable":"ic_stream",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -135,7 +150,7 @@
   },
         {
     "title":"SBS",
-    "drawable":"",
+    "drawable":"ic_stream",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -150,7 +165,7 @@
   },
    {
     "title":"TvN",
-    "drawable":"",
+    "drawable":"ic_stream",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
