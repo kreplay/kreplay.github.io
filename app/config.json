@@ -36,7 +36,8 @@
       }
      ]
     },
-      "title":"Rumores",
+  {
+    "title":"Rumores",
     "drawable":"ic_rumors",
     "submenu":"",
     "iap":false,
