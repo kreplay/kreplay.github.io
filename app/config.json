@@ -99,7 +99,7 @@
 
       {
     "title":"JTBC",
-    "drawable":"ic_stream",
+    "drawable":"ic_video",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -114,7 +114,7 @@
   },
     {
     "title":"MBC",
-    "drawable":"ic_stream",
+    "drawable":"ic_video",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -129,7 +129,7 @@
   },
     {
     "title":"Mnet",
-    "drawable":"ic_stream",
+    "drawable":"ic_video",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -151,7 +151,7 @@
   },
         {
     "title":"SBS",
-    "drawable":"ic_stream",
+    "drawable":"ic_video",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -166,7 +166,7 @@
   },
    {
     "title":"TvN",
-    "drawable":"ic_stream",
+    "drawable":"ic_video",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
