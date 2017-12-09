@@ -1,7 +1,7 @@
 [
   {
     "title":"Noticias",
-    "drawable":"",
+    "drawable":"ic_launcher",
     "submenu":"",
     "iap":false,
     "tabs":[
