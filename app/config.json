@@ -46,7 +46,7 @@
         "title":"Rumores",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumorl?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumor?alt=rss"
         ]
       }
      ]
