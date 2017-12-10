@@ -69,7 +69,7 @@
    {
     "title":"Radio",
     "drawable":"ic_radio1",
-    "submenu":"Diviértete!",
+    "submenu":"Radio Area",
     "iap":false,
     "tabs":[
       {
