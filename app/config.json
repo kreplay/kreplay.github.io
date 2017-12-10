@@ -300,65 +300,11 @@
       }
     ]
   },
+
   {
-    "title":"Categories",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Categories",
-        "provider":"overview",
-        "arguments":[
-          "overview.json"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Wordpress Other",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WP JSON & Disqus",
-        "provider":"wordpress",
-        "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default?alt=rss",
-          "",
-          "http://kpopreplay.disqus.com/;kpopreplay;%d http://www.kpopreplay.com/?p=%d"
-        ]
-      },
-      {
-        "title":"WP REST",
-        "provider":"wordpress",
-        "arguments":[
-          "https://wordpress.org/news/wp-json/wp/v2/",
-          ""
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Location",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"maps",
-        "arguments":[
-          "https://www.mapbox.com/help/data/stations.geojson"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Custom",
-    "drawable":"",
-    "submenu":"Other",
+    "title":"Configuraciones",
+    "drawable":"ic_info",
+    "submenu":"Extras",
     "iap":false,
     "tabs":[
       {
