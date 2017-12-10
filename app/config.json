@@ -36,6 +36,21 @@
       }
      ]
     },
+      {
+    "title":"Web completa",
+    "drawable":"ic_pandakr",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Web",
+        "provider":"webview",
+        "arguments":[
+          "https://kpopreplay.com"
+        ]
+      }
+    ]
+  },
   {
     "title":"Rumores",
     "drawable":"ic_rumores1",
@@ -82,8 +97,8 @@
     ]
   },
     {
-    "title":"Chat & Pedidos 2",
-    "drawable":"ic_chat",
+    "title":"Programación",
+    "drawable":"ic_reloj",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
@@ -91,7 +106,22 @@
         "title":"Chat",
         "provider":"webview",
         "arguments":[
-          "http://chatwing.com/chatbox/fdc53085-f49a-467e-a00b-42f33590d2f1"
+          "https://tockify.com/deli31/agenda"
+        ]
+      }
+    ]
+  },
+      {
+    "title":"DJs",
+    "drawable":"ic_dj",
+    "submenu":"Diviértete!",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Chat",
+        "provider":"webview",
+        "arguments":[
+          "https://tockify.com/deli31/agenda"
         ]
       }
     ]
