@@ -97,21 +97,6 @@
     ]
   },
     {
-    "title":"Chat directo al DJ",
-    "drawable":"ic_chats",
-    "submenu":"Radio Area",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Chat directo al DJ",
-        "provider":"custom intent",
-        "arguments":[
-          "messenger:https://www.messenger.com/t/kpopreplaylocutores/", "url"
-        ]
-      }
-    ]
-  },
-    {
     "title":"Programación",
     "drawable":"ic_reloj",
     "submenu":"Radio Area",
