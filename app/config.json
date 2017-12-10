@@ -38,7 +38,7 @@
     },
   {
     "title":"Rumores",
-    "drawable":"ic_rumors",
+    "drawable":"ic_rumores1",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -68,7 +68,7 @@
   },
   {
     "title":"Chat & Pedidos",
-    "drawable":"ic_chat",
+    "drawable":"ic_chats",
     "submenu":"Diviértete!",
     "iap":false,
     "tabs":[
@@ -99,7 +99,7 @@
 
       {
     "title":"JTBC",
-    "drawable":"ic_video",
+    "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -114,7 +114,7 @@
   },
     {
     "title":"MBC",
-    "drawable":"ic_video",
+    "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -129,7 +129,7 @@
   },
     {
     "title":"Mnet",
-    "drawable":"ic_video",
+    "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -151,7 +151,7 @@
   },
         {
     "title":"SBS",
-    "drawable":"ic_video",
+    "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -166,7 +166,7 @@
   },
    {
     "title":"TvN",
-    "drawable":"ic_video",
+    "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
@@ -187,50 +187,13 @@
     ]
   },
   {
-    "title":"RSS",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Feed",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/RadioKpopReplay"
-        ]
-      },
-      {
-        "title":"Podcast",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.nature.com/nature/podcast/current"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"WooCommerce",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Shop",
-        "provider":"woocommerce",
-        "arguments":[
-          ""
-        ]
-      }
-    ]
-  },
-  {
     "title":"Tumblr",
-    "drawable":"",
-    "submenu":"Social Media",
+    "drawable":"ic_tumblr",
+    "submenu":"Redes Sociales",
     "iap":false,
     "tabs":[
       {
-        "title":"Tumblr",
+        "title":"Wallpapers",
         "provider":"tumblr",
         "arguments":[
           "addictingkdrama"
@@ -239,31 +202,9 @@
     ]
   },
   {
-    "title":"SoundCloud",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"User",
-        "provider":"soundcloud",
-        "arguments":[
-          "13568105", "user"
-        ]
-      },
-      {
-        "title":"Playlist",
-        "provider":"soundcloud",
-        "arguments":[
-          "104226047", "playlist"
-        ]
-      }
-    ]
-  },
-  {
     "title":"Twitter",
-    "drawable":"",
-    "submenu":"Social Media",
+    "drawable":"ic_twitter",
+    "submenu":"Redes Sociales",
     "iap":false,
     "tabs":[
       {
@@ -276,24 +217,9 @@
     ]
   },
   {
-    "title":"Instagram",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Instagram",
-        "provider":"instagram",
-        "arguments":[
-          "Google"
-        ]
-      }
-    ]
-  },
-  {
     "title":"Facebook",
-    "drawable":"",
-    "submenu":"Social Media",
+    "drawable":"ic_fb",
+    "submenu":"Redes Sociales",
     "iap":false,
     "tabs":[
       {
@@ -307,20 +233,20 @@
   },
   {
     "title":"Youtube",
-    "drawable":"",
-    "submenu":"Social Media",
+    "drawable":"ic_youtube",
+    "submenu":"Redes Sociales",
     "iap":false,
     "tabs":[
       {
-        "title":"Youtube Playlist",
+        "title":"TOP 20",
         "provider":"youtube",
         "arguments":[
-          "UCznae5MIJSS6fa8ctgyzZNg",
+          "PLzfv9aQxJXomNuoTy6PquRhp3nwsz86Tzg",
           "playlist"
         ]
       },
       {
-        "title":"Youtube Channel",
+        "title":"Canal",
         "provider":"youtube",
         "arguments":[
           "UCznae5MIJSS6fa8ctgyzZNg",
@@ -331,45 +257,15 @@
   },
   {
     "title":"Pinterest",
-    "drawable":"",
-    "submenu":"Social Media",
+    "drawable":"ic_pinterest",
+    "submenu":"Redes Sociales",
     "iap":false,
     "tabs":[
       {
         "title":"Pinterest",
         "provider":"pinterest",
         "arguments":[
-          "515451188540423446"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Chat & Pedidos",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Chat",
-        "provider":"webview",
-        "arguments":[
-          "http://kpopreplay.com"
-        ]
-      }
-    ]
-  },
-    {
-    "title":"Chat & Pedidos 2",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Chat",
-        "provider":"webview",
-        "arguments":[
-          "http://chatwing.com/chatbox/fdc53085-f49a-467e-a00b-42f33590d2f1"
+          "kpopreplay"
         ]
       }
     ]
