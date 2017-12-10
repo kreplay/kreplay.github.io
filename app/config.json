@@ -58,10 +58,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Web",
+        "title":"Web completa",
         "provider":"webview",
         "arguments":[
-          "https://kpopreplay.com"
+          "http://kpopreplay.com"
         ]
       }
     ]
@@ -174,7 +174,7 @@
         "title":"Opción 2",
         "provider":"stream",
         "arguments":[
-          "http://hpull.kktv8.com/livekktv/724003/playlist.m3u8"
+          "http://content.viki.io/1119711v/hlshd_2000/index_1708230623.m3u8"
         ]
       }
     ]
