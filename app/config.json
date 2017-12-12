@@ -241,7 +241,7 @@
   },
   {
     "title":"Tumblr",
-    "drawable":"ic_tumblr",
+    "drawable":"ic_galeria",
     "submenu":"Extras",
     "iap":false,
     "tabs":[
