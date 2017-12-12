@@ -242,14 +242,14 @@
   {
     "title":"Tumblr",
     "drawable":"ic_tumblr",
-    "submenu":"Redes Sociales",
+    "submenu":"Extras",
     "iap":false,
     "tabs":[
       {
         "title":"Wallpapers",
         "provider":"tumblr",
         "arguments":[
-          "addictingkdrama"
+          "kwallpapers"
         ]
       }
     ]
@@ -303,7 +303,7 @@
   {
     "title":"Configuraciones",
     "drawable":"ic_configuracion",
-    "submenu":"Extras",
+    "submenu":"Configura",
     "iap":false,
     "tabs":[
       {
