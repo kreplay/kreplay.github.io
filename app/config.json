@@ -36,6 +36,35 @@
       }
      ]
     },
+      {
+    "title":"Galería de fotos",
+    "drawable":"ic_cam",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Galería de fotos",
+        "provider":"rss",
+        "arguments":[
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Sesión%20de%20fotos?alt=rss"
+        ]
+      }
+     ]
+    },
+      "title":"Moda",
+    "drawable":"ic_vestido",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Moda",
+        "provider":"rss",
+        "arguments":[
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Moda?alt=rss"
+        ]
+      }
+     ]
+    },
   {
     "title":"Rumores",
     "drawable":"ic_rumores1",
