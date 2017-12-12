@@ -302,7 +302,7 @@
 
   {
     "title":"Configuraciones",
-    "drawable":"ic_configuraciones",
+    "drawable":"ic_configuracion",
     "submenu":"Extras",
     "iap":false,
     "tabs":[
