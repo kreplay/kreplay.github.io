@@ -199,13 +199,6 @@
         "arguments":[
           "http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8"
         ]
-      },
-      {
-        "title":"Opción 2",
-        "provider":"stream",
-        "arguments":[
-          "http://content.viki.io/1119711v/hlshd_2000/index_1708230623.m3u8"
-        ]
       }
     ]
   },
@@ -292,30 +285,6 @@
     ]
   },
   {
-    "title":"Youtube",
-    "drawable":"ic_youtube",
-    "submenu":"Redes Sociales",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"TOP 20",
-        "provider":"youtube",
-        "arguments":[
-          "PLzfv9aQxJXomNuoTy6PquRhp3nwsz86Tzg",
-          "playlist"
-        ]
-      },
-      {
-        "title":"Canal",
-        "provider":"youtube",
-        "arguments":[
-          "UCznae5MIJSS6fa8ctgyzZNg",
-          "channel"
-        ]
-      }
-    ]
-  },
-  {
     "title":"Pinterest",
     "drawable":"ic_pinterest",
     "submenu":"Redes Sociales",
@@ -333,7 +302,7 @@
 
   {
     "title":"Configuraciones",
-    "drawable":"ic_info",
+    "drawable":"ic_configuraciones",
     "submenu":"Extras",
     "iap":false,
     "tabs":[
