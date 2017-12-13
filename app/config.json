@@ -9,7 +9,7 @@
         "title":"Destacadas",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?max-results=50"
         ]
       },
       {
@@ -31,7 +31,7 @@
         "title":"Editorial",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Editorial?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Editorial?max-results=50"
         ]
       }
      ]
@@ -46,7 +46,7 @@
         "title":"Galería de fotos",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Sesión%20de%20fotos?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Sesión%20de%20fotos?max-results=50"
         ]
       }
      ]
@@ -61,7 +61,7 @@
         "title":"Moda",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Moda?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Moda?max-results=50"
         ]
       }
      ]
@@ -76,7 +76,7 @@
         "title":"Rumores",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumor?alt=rss"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumor?max-results=50"
         ]
       }
      ]
