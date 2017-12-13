@@ -82,16 +82,23 @@
      ]
     },
     {
-    "title":"Por grupo",
+    "title":"Artistas",
     "drawable":"ic_grupos",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Por grupo",
+        "title":"Grupo",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/app/grupos.json"
+        ]
+      },
+      {
+        "title":"Artista",
+        "provider":"overview",
+        "arguments":[
+          "http://kreplay.github.io/app/artista.json"
         ]
       }
     ]
