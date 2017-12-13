@@ -81,6 +81,22 @@
       }
      ]
     },
+    {
+    "title":"Por grupo",
+    "drawable":"ic_grupos",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Por grupo",
+        "provider":"overview",
+        "arguments":[
+          "http://kreplay.github.io/app/grupos.json"
+        ]
+      }
+    ]
+  },
+
         {
     "title":"Web completa",
     "drawable":"ic_sitioweb",
