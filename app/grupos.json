@@ -96,11 +96,11 @@
     ]
   },
   {
-    "title":"EXID",
+    "title":"ExID",
     "provider":"rss",
     "image":"https://1.bp.blogspot.com/-v0HFr616hVM/WjDEuQMlR9I/AAAAAAAAMFc/D52ob-S-mzkcCnvVFaQu0_QsVPW0mra7ACLcBGAs/s1600/exid.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/EXID?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/ExID?max-results=150"
     ]
   },
   {
@@ -158,6 +158,184 @@
     "arguments":[
       "http://kpopreplay.blogspot.com/feeds/posts/default/-/TVXQ?max-results=150"
     ]
+  },
+
+  {
+    "title":"Ikon",
+    "provider":"rss",
+    "image":"https://1.bp.blogspot.com/-Spxf59rKfrs/WjDEwdr1lVI/AAAAAAAAMGE/8HF4dnDcoI4FPlFFt9XnpL8uj-eoJk-pwCLcBGAs/s1600/ikon.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/2PM?max-results=150"
+    ]
+  },
+  {
+    "title":"Infinite",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-chfRKj6Lk78/WjDEwvua5hI/AAAAAAAAMGI/3vkhXH9X3mUcDI-mxZ4nzhtvT1xjYmT8ACLcBGAs/s1600/infinite.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/AOA?max-results=150"
+    ]
+  },
+  {
+    "title":"Lovelyz",
+    "provider":"rss",
+    "image":"https://1.bp.blogspot.com/-pd6ekPQ3WmI/WjDEza0yD8I/AAAAAAAAMGg/Uj0_psfp5CkRjTTv0WcBjab-q4x-9xzSQCLcBGAs/s1600/lovelyz.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Loveliz?max-results=150"
+    ]
+  },
+  {
+    "title":"MAMAMOO",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-FR0MhUU7Ub4/WjDEzbq3coI/AAAAAAAAMGk/J2adJlOCtsEVIqrOHhwZw6O9KK2iXfJ8ACLcBGAs/s1600/mamamoo.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/MAMAMOO%20B?max-results=150"
+    ]
+  },
+  {
+    "title":"Miss A",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-u098TULBNok/WjDEqdxQuqI/AAAAAAAAMEk/JzChSmjzo6cn59-YX5icJWPNwxCr4pQAACLcBGAs/s1600/Miss%2BA.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/miss%20A?max-results=150"
+    ]
+  },
+  {
+    "title":"Monsta X",
+    "provider":"rss",
+    "image":"https://4.bp.blogspot.com/-azcPUwd2gXI/WjDEzpV5AYI/AAAAAAAAMGo/8Lcy74hdFZAEinA_7-w2aYqCPWzYo79TwCLcBGAs/s1600/monstax.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/MONSTA%20X?max-results=150"
+    ]
+  },
+    {
+    "title":"NCT",
+    "provider":"rss",
+    "image": "https://2.bp.blogspot.com/-yv_XddFwjeA/WjDE0ONMdlI/AAAAAAAAMGs/ilu86TPBhu09KrMLoDZkVSAluxLKwBU5wCLcBGAs/s1600/nct.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/NCT?max-results=150"
+    ]
+  },
+  {
+    "title":"N.Flying",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-iwSht8QNdh4/WjDE0ftYN5I/AAAAAAAAMGw/KBQyyC0o93cfkPA7SG_xop7ug7HjGJfIgCLcBGAs/s1600/nflying.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/N.Flying?max-results=150"
+    ]
+  },
+  {
+    "title":"Red Velvet",
+    "provider":"rss",
+    "image":"https://4.bp.blogspot.com/-HIWGUYiXSHA/WjDE1Ir1F2I/AAAAAAAAMHA/931fQoBdO08XOvt1VmkLJ37W4GcYOBCQwCLcBGAs/s1600/red%2Bvelvet.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Red%20Velvet?max-results=150"
+    ]
+  },
+  {
+    "title":"SECRET",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-6RSbJNDhhMM/WjDE172P-SI/AAAAAAAAMHI/DtYTpM8goq08gHapTH_9tcvY6CuOzxj5ACLcBGAs/s1600/secret.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/SECRET?max-results=150"
+    ]
+  },
+  {
+    "title":"SEVENTEEN",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-GESu-JWJYB4/WjDE2blKasI/AAAAAAAAMHQ/AaglEZnZH6MmFrpC6f2seqTqwVgPmn5yQCLcBGAs/s1600/seventeen.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/SEVENTEEN?max-results=150"
+    ]
+  },
+    {
+    "title":"SHINee",
+    "provider":"rss",
+    "image": "https://4.bp.blogspot.com/-gRiYppPgydw/WjDE2l8UQXI/AAAAAAAAMHU/Eoa_WpQat_wSvMFpLdJtSIcnPehNn3LlgCLcBGAs/s1600/shinee.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Shinee?max-results=150"
+    ]
+  },
+  {
+    "title":"Shinwha",
+    "provider":"rss",
+    "image":"https://1.bp.blogspot.com/-vR_YrgP1SZQ/WjDE3GQ7MrI/AAAAAAAAMHY/f12Lctt4__M-n4XzweSjBhWcMonH5DbJgCLcBGAs/s1600/shinwha.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Shinwha?max-results=150"
+    ]
+  },
+  {
+    "title":"SISTAR",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-fAcPd8fziLU/WjDE3fdr_WI/AAAAAAAAMHc/TbIQNHbCWXsS7gW--y9Q9nBybSJ5f7c3QCLcBGAs/s1600/sistar.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/SISTAR?max-results=150"
+    ]
+  },
+  {
+    "title":"Super Junior",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-Z8EdQ6rZ03A/WjDE30ubNzI/AAAAAAAAMHg/NDPSJnsBpQc36ffJNaLi1g5tDYUMceiAQCLcBGAs/s1600/super%2Bjunior.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Super%20Junior?max-results=150"
+    ]
+  },
+  {
+    "title":"T-AEA",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-sZu-bMQegpQ/WjDE3wEEcdI/AAAAAAAAMHk/6Bs7CR-YkA8LQ0SMSdnjvOCj5efHrvKuQCLcBGAs/s1600/t-ara.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/T-ARA?max-results=150"
+    ]
+  },
+    {
+    "title":"TEEN TOP",
+    "provider":"rss",
+    "image":"https://4.bp.blogspot.com/-c98yK0BJMh8/WjDE4KHwynI/AAAAAAAAMHo/O46UI8mWePsoPCKqyDTFVIXGBEl19n7_ACLcBGAs/s1600/teentop.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/TEEN%20TOP?max-results=150"
+    ]
+  },
+  {
+    "title":"TWICE",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-24inD3oJm24/WjDE4QknlqI/AAAAAAAAMHs/sV_KpRF1p8k80oTepViYPUkMCystW8pmwCLcBGAs/s1600/twice.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/TWICE?max-results=150"
+    ]
+  },
+  {
+    "title":"UP10TION",
+    "provider":"rss",
+    "image":"https://1.bp.blogspot.com/-_1nEWhSndlg/WjDE4mlKQlI/AAAAAAAAMHw/OmB2B9_LJyktm82ouJ-99gWkBXbAObFcACLcBGAs/s1600/up10tion.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/UP10TION?max-results=150"
+    ]
+  },
+      {
+    "title":"VIXX",
+    "provider":"rss",
+    "image":"https://1.bp.blogspot.com/-SXBkIAUQy-U/WjDE4h_gJeI/AAAAAAAAMH0/-m6h0MWRRNQD_wZ8vsBeVgKk8_AhlKOywCLcBGAs/s1600/vixx.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/VIXX?max-results=150"
+    ]
+  },
+  {
+    "title":"WINNER",
+    "provider":"rss",
+    "image":"https://4.bp.blogspot.com/-Odj9xGieXtc/WjDE47atxCI/AAAAAAAAMH4/sFXIgU2oZqomdMZlNGJJFq5cQdgVK8DgwCLcBGAs/s1600/winner.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/WINNER?max-results=150"
+    ]
+  },
+  {
+    "title":"Wonder Girls",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-OolHJRodUcw/WjDE47cuZYI/AAAAAAAAMH8/3i9rLYrtcFAlDsC-ufchms25QAxgfcVqgCLcBGAs/s1600/wonder%2Bgirls.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Wonder%20Girls?max-results=150"
+    ]
   }
+
 
 ]
