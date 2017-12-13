@@ -4,39 +4,39 @@
     "provider":"rss",
     "image": "https://4.bp.blogspot.com/-vA_yevdC6Qo/WjDEoZyLOWI/AAAAAAAAMEM/LPOg6wjY62IT9a2VmiPEXR-RZ3gVAjPHACLcBGAs/s1600/2ne1.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/2NE1?max-results=50"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/2NE1?max-results=150"
     ]
   },
   {
-    "title":"Inspiring Stories",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=998",
+    "title":"2PM",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-41nuxvhUpvI/WjDEovM8c7I/AAAAAAAAMEQ/0aQKnr751N8Eh29QreRNV2EW5Ltfj_7RgCLcBGAs/s1600/2pm.jpg",
     "arguments":[
-      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4", "playlist"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/2PM?max-results=150"
     ]
   },
   {
-    "title":"Look Good, Feel Good",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=856",
+    "title":"AOA",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-9osYUHXr8K8/WjDEroGuYcI/AAAAAAAAME0/bIRMHfaRmYAr-XUldTvZxjyM8_wL0awowCLcBGAs/s1600/aoa.jpg",
     "arguments":[
-      "PLrEnWoR732-ByK1fe0UAOPbvy5TF5SALg", "playlist"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/AOA?max-results=150"
     ]
   },
   {
-    "title":"Game Overload",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=96",
+    "title":"APINK",
+    "provider":"rss",
+    "image":"https://4.bp.blogspot.com/-BDubnnnK2KM/WjDErbtDM9I/AAAAAAAAMEw/_5fQEPcApLIQCYB1KnyFn77tj3itGbXjQCLcBGAs/s1600/apink.jpg",
     "arguments":[
-      "PLrEnWoR732-CFfUX4TPybGxiO7q_5OS8D", "playlist"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Apink?max-results=150"
     ]
   },
   {
-    "title":"Hot Trailers",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=967",
+    "title":"B1A4",
+    "provider":"rss",
+    "image":"https://1.bp.blogspot.com/-7128Fa83SGY/WjDErrflOSI/AAAAAAAAME4/517pHZYM3HYuOQli69eJmU-eAeSLehBAgCLcBGAs/s1600/b1a4.jpg",
     "arguments":[
-      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM", "playlist"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/B1A4?max-results=150"
     ]
   }
 
