@@ -64,14 +64,6 @@
     ]
   },
       {
-    "title":"Lee Byeon Hee",
-    "provider":"rss",
-    "image": "https://1.bp.blogspot.com/-_eHtPxGskVE/WjDEy3OWICI/AAAAAAAAMGc/CGqri0wEdr8OAGwwibgjqFZsUx68XEmEACLcBGAs/s1600/lee%2Byeon%2Bhee.jpg",
-    "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Lee%20Byeon%20Hee?max-results=150"
-    ]
-  },
-      {
     "title":"Park Hae Jin",
     "provider":"rss",
     "image": "https://3.bp.blogspot.com/-JJ6kVbTnVEg/WjDE0pplCqI/AAAAAAAAMG0/LjahlmD6c3U6dL6bi96P7jDkzCYPD4OyACLcBGAs/s1600/park%2Bhae%2Bjin.jpg",
@@ -80,11 +72,11 @@
     ]
   },
     {
-    "title":"Park Hyun Sik",
+    "title":"Park Hyung Sik",
     "provider":"rss",
     "image":"https://4.bp.blogspot.com/-2M86ztyi5cY/WjDE0zf1h9I/AAAAAAAAMG4/jyPtlyGZCJ4MnlMPS7b2DL7m4utG6jozQCLcBGAs/s1600/park%2Bhyun%2Bsik.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Park%20Hyun%20Sik?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Park%20Hyung%20Sik?max-results=150"
     ]
   },
       {
