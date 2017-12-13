@@ -127,6 +127,14 @@
       "http://kpopreplay.blogspot.com/feeds/posts/default/-/f(x)?max-results=150"
     ]
   },
+        {
+    "title":"GFRIEND",
+    "provider":"rss",
+    "image": "https://1.bp.blogspot.com/-JLFGsGglHgs/WjDEu0l3HnI/AAAAAAAAMFs/lj61wtDSE8kXlBJjcbZau-5iobeZ-mpCQCLcBGAs/s1600/gfriend.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/G-FRIEND?max-results=150"
+    ]
+  },
   {
     "title":"Girls' Generation",
     "provider":"rss",
@@ -161,11 +169,11 @@
   },
 
   {
-    "title":"Ikon",
+    "title":"iKON",
     "provider":"rss",
     "image":"https://1.bp.blogspot.com/-Spxf59rKfrs/WjDEwdr1lVI/AAAAAAAAMGE/8HF4dnDcoI4FPlFFt9XnpL8uj-eoJk-pwCLcBGAs/s1600/ikon.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/2PM?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/iKON?max-results=150"
     ]
   },
   {
@@ -173,7 +181,7 @@
     "provider":"rss",
     "image":"https://2.bp.blogspot.com/-chfRKj6Lk78/WjDEwvua5hI/AAAAAAAAMGI/3vkhXH9X3mUcDI-mxZ4nzhtvT1xjYmT8ACLcBGAs/s1600/infinite.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/AOA?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/INFINITE?max-results=150"
     ]
   },
   {
@@ -181,7 +189,7 @@
     "provider":"rss",
     "image":"https://1.bp.blogspot.com/-pd6ekPQ3WmI/WjDEza0yD8I/AAAAAAAAMGg/Uj0_psfp5CkRjTTv0WcBjab-q4x-9xzSQCLcBGAs/s1600/lovelyz.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Loveliz?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Lovelyz?max-results=150"
     ]
   },
   {
@@ -189,7 +197,7 @@
     "provider":"rss",
     "image":"https://2.bp.blogspot.com/-FR0MhUU7Ub4/WjDEzbq3coI/AAAAAAAAMGk/J2adJlOCtsEVIqrOHhwZw6O9KK2iXfJ8ACLcBGAs/s1600/mamamoo.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/MAMAMOO%20B?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/MAMAMOO?max-results=150"
     ]
   },
   {
@@ -253,15 +261,15 @@
     "provider":"rss",
     "image": "https://4.bp.blogspot.com/-gRiYppPgydw/WjDE2l8UQXI/AAAAAAAAMHU/Eoa_WpQat_wSvMFpLdJtSIcnPehNn3LlgCLcBGAs/s1600/shinee.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Shinee?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/SHINee?max-results=150"
     ]
   },
   {
-    "title":"Shinwha",
+    "title":"Shinhwa",
     "provider":"rss",
     "image":"https://1.bp.blogspot.com/-vR_YrgP1SZQ/WjDE3GQ7MrI/AAAAAAAAMHY/f12Lctt4__M-n4XzweSjBhWcMonH5DbJgCLcBGAs/s1600/shinwha.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Shinwha?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Shinhwa?max-results=150"
     ]
   },
   {
@@ -281,11 +289,11 @@
     ]
   },
   {
-    "title":"T-AEA",
+    "title":"T-ARA",
     "provider":"rss",
     "image":"https://3.bp.blogspot.com/-sZu-bMQegpQ/WjDE3wEEcdI/AAAAAAAAMHk/6Bs7CR-YkA8LQ0SMSdnjvOCj5efHrvKuQCLcBGAs/s1600/t-ara.jpg",
     "arguments":[
-      "http://kpopreplay.blogspot.com/feeds/posts/default/-/T-ARA?max-results=150"
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/T-ara?max-results=150"
     ]
   },
     {
