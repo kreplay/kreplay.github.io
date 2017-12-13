@@ -38,6 +38,46 @@
     "arguments":[
       "http://kpopreplay.blogspot.com/feeds/posts/default/-/B1A4?max-results=150"
     ]
+  },
+    {
+    "title":"BAP",
+    "provider":"rss",
+    "image": "https://1.bp.blogspot.com/-SuM6PNmaVEQ/WjDEr6SaOhI/AAAAAAAAME8/BjV8H0oBEBYrYpuqxqB-SfOztekvQeQmACLcBGAs/s1600/bap.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/BAP?max-results=150"
+    ]
+  },
+  {
+    "title":"BIG BANG",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-Og_JpenWEnA/WjDEsY5KrXI/AAAAAAAAMFE/gZiBd7sn9oURQkpqF2r45O5fie-GsgJ7gCLcBGAs/s1600/bigbang.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/BIGBANG?max-results=150"
+    ]
+  },
+  {
+    "title":"BlockB",
+    "provider":"rss",
+    "image":"https://1.bp.blogspot.com/-bj3e69P2Thc/WjDEsTCDPMI/AAAAAAAAMFI/sYj-mNynGOYXY9QNN7V2lDejxpTfwuEOQCLcBGAs/s1600/blockb.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/BlockB?max-results=150"
+    ]
+  },
+  {
+    "title":"BTOB",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-LSHqv_aqE20/WjDEswJQF3I/AAAAAAAAMFM/iHb-CUmYid8Z7AGtwjL5oSp9CojQa2-qwCLcBGAs/s1600/btob.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/BTOB?max-results=150"
+    ]
+  },
+  {
+    "title":"BTS",
+    "provider":"rss",
+    "image":"https://2.bp.blogspot.com/-HFwyekg6FaQ/WjDEs_NvFCI/AAAAAAAAMFQ/KqC7_CvTBKQ56wW4fKocNjBUuysA5mNHQCLcBGAs/s1600/bts.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/BTS?max-results=150"
+    ]
   }
 
 ]
