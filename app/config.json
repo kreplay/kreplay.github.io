@@ -16,7 +16,7 @@
         "title":"Más recientes",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?max-results=999"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?alt=rss"
         ]
       }
     ]
