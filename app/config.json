@@ -140,11 +140,18 @@
     "submenu":"Radio Area",
     "iap":false,
     "tabs":[
-      {
-        "title":"Chat",
+            {
+        "title":"Pedidos",
         "provider":"webview",
         "arguments":[
           "http://kpopreplay.chatango.com"
+                  ]
+      },
+      {
+        "title":"Chat Interactivo",
+        "provider":"webview",
+        "arguments":[
+          "http://chatwing.com/chatbox/fdc53085-f49a-467e-a00b-42f33590d2f1"
         ]
       }
     ]
