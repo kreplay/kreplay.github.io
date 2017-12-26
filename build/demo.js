@@ -49,13 +49,11 @@ $('.card-content').click(function () {
 	        mobileCare: ['ultra','900px'],
 	    
 		direct: true,
-	          artwork: false,
-	        defaultArtwork: false,
+	          defaultArtwork: ['http://i.imgur.com/Bi9sD9n.jpg'],
 
 
 
     })
 
 //})
-
 
