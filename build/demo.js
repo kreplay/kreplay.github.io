@@ -1,20 +1,4 @@
-// =============================================== //
 
-// - Remove any active classes (yellow boxes)
-
-// - Add active class to the clicked example box
-
-// - Destroy any pervious Kast
-
-// - On example box click, call Kast
-
-// =============================================== //
-
-
-
-
-
-// Handle: All Example boxes
 
 $('.card-content').click(function () {
 
@@ -54,7 +38,7 @@ $('.card-content').click(function () {
 
         continuous: false,
 
-		played: true,
+		played: false,
 
 		minimizeMaximize: true,
 
@@ -65,7 +49,7 @@ $('.card-content').click(function () {
 	        mobileCare: ['ultra','900px'],
 	    
 		direct: true,
-	          defaultArtwork: ['http://i.imgur.com/Bi9sD9n.jpg'],
+	          artwork: false,
 
 
 
