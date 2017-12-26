@@ -50,6 +50,7 @@ $('.card-content').click(function () {
 	    
 		direct: true,
 	          artwork: false,
+	        defaultArtwork: false,
 
 
 
