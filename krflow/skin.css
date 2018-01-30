@@ -633,6 +633,20 @@
               transform: scale(1); }
   .flowplayer .fp-play .fp-playbtn, .flowplayer .fp-pause .fp-playbtn, .flowplayer .fp-waiting .fp-playbtn {
     display: none; }
+.flowplayer.is-loading .fp-waiting,
+.flowplayer.is-seeking .fp-waiting {
+  display: block;
+}
+.flowplayer .fp-waiting {
+  background: url(http://play.kpopreplay.com/Drama/hearts.svg) no-repeat center center;
+  height: 100%;
+  display: none;
+  color: #fff;
+}
+.flowplayer .fp-waiting svg {
+  height: 0;
+  display: none !important;
+}
   .flowplayer .fp-play svg, .flowplayer .fp-pause svg, .flowplayer .fp-waiting svg {
     position: absolute;
     pointer-events: none;
