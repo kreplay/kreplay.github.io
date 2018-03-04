@@ -8,6 +8,7 @@
       {
         "title":"Destacadas",
         "provider":"rss",
+            "drawable":"ic_news",
         "arguments":[
           "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?max-results=50"
         ]
@@ -15,6 +16,7 @@
       {
         "title":"Más recientes",
         "provider":"rss",
+            "drawable":"ic_news",
         "arguments":[
           "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?max-results=50"
         ]
