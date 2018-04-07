@@ -144,7 +144,7 @@
         "title":"Pedidos",
         "provider":"webview",
         "arguments":[
-          "http://play.kpopreplay.com/pedidoskr.html"
+          "https://chat-kr.firebaseapp.com"
                   ]
       },
       {
