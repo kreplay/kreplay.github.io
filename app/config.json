@@ -96,7 +96,7 @@
       },
       {
         "title":"Artista",
-        "provider":"overview", "rss",
+        "provider":"rss",
         "arguments":[
           "http://kreplay.github.io/app/test.json"
         ]
