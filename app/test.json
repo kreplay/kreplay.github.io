@@ -1,0 +1,7 @@
+      {
+        "title":"Destacadas",
+        "provider":"rss",
+        "arguments":[
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?max-results=50"
+        ]
+      }
