@@ -98,7 +98,7 @@
         "title":"Artista",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/app/test.json"
+          "http://kreplay.github.io/app/artista.json"
         ]
       }
     ]
