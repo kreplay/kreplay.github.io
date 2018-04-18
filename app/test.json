@@ -1,7 +1,27 @@
-      {
+[
+            {
         "title":"Destacadas",
         "provider":"rss",
         "arguments":[
           "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?max-results=50"
         ]
-      }
+      },
+  {
+    "title":"2NE1",
+    "provider":"rss",
+    "image": "https://4.bp.blogspot.com/-vA_yevdC6Qo/WjDEoZyLOWI/AAAAAAAAMEM/LPOg6wjY62IT9a2VmiPEXR-RZ3gVAjPHACLcBGAs/s1600/2ne1.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/2NE1?max-results=150"
+    ]
+  },
+  {
+    "title":"Wonder Girls",
+    "provider":"rss",
+    "image":"https://3.bp.blogspot.com/-OolHJRodUcw/WjDE47cuZYI/AAAAAAAAMH8/3i9rLYrtcFAlDsC-ufchms25QAxgfcVqgCLcBGAs/s1600/wonder%2Bgirls.jpg",
+    "arguments":[
+      "http://kpopreplay.blogspot.com/feeds/posts/default/-/Wonder%20Girls?max-results=150"
+    ]
+  }
+
+
+]
