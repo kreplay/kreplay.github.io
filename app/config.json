@@ -31,7 +31,7 @@
         "title":"Editorial",
         "provider":"rss",
         "arguments":[
-          "http://www.kpopreplay.com/atom.xml"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Editorial?max-results=50"
         ]
       }
      ]
@@ -325,7 +325,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.sherdle.universal.SettingsFragment", "fragment"
+          "RssFragment.class", "fragment"
         ]
       }
     ]
