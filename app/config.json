@@ -52,21 +52,6 @@
      ]
     },
   {
-      "title":"Moda",
-    "drawable":"ic_vestido",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Moda",
-        "provider":"rss",
-        "arguments":[
-          "http://www.kpopreplay.com/rss.xml", 
-        ]
-      }
-     ]
-    },
-  {
     "title":"Rumores",
     "drawable":"ic_rumores1",
     "submenu":"",
