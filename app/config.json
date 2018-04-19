@@ -325,7 +325,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "RssFragment.class", "fragment"
+          "com.sherdle.universal.RssFragment.class", "fragment"
         ]
       }
     ]
