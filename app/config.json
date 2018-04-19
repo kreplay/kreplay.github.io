@@ -59,9 +59,9 @@
     "tabs":[
       {
         "title":"Moda",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "141108563", ""
+          "http://www.kpopreplay.com/rss.xml", 
         ]
       }
      ]
