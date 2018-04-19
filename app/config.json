@@ -31,7 +31,7 @@
         "title":"Editorial",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Editorial?max-results=50"
+          "http://www.kpopreplay.com/rss.xml"
         ]
       }
      ]
