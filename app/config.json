@@ -31,7 +31,7 @@
         "title":"Editorial",
         "provider":"rss",
         "arguments":[
-          "http://www.kpopreplay.com/rss.xml"
+          "http://www.kpopreplay.com/atom.xml"
         ]
       }
      ]
