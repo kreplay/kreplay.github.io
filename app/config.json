@@ -31,7 +31,7 @@
         "title":"Editorial",
         "provider":"rss",
         "arguments":[
-          "http://feeds.feedburner.com/RadioKpopReplay"
+          "http://www.kpopreplay.com/rss.xml?max-results=50"
         ]
       }
      ]
