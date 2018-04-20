@@ -9,14 +9,14 @@
         "title":"Destacadas",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?max-results=50"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Destacado?alt=rss&?max-results=50
         ]
       },
       {
         "title":"Más recientes",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?max-results=50"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?alt=rss&?max-results=50"
         ]
       }
     ]
@@ -31,7 +31,7 @@
         "title":"Editorial",
         "provider":"rss",
         "arguments":[
-          "http://www.kpopreplay.com/rss.xml?max-results=50"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Editorial?alt=rss&?max-results=50"
         ]
       }
      ]
