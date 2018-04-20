@@ -9,7 +9,7 @@
         "title":"Destacadas",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Destacado?alt=rss&max-results=50
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Destacado?alt=rss&?max-results=50"
         ]
       },
       {
