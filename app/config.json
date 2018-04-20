@@ -46,7 +46,7 @@
         "title":"Galería de fotos",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Sesión%20de%20fotos?max-results=50"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Sesión%20de%20fotos?max-results=50?alt=rss"
         ]
       }
      ]
