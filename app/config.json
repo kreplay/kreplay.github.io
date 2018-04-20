@@ -16,7 +16,7 @@
         "title":"Más recientes",
         "provider":"rss",
         "arguments":[
-          "http://www.kpopreplay.com/feeds/posts/summary?max-results=10&alt=json-in-script&callback=getRandom"
+          "https://www.blogger.com/feeds/1666022487925512423/posts/default"
         ]
       }
     ]
