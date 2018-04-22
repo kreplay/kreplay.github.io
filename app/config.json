@@ -98,7 +98,7 @@
         "title":"Dramas Online",
         "provider":"rss",
         "arguments":[
-          "http://play.kpopreplay.com/?feed=rss",
+          "http://play.kpopreplay.com/sitemap-pt-ct_channel-2018-02.xml",
           "http://kpopreplay.disqus.com/;kpopreplay;%d http://www.play.kpopreplay.com/?p=%d"
         ]
       }
