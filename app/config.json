@@ -88,7 +88,22 @@
       }
     ]
   },
-
+        {
+    "title":"Web completa",
+    "drawable":"ic_tv",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Dramas Online",
+        "provider":"wordpress",
+        "arguments":[
+          "http://play.kpopreplay.com", "", "http://kpopreplay.disqus.com/;kpopreplay;%d http:/
+/www.play.kpopreplay.com/?p=%d"
+        ]
+      }
+    ]
+  },
         {
     "title":"Web completa",
     "drawable":"ic_sitioweb",
