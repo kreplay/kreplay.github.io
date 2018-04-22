@@ -99,7 +99,7 @@
         "title":"Dramas Online",
         "provider":"rss",
         "arguments":[
-          "www.play.kpopreplay.com/feed"
+          "http://www.play.kpopreplay.com/?feed=rss"
         ]
       }
     ]
