@@ -61,7 +61,8 @@
         "title":"Rumores",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumor?max-results=50"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumor?max-results=50",
+          "http://kpopreplay.disqus.com/;kpopreplay;%d http://www.play.kpopreplay.com/?p=%d"
         ]
       }
      ]
@@ -96,7 +97,7 @@
     "tabs":[
       {
         "title":"Dramas Online",
-        "provider":"rss",
+        "provider":"wordpress",
         "arguments":[
           "http://play.kpopreplay.com/wp-json/wp/v2/posts",
           "http://kpopreplay.disqus.com/;kpopreplay;%d http://www.play.kpopreplay.com/?p=%d"
