@@ -97,9 +97,9 @@
     "tabs":[
       {
         "title":"Dramas Online",
-        "provider":"rss",
+        "provider":"webview",
         "arguments":[
-          "http://www.play.kpopreplay.com/?feed=atom"
+          "http://play.kpopreplay.com/dramas/"
         ]
       }
     ]
