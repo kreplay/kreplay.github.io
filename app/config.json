@@ -97,9 +97,9 @@
     "tabs":[
       {
         "title":"Dramas Online",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "http://play.kpopreplay.com"
+          "www.play.kpopreplay.com/?feed=rss2"
         ]
       }
     ]
