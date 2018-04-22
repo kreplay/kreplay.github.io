@@ -89,7 +89,7 @@
     ]
   },
         {
-    "title":"Web completa",
+    "title":"Dramas Online",
     "drawable":"ic_tv",
     "submenu":"",
     "iap":false,
@@ -98,8 +98,9 @@
         "title":"Dramas Online",
         "provider":"wordpress",
         "arguments":[
-          "http://play.kpopreplay.com", "", "http://kpopreplay.disqus.com/;kpopreplay;%d http:/
-/www.play.kpopreplay.com/?p=%d"
+          "http://androidpolice.com",
+          "",
+          "http://androidpolice.disqus.com/;androidpolice;%d http://www.androidpolice.com/?p=%d"
         ]
       }
     ]
