@@ -98,9 +98,9 @@
         "title":"Dramas Online",
         "provider":"wordpress",
         "arguments":[
-          "http://androidpolice.com",
+          "http://play.kpopreplay.com",
           "",
-          "http://androidpolice.disqus.com/;androidpolice;%d http://www.androidpolice.com/?p=%d"
+          "http://kpopreplay.disqus.com/;kpopreplay;%d http://www.play.kpopreplay.com/?p=%d"
         ]
       }
     ]
