@@ -99,7 +99,7 @@
         "title":"Dramas Online",
         "provider":"wordpress",
         "arguments":[
-          "http://play.kpopreplay.com/wp-json/wp/v2/posts",
+          "play.kpopreplay.com",
           "http://kpopreplay.disqus.com/;kpopreplay;%d http://www.play.kpopreplay.com/?p=%d"
         ]
       }
