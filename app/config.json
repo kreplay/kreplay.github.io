@@ -21,6 +21,21 @@
       }
     ]
   },
+        {
+    "title":"Billboard Music Awards en vivo",
+    "drawable":"ic_tv",
+    "submenu":"Streams TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"BTS en BBMA",
+        "provider":"stream",
+        "arguments":[
+          "http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8"
+        ]
+      }
+    ]
+  },
     {
     "title":"Editorial",
     "drawable":"ic_notas",
