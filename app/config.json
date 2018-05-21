@@ -24,7 +24,7 @@
         {
     "title":"Billboard Music Awards en vivo",
     "drawable":"ic_tv",
-    "submenu":"Streams TV",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
