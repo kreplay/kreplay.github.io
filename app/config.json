@@ -9,7 +9,7 @@
         "title":"Inicio",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?max-results=50"
         ]
       },
       {
