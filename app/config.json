@@ -21,21 +21,6 @@
       }
     ]
   },
-        {
-    "title":"Billboard Music Awards en vivo",
-    "drawable":"ic_tv",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"BTS en BBMA",
-        "provider":"stream",
-        "arguments":[
-          "http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8"
-        ]
-      }
-    ]
-  },
     {
     "title":"Editorial",
     "drawable":"ic_notas",
@@ -159,14 +144,14 @@
         "title":"Pedidos",
         "provider":"webview",
         "arguments":[
-          "http://play.kpopreplay.com/pedidoskr.html"
+          "https://titanembeds.com/embed/448268570309296130?defaultchannel=448284834180366346&theme=DiscordDark"
                   ]
       },
       {
         "title":"Chat Interactivo",
         "provider":"webview",
         "arguments":[
-          "http://kpopreplay.chatango.com"
+          "https://titanembeds.com/embed/448268570309296130?defaultchannel=448268570309296133&theme=DiscordDark"
         ]
       }
     ]
