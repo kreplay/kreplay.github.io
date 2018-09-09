@@ -197,7 +197,7 @@
         "title":"JTBC",
         "provider":"stream",
         "arguments":[
-          "http://198.144.156.92:9083/live/CA42-live1/Uy/sp/UyspnVBZMegi0Y4548c-oQ==/live.m3u8"
+          "https://content3.viki.io/1088591v/dash/mpd_mob_high_09b8b5_1710171717.mpd"
         ]
       }
     ]
