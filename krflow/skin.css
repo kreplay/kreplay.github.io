@@ -638,10 +638,10 @@
   display: block;
 }
 .flowplayer .fp-waiting {
-  background: url(http://play.kpopreplay.com/Drama/hearts.svg) no-repeat center center;
+  background: url(//play.kpopreplay.com/Drama/loader15.svg) no-repeat center center;
   height: 100%;
   display: none;
-  color: #fff;
+  color: #ff1604;
 }
 .flowplayer .fp-waiting svg {
   height: 0;
