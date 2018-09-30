@@ -307,9 +307,9 @@
     "tabs":[
       {
         "title":"Facebook",
-        "provider":"facebook",
+        "provider":"wordpress",
         "arguments":[
-          "https://www.facebook.com/KpopReplayRadio/"
+          "https://play.kpopreplay.com/wp-json/wp/v2/posts"
         ]
       }
     ]
