@@ -309,7 +309,7 @@
         "title":"Facebook",
         "provider":"wordpress",
         "arguments":[
-          "https://play.kpopreplay.com/wp-json/wp/v2/posts"
+          "http://play.kpopreplay.com", "Feed"
         ]
       }
     ]
