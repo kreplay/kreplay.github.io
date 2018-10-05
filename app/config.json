@@ -131,6 +131,12 @@
         "arguments":[
           "http://rosetta.shoutca.st:8325"
         ]
+      {
+        "title":"Últimas canciones",
+        "provider":"rss",
+        "arguments":[
+          "https://rosetta.shoutca.st/recentfeed/kpopreplay/rss/"
+        ]
       }
     ]
   },
