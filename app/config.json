@@ -131,7 +131,7 @@
         "arguments":[
           "http://rosetta.shoutca.st:8325"
         ]
-      {
+      },
         "title":"Últimas canciones",
         "provider":"rss",
         "arguments":[
