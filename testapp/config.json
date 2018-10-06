@@ -78,7 +78,7 @@
         "title":"Feed",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/atom.xml"
+          "https://kpopreplay.blogspot.com/atom.xml"
         ]
       },
       {
