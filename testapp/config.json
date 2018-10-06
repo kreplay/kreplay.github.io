@@ -48,7 +48,7 @@
         "title":"Radio 3FM",
         "provider":"radio",
         "arguments":[
-          "http://rosetta.shoutca.st/tunein/kpopreplay.pls"
+          "http://rosetta.shoutca.st:8325"
         ]
       }
     ]
