@@ -9,7 +9,7 @@
         "title":"Recent",
         "provider":"wordpress",
         "arguments":[
-          "en.blog.wordpress.com"
+          "play.kpopreplay.com"
         ]
       },
       {
@@ -48,7 +48,7 @@
         "title":"Radio 3FM",
         "provider":"radio",
         "arguments":[
-          "http://rosetta.shoutca.st:8325/stream"
+          "http://rosetta.shoutca.st:8325/"
         ]
       }
     ]
@@ -78,7 +78,7 @@
         "title":"Feed",
         "provider":"rss",
         "arguments":[
-          "https://kpopreplay.blogspot.com/atom.xml"
+          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Destacado?alt=rss&?max-results=50"
         ]
       },
       {
