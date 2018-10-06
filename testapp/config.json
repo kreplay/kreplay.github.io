@@ -48,7 +48,7 @@
         "title":"Radio 3FM",
         "provider":"radio",
         "arguments":[
-          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1586567"
+          "http://rosetta.shoutca.st:8325/listen.pls"
         ]
       }
     ]
@@ -78,7 +78,7 @@
         "title":"Feed",
         "provider":"rss",
         "arguments":[
-          "http://feeds.feedburner.com/RadioKpopReplay"
+          "https://kpopreplay.blogspot.com/atom.xml"
         ]
       },
       {
