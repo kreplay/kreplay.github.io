@@ -14,10 +14,9 @@
       },
       {
         "title":"Themes",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "en.blog.wordpress.com",
-          "themes"
+          "http://feeds.feedburner.com/RadioKpopReplay"
         ]
       },
       {
