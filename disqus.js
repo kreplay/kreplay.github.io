@@ -1,31 +1,11 @@
-				var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
-						if (!disqus_blogger_current_url.length) {
-							disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
-						}
-						var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
-						var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
-						//<![CDATA[
-						var disqus_shortname = 'kpopreplay';// disqus custom shortname for moderation
-						var disqus_url = disqus_blogger_current_url;
+var disqus_config = function () {
+this.page.url = https://www.kpopreplay.com;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = kpopreplay; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
 
-						(function () {
-							"use strict";
-							var get_comment_block = function () {
-								var block = document.getElementById('disqus-comments-holder');
-								
-								return block;
-							};
-							var comment_block = get_comment_block();
-							if (!!comment_block) {
-								var disqus_div = document.createElement('div');
-								disqus_div.id = 'disqus_thread';
-								comment_block.innerHTML = '';
-								comment_block.appendChild(disqus_div);
-								comment_block.style.display = 'block';
-								var dsq = document.createElement('script');
-								dsq.async = true;
-								dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-								(document.getElementsByTagName('head')[0] || document.body).appendChild(dsq);
-							}
-						})();
-						//]]>
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://kpopreplay.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
