@@ -2,64 +2,41 @@
   {
     "title":"",
     "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
+    "image": "https://3.bp.blogspot.com/-cfjVLrttpfQ/W7rUIeczWaI/AAAAAAAAQmI/glqmuUS1b3MRYt0tZ5I_ak54BO1LO2UlACLcBGAs/s1600/ACSNETWORL.jpg",
     "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index.m3u8"
+      "https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
+    "image":"https://1.bp.blogspot.com/-wDdgqSN30zs/W7rUJQ7Ej2I/AAAAAAAAQmc/D2fEaYnwyGUf3dV_KlSYEAlDKsECCp-kACLcBGAs/s1600/boing.jpg",
     "arguments":[
-      "http://live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8"
+      "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/aF6ebLc.jpg",
-    "arguments":[
-      "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/8okyBwU.jpg",
-    "arguments":[
-      "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/V8NxK1J.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
-    ]
-  },      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
+    "image":"https://1.bp.blogspot.com/-9yBibgHRb_s/W7rUJ7tZkEI/AAAAAAAAQmk/CCH6LdX8qtwW8-vmsNviGOcJASPeEvwiwCLcBGAs/s1600/loco%2Bmotion.jpg",
     "arguments":[
       "http://locomotiontv.com/envivo/loco_channel/stream.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-x__k2M7ra_g/W7rUIa6HppI/AAAAAAAAQmM/s29Pl3XEYvIYyI2D5U3JolTvJ5JHeEWDACLcBGAs/s1600/MAXIMA%2BTV.jpg",
+    "arguments":[
+      "http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"#TV Pop",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8"
     ]
   }
 
