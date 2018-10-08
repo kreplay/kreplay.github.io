@@ -6,7 +6,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"General",
+        "title":"Públicos",
         "provider":"overview",
         "arguments":[
           "https://kreplay.github.io/CTVO/todos.json"
@@ -30,7 +30,7 @@
     ]
   },   
         {
-    "title":"Infantil / Animación",
+    "title":"Infantiles / Películas",
     "drawable":"",
     "submenu":"",
     "iap":false,
