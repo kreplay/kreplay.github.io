@@ -54,13 +54,6 @@
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
     ]
-  },      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
-    "arguments":[
-      "http://locomotiontv.com/envivo/loco_channel/stream.m3u8"
-    ]
   }
 
 ]
