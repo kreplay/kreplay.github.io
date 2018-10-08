@@ -142,7 +142,7 @@
     ]
   },
   {
-    "title":"Chat & Pedidos",
+    "title":"Chat",
     "drawable":"ic_chats",
     "submenu":"Radio Area",
     "iap":false,
