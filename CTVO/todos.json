@@ -18,14 +18,6 @@
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/aF6ebLc.jpg",
-    "arguments":[
-      "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
     "image":"https://i.imgur.com/8okyBwU.jpg",
     "arguments":[
       "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
