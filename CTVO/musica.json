@@ -2,64 +2,33 @@
   {
     "title":"",
     "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
+    "image": "https://2.bp.blogspot.com/-7HfZu7q_ti0/W7rUKOqg8kI/AAAAAAAAQmo/NdKH9f1AON8Q18G0e76VCx9JGZK91bjrwCLcBGAs/s1600/music%2Btop.jpg",
     "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index.m3u8"
+      "http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
+    "image":"https://4.bp.blogspot.com/-s_kT8YgyxHE/W7rUIo3T4UI/AAAAAAAAQmQ/MNIB61S2iREDx1ybpSX1f6_Ui_BpJDZfACLcBGAs/s1600/MUSIC%2Bchannel.jpg",
     "arguments":[
-      "http://live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8"
+      "http://stream.1music.hu/stream/1music.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/aF6ebLc.jpg",
+    "image":"https://4.bp.blogspot.com/-g0Bii5gf7YE/W7rUI3Wbx2I/AAAAAAAAQmU/SgFD4LXinY0vgrkXdW8mUDS868qyGEMeQCLcBGAs/s1600/NRJ%2BHITS.jpg",
     "arguments":[
-      "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8"
+      "http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://i.imgur.com/8okyBwU.jpg",
+    "image":"https://3.bp.blogspot.com/-x1YuYjZfzio/W7rUKkx2woI/AAAAAAAAQms/ZoZWispawF0yYbVvPlYgWQux9bxic38VgCLcBGAs/s1600/retro.jpg",
     "arguments":[
       "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/V8NxK1J.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
-    ]
-  },      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
-    "arguments":[
-      "http://locomotiontv.com/envivo/loco_channel/stream.m3u8"
     ]
   }
 
