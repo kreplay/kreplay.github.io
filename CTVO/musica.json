@@ -28,7 +28,7 @@
     "provider":"stream",
     "image":"https://3.bp.blogspot.com/-x1YuYjZfzio/W7rUKkx2woI/AAAAAAAAQms/ZoZWispawF0yYbVvPlYgWQux9bxic38VgCLcBGAs/s1600/retro.jpg",
     "arguments":[
-      "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
+      "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
     ]
   }
 
