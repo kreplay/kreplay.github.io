@@ -16,7 +16,7 @@
         "title":"Themes",
         "provider":"rss",
         "arguments":[
-          "http://feeds.feedburner.com/RadioKpopReplay"
+          "http://www.reddit.com/r/gifs/.rss"
         ]
       },
       {
