@@ -2,22 +2,6 @@
   {
     "title":"",
     "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
-    "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
-    "arguments":[
-      "http://live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
     "image":"https://imgur.com/aF6ebLc.jpg",
     "arguments":[
       "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8"
@@ -26,41 +10,9 @@
   {
     "title":"",
     "provider":"stream",
-    "image":"https://i.imgur.com/8okyBwU.jpg",
+    "image":"https://4.bp.blogspot.com/-5kqOeRPnzp0/W7rUJYt4aLI/AAAAAAAAQmY/iCowv0e5ugA4EK5k7Cy1aTt-Mik0gpOKwCLcBGAs/s1600/ahora%2Bnoticias.jpg",
     "arguments":[
-      "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/V8NxK1J.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
-    ]
-  },      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
-    "arguments":[
-      "http://locomotiontv.com/envivo/loco_channel/stream.m3u8"
+      "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u88"
     ]
   }
-
 ]
