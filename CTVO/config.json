@@ -6,29 +6,22 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Últimas Noticias",
-        "provider":"rss",
+        "title":"General",
+        "provider":"overview",
         "arguments":[
-          "http://www.rssmix.com/u/8266775/rss.xml"
+          "http://kreplay.github.io/deliapp/linapp/canacional.json"
         ]
-      },
-              {
-        "title":"Últimas Emergencias",
-        "provider":"facebook",
-        "arguments":[
-          "162269337155948"
-        ]
-      } 
+      }
     ]
   },
        {
-    "title":"Más Noticias",
+    "title":"Noticias",
     "drawable":"ic_inicio",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Últimas emergencias",
+        "title":"Noticias",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/medios.json"
@@ -37,8 +30,8 @@
     ]
   },   
         {
-    "title":"Radio Online",
-    "drawable":"ic_musica",
+    "title":"Infantil / Animación",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -52,23 +45,16 @@
     ]
   },
     {
-    "title":"TV Online",
+    "title":"Música",
     "drawable":"ic_tv",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Nacional",
+        "title":"Música",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/canacional.json"
-        ]
-      },
-      {
-        "title":"Regional",
-        "provider":"overview",
-        "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/caregional.json"
         ]
       }
     ]
