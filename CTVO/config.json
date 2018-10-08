@@ -1,7 +1,7 @@
 [
   {
     "title":"Inicio",
-    "drawable":"ic_noticias",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -9,14 +9,14 @@
         "title":"General",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/canacional.json"
+          "https://kreplay.github.io/CTVO/todos.json"
         ]
       }
     ]
   },
        {
     "title":"Noticias",
-    "drawable":"ic_inicio",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -24,7 +24,7 @@
         "title":"Noticias",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/medios.json"
+          "https://kreplay.github.io/CTVO/noticias.json"
         ]
       }
     ]
@@ -36,17 +36,17 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Radio Online",
+        "title":"Infantiles",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/radios.json"
+          "https://kreplay.github.io/CTVO/animacion.json"
         ]
       }
     ]
   },
     {
     "title":"Música",
-    "drawable":"ic_tv",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -54,7 +54,7 @@
         "title":"Música",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/canacional.json"
+          "https://kreplay.github.io/CTVO/musica.json"
         ]
       }
     ]
