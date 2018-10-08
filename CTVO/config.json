@@ -1,6 +1,6 @@
 [
   {
-    "title":"Inicio",
+    "title":"Públicos",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -36,7 +36,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Infantiles",
+        "title":"Infantiles / Películas",
         "provider":"overview",
         "arguments":[
           "https://kreplay.github.io/CTVO/animacion.json"
