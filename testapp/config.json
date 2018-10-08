@@ -29,9 +29,9 @@
       },
       {
         "title":"Events",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "en.blog.wordpress.com",
+          "http://www.reddit.com/r/gifs/.rss",
           "events"
         ]
       }
@@ -225,10 +225,9 @@
     "tabs":[
       {
         "title":"Youtube Live",
-        "provider":"youtube",
+        "provider":"rss",
         "arguments":[
-          "UCoMdktPbSTixAyNGwb-UYkQ",
-          "live"
+          "http://www.reddit.com/r/gifs/.rss"
         ]
       },
       {
