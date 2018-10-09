@@ -322,9 +322,9 @@
     "tabs":[
       {
         "title":"Pinterest",
-        "provider":"pinterest",
+        "provider":"rss",
         "arguments":[
-          "kpopreplay"
+          "https://www.antronio.cl/forums/-/index.rss"
         ]
       }
     ]
