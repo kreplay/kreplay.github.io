@@ -16,7 +16,7 @@
         "title":"Themes",
         "provider":"rss",
         "arguments":[
-          "http://www.reddit.com/r/gifs/.rss"
+          "https://www.linaresenlinea.cl/wp-json/wp/v2/posts"
         ]
       },
       {
@@ -29,10 +29,9 @@
       },
       {
         "title":"Events",
-        "provider":"rss",
+        "provider":"wordpress",
         "arguments":[
-          "http://www.reddit.com/r/gifs/.rss",
-          "events"
+          "https://www.linaresenlinea.cl/wp-json/wp/v2/"
         ]
       }
     ]
