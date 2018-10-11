@@ -104,16 +104,16 @@
     ]
   },
   {
-    "title":"Orders",
+    "title":"Tumblr",
     "drawable":"",
     "submenu":"WooCommerce",
     "iap":false,
     "tabs":[
       {
-        "title":"Orders",
-        "provider":"woocommerce",
+        "title":"Tumblr",
+        "provider":"tumblr",
         "arguments":[
-          "orders"
+          "kwallpapers"
         ]
       }
     ]
