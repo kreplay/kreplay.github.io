@@ -307,9 +307,9 @@
     "tabs":[
       {
         "title":"Facebook",
-        "provider":"wordpress",
+        "provider":"facebook",
         "arguments":[
-          "https://play.kpopreplay.com/wp-json/wp/v2/posts"
+          "399469113543937"
         ]
       }
     ]
