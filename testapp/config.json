@@ -7,9 +7,9 @@
     "tabs":[
       {
         "title":"Recent",
-        "provider":"wordpress",
+        "provider":"webview",
         "arguments":[
-          "play.kpopreplay.com"
+          "https:/pandrama.com"
         ]
       },
       {
