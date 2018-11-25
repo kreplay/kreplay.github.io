@@ -46,6 +46,14 @@
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
     ]
+  },
+     {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-OE7tuCKdsNA/W_mdh17GhBI/AAAAAAAARdk/tetl2Daf4KMOl7siBIV-SDX0_HkkXiRYQCLcBGAs/s320/ucvbanner.jpg",
+    "arguments":[
+      "http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    ]
   }
 
 ]
