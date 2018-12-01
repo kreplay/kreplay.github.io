@@ -638,7 +638,7 @@
   display: block;
 }
 .flowplayer .fp-waiting {
-  background: url(https://play.kpopreplay.com/Drama/eclipse.svg) no-repeat center center;
+  background: url(https://pandrama.com/Drama/eclipse.svg) no-repeat center center;
   height: 100%;
   display: none;
   color: #ff1604;
@@ -1008,7 +1008,7 @@
   .flowplayer.fp-outlined .fp-nextbtn:before, .flowplayer.fp-minimal .fp-nextbtn:before {
     content: "\e212"; }
   .flowplayer .fp-color {
-    background-color: #e20808;
+    background-color: #737af2;
     fill: rgba(0, 0, 0, 0.2); }
   .flowplayer .fp-color-play {
     fill: transparent; }
