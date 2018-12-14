@@ -31,6 +31,14 @@
       "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
     ]
   },
+    {
+    "title":"",
+    "provider":"stream",
+    "image":"https://3.bp.blogspot.com/-JTxmog-jOu8/XBNeZs7ggaI/AAAAAAAAR5U/amC4IUax27Ic4-ukbzh581bTB5NgP_6SQCLcBGAs/s1600/id.jpg",
+    "arguments":[
+      "http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758466&f=.m3u8$OPT:network-caching=1000"
+    ]
+  },
   {
     "title":"",
     "provider":"stream",
