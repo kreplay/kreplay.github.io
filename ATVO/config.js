@@ -1,91 +1,77 @@
 [
   {
-    "title":"",
-    "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
-    "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index_3.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image": "https://3.bp.blogspot.com/-gYIHl-Q-vtU/XBNbsgPy5qI/AAAAAAAAR5E/sCZ3_i1cdOMxyRfCZ29Ck31vKR4BmWSdgCLcBGAs/s1600/cn.jpg",
-    "arguments":[
-      "http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762241&f=.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
-    "arguments":[
-      "http://live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/8okyBwU.jpg",
-    "arguments":[
-      "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-JTxmog-jOu8/XBNeZs7ggaI/AAAAAAAAR5U/amC4IUax27Ic4-ukbzh581bTB5NgP_6SQCLcBGAs/s1600/id.jpg",
-    "arguments":[
-      "http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758466&f=.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/V8NxK1J.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
-    ]
-  },
+    "title":"Públicos Nacionales",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
       {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
-    "arguments":[
-      "http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8"
+        "title":"Públicos Nacionales",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/todos.json"
+        ]
+      }
     ]
   },
+       {
+    "title":"Noticias",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
       {
-    "title":"",
-    "provider":"stream",
-    "image":"https://4.bp.blogspot.com/-XJAoVzYux-Q/XBhcBD9GJuI/AAAAAAAAR8Y/Zc9oHKlHpKQIT_N7VrMrmV3Z4xAhyfj3QCLcBGAs/s1600/TVN%2BDE%2BCULTO.png",
-    "arguments":[
-      "http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/59283217415649134b4d2241/playout/index-f2-v1-a1.m3u8"
+        "title":"Noticias",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/noticias.json"
+        ]
+      }
     ]
-  },
+  },   
         {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-4AwMJn2t2n4/XBhcB2pNFMI/AAAAAAAAR8k/qGeil_P3gQoQRQuJp04NyCSUj6lUhuyswCLcBGAs/s1600/tvn%2Bmusica.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8"
+    "title":"Infantiles / Películas",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Infantiles / Películas",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/animacion.json"
+        ]
+      }
     ]
   },
-     {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-OE7tuCKdsNA/W_mdh17GhBI/AAAAAAAARdk/tetl2Daf4KMOl7siBIV-SDX0_HkkXiRYQCLcBGAs/s320/ucvbanner.jpg",
-    "arguments":[
-      "http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    {
+    "title":"Música",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Música",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/musica.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Configuraciones",
+    "drawable":"ic_settings",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
     ]
   }
-
 ]
