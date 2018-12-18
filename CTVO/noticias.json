@@ -2,6 +2,14 @@
   {
     "title":"",
     "provider":"stream",
+    "image":"https://4.bp.blogspot.com/-_1rpTRkZepc/XBhcBGeV-qI/AAAAAAAAR8c/MCX08RYI93IRx3IqQkDvPbCJbsG_WoHtQCLcBGAs/s1600/24hrs.jpg",
+    "arguments":[
+      "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"stream",
     "image":"https://imgur.com/aF6ebLc.jpg",
     "arguments":[
       "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8"
