@@ -1,0 +1,77 @@
+[
+  {
+    "title":"Públicos Nacionales",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Públicos Nacionales",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/todos.json"
+        ]
+      }
+    ]
+  },
+       {
+    "title":"Noticias",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Noticias",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/noticias.json"
+        ]
+      }
+    ]
+  },   
+        {
+    "title":"Infantiles / Películas",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Infantiles / Películas",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/animacion.json"
+        ]
+      }
+    ]
+  },
+    {
+    "title":"Música",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Música",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/musica.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Configuraciones",
+    "drawable":"ic_settings",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
