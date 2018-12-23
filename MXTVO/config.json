@@ -9,7 +9,7 @@
         "title":"Públicos Nacionales",
         "provider":"overview",
         "arguments":[
-          "https://kreplay.github.io/CTVO/todos.json"
+          "https://kreplay.github.io/MXTVO/canales.json"
         ]
       }
     ]
