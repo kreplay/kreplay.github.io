@@ -4,15 +4,15 @@
     "provider":"stream",
     "image": "https://4.bp.blogspot.com/-npyVuB9UO8M/XB_x46OUuoI/AAAAAAAAR_k/eAvMH4YQQDEEiFDxvSBxl-wI3AqfW1ptwCLcBGAs/s1600/azteca%2Buno.png",
     "arguments":[
-      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8"
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
+    "image":"https://4.bp.blogspot.com/-7vWhP49dPuU/XB_x4fTjBZI/AAAAAAAAR_g/P7p4YvMVa9glC-f9CG9FkFcdesgaBngagCLcBGAs/s1600/azteca%2B7.png",
     "arguments":[
-      "http://live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8"
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8"
     ]
   },
   {
