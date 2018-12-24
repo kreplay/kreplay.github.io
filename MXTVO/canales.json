@@ -36,7 +36,7 @@
     "provider":"stream",
     "image":"https://2.bp.blogspot.com/--GmFiG6Ioaw/XB_x5NTQgbI/AAAAAAAAR_o/rcdfm3qmo9EUNmh1FNR_fWFQhj5ifH_TQCLcBGAs/s1600/canal%2B11.png",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
+      "http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8"
     ]
   },
       {
@@ -58,7 +58,7 @@
         {
     "title":"",
     "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-_8C9WP8zoJ4/XB_x4OM1uGI/AAAAAAAAR_Y/ce22hFy2WsQihd_eDoSL_XmR2xWNZe5FQCLcBGAs/s1600/40%2Bazteca.png",
+    "image":"https://2.bp.blogspot.com/-uS66iADIBN4/XB_x4bt2eEI/AAAAAAAAR_c/KNy6vpLiA3Y6P7VExQTxh7Rspa1egZ0fwCLcBGAs/s1600/azteca%2Bcorazon.png",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8"
     ]
