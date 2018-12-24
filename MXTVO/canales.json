@@ -12,7 +12,7 @@
     "provider":"stream",
     "image":"https://4.bp.blogspot.com/-7vWhP49dPuU/XB_x4fTjBZI/AAAAAAAAR_g/P7p4YvMVa9glC-f9CG9FkFcdesgaBngagCLcBGAs/s1600/azteca%2B7.png",
     "arguments":[
-      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8"
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "provider":"stream",
     "image":"https://3.bp.blogspot.com/--tqAi0GFiA8/XB_x5FIVDsI/AAAAAAAAR_s/Sxg9NgPKuBULdLHIjRnppiyll6DSU9DRwCLcBGAs/s1600/canal%2B5.png",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8"
     ]
   },
     {
@@ -52,7 +52,7 @@
     "provider":"stream",
     "image":"https://3.bp.blogspot.com/-agFiWtI-cyY/XB_x5g6PO8I/AAAAAAAAR_0/_HohJkMcQA4kA0hWZgZREEW-Bt78-BxUQCLcBGAs/s1600/mexiquenses.png",
     "arguments":[
-      "http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/59283217415649134b4d2241/playout/index-f2-v1-a1.m3u8"
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8"
     ]
   },
         {
@@ -60,7 +60,7 @@
     "provider":"stream",
     "image":"https://2.bp.blogspot.com/-uS66iADIBN4/XB_x4bt2eEI/AAAAAAAAR_c/KNy6vpLiA3Y6P7VExQTxh7Rspa1egZ0fwCLcBGAs/s1600/azteca%2Bcorazon.png",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8"
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE03.m3u8"
     ]
   }
 
