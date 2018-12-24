@@ -76,7 +76,7 @@
     "provider":"overview",
     "image":"",
     "arguments":[
-      "https://kreplay.github.io/CTVO/config.json"
+      "https://kreplay.github.io/CTVO/cabl.json"
     ]
   }
 
