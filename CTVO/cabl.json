@@ -1,1 +1,19 @@
+[
+  {
+    "title":"",
+    "provider":"stream",
+    "image": "https://2.bp.blogspot.com/-1F_LYb1XxwY/XCCJ_MaYolI/AAAAAAAASAU/1MKIJcUkONIm5jyWHE0jSF38wqjUM3rFACLcBGAs/s1600/cn.jpg",
+    "arguments":[
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://2.bp.blogspot.com/-2cfgYiGt6zg/XCCKCgRuGYI/AAAAAAAASAc/-ed-l1-0XfoszaafIJH1f3KNyUIslVzCgCLcBGAs/s1600/id.jpg",
+    "arguments":[
+      "http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8"
+    ]
+  }
 
+]
