@@ -13,22 +13,7 @@
         ]
       }
     ]
-  },
-       {
-    "title":"Noticias",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Noticias",
-        "provider":"overview",
-        "arguments":[
-          "https://kreplay.github.io/CTVO/noticias.json"
-        ]
-      }
-    ]
-  },   
+  }, 
         {
     "title":"Infantiles / Películas",
     "drawable":"",
