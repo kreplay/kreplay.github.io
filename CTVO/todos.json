@@ -4,7 +4,7 @@
     "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "https://5b799b7429657.streamlock.net/13/13.smil/chunklist_w1148781449_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU0NjEyNzE2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE1NDU5MTExNjAmd293emF0b2tlbmhhc2g9Zm1kMkh0UW1zTk1Pa29SbXVhV0xnU2k5cy16a3QxYUJpcjBLV1RJU2lLMD0=.m3u8"
+      "http://c13-live-1.cdn.nedmedia.io/index_1.m3u8"
     ]
   },
   {
