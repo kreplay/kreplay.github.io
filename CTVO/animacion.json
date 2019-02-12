@@ -36,7 +36,7 @@
     "provider":"stream",
     "image":"",
     "arguments":[
-      "http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8"
+      "http://220.125.160.36:9981/stream/channelid/410857165?ticket=B31EE92E86996E55B6F1B822C62FE8FDEE3834F6&profile=pass"
     ]
   }
 
