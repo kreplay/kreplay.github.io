@@ -2,41 +2,41 @@
   {
     "title":"",
     "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
+    "image": "https://3.bp.blogspot.com/-u2lbkf-1OyA/XGO0o4Qtq8I/AAAAAAAASiE/ON4U9HOGEQcRRlVSc06T_3ZIJcgXX09xQCLcBGAs/s1600/26.png",
     "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index_4.m3u8"
+      "http://200.115.193.177/live/26hd-480/.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
+    "image":"https://3.bp.blogspot.com/-yCBh9jHszxU/XGO0o-LwHjI/AAAAAAAASh8/0NKbj8DddOwFWyvuuHxKPBYfaYDUt-rPACLcBGAs/s1600/america%2Btv.png",
     "arguments":[
-      "http://live.hls.http.chv.ztreaming.com/desktop/chvmid.m3u8"
+      "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://i.imgur.com/8okyBwU.jpg",
+    "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
+      "http://infinity.ddns.me:25461/enrique/enrique/7918"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/V8NxK1J.jpg",
+    "image":"https://1.bp.blogspot.com/-fkOR6BBVy8k/XGO0tW2y2iI/AAAAAAAASi0/xqYjks9Hwg4djMLQdSeLG4DdfjNQqj9WwCLcBGAs/s1600/tyc%2Bsports.png",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
+      "http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8"
     ]
   },
     {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
+    "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
+      "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b_720/index.m3u8"
     ]
   },
       {
