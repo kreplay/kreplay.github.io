@@ -31,14 +31,6 @@
       "http://infinity.ddns.me:25461/enrique/enrique/7918"
     ]
   },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-fkOR6BBVy8k/XGO0tW2y2iI/AAAAAAAASi0/xqYjks9Hwg4djMLQdSeLG4DdfjNQqj9WwCLcBGAs/s1600/tyc%2Bsports.png",
-    "arguments":[
-      "http://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_3_av-p.m3u8"
-    ]
-  },
     {
     "title":"",
     "provider":"stream",
@@ -53,14 +45,6 @@
     "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
     "arguments":[
       "http://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_3_av-p.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://4.bp.blogspot.com/-XJAoVzYux-Q/XBhcBD9GJuI/AAAAAAAAR8Y/Zc9oHKlHpKQIT_N7VrMrmV3Z4xAhyfj3QCLcBGAs/s1600/TVN%2BDE%2BCULTO.png",
-    "arguments":[
-      "http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/59283217415649134b4d2241/playout/index-f2-v1-a1.m3u8"
     ]
   }
 ]
