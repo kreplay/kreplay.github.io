@@ -21,7 +21,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Noticias",
+        "title":"Deportes",
         "provider":"overview",
         "arguments":[
           "https://kreplay.github.io/CTVO/deporte.json"
