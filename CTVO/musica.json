@@ -71,6 +71,22 @@
       "http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8"
     ]
   },
+              {
+    "title":"Pandero Music CL",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://190.107.176.55:1935/panderocl/stream/playlist.m3u8"
+    ]
+  },
+              {
+    "title":"Pandero Music Top",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8"
+    ]
+  },
         {
     "title":"Portal Fox Mix",
     "provider":"stream",
