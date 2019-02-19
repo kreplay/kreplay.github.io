@@ -32,11 +32,11 @@
     ]
   },
   {
-    "title":"ESPN2",
+    "title":"Real Madrid TV",
     "provider":"stream",
     "image":"",
     "arguments":[
-      "http://tvg.nibbletv.info/CH/O9V0aTvvPKk/ESPN-2.m3u8"
+      "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8"
     ]
   }
 
