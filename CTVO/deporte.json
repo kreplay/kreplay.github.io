@@ -4,7 +4,7 @@
     "provider":"stream",
     "image": "",
     "arguments":[
-      "http://ligatv.net:25461/clarodep/01022019/300  http://shacktv.com:8080/live/888999/888999/104914.ts"
+      "http://ligatv.net:25461/clarodep/01022019/300"
     ]
   },
   {
