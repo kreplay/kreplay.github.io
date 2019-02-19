@@ -1,13 +1,37 @@
 [
-  {
-    "title":"",
+      {
+    "title":"Candela TV",
     "provider":"stream",
-    "image": "https://2.bp.blogspot.com/-7HfZu7q_ti0/W7rUKOqg8kI/AAAAAAAAQmo/NdKH9f1AON8Q18G0e76VCx9JGZK91bjrwCLcBGAs/s1600/music%2Btop.jpg",
+    "image":"",
     "arguments":[
-      "http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8"
+      "http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8"
     ]
   },
-  {
+        {
+    "title":"Carolina TV,
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "Carolina TV http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8"
+    ]
+  },
+        {
+    "title":"HIT TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8"
+    ]
+  },
+      {
+    "title":"Melody Channel",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8"
+    ]
+  },
+    {
     "title":"",
     "provider":"stream",
     "image":"https://4.bp.blogspot.com/-s_kT8YgyxHE/W7rUIo3T4UI/AAAAAAAAQmQ/MNIB61S2iREDx1ybpSX1f6_Ui_BpJDZfACLcBGAs/s1600/MUSIC%2Bchannel.jpg",
@@ -18,9 +42,33 @@
   {
     "title":"",
     "provider":"stream",
+    "image": "https://2.bp.blogspot.com/-7HfZu7q_ti0/W7rUKOqg8kI/AAAAAAAAQmo/NdKH9f1AON8Q18G0e76VCx9JGZK91bjrwCLcBGAs/s1600/music%2Btop.jpg",
+    "arguments":[
+      "http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8"
+    ]
+  },
+    {
+    "title":"La Mega Mundial",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
     "image":"https://4.bp.blogspot.com/-g0Bii5gf7YE/W7rUI3Wbx2I/AAAAAAAAQmU/SgFD4LXinY0vgrkXdW8mUDS868qyGEMeQCLcBGAs/s1600/NRJ%2BHITS.jpg",
     "arguments":[
       "http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8"
+    ]
+  },
+    {
+    "title":"Radio Montecarlo",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://wow01.105.net/live/rmc1/playlist.m3u8"
     ]
   },
   {
