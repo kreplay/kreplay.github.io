@@ -25,10 +25,10 @@
   },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "http://infinity.ddns.me:25461/enrique/enrique/7918"
+      "https://player.twitch.tv/?volume=0.5&muted&channel=juanlineatv_2"
     ]
   },
     {
