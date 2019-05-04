@@ -1,0 +1,45 @@
+[
+    {
+    "title":"",
+    "provider":"radio",
+    "image":"https://i.imgur.com/ZcM4Kxr.jpg",
+    "arguments":[
+      "http://sc.digitalproserver.com:9420/;listen.mp3"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"radio",
+    "image":"https://i.imgur.com/FWEZSW5.jpg",
+    "arguments":[
+      "http://s6.jcwebnew.com:7560/stream"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"radio",
+    "image": "https://i.imgur.com/MGCS7h4.jpg",
+    "arguments":[
+      "http://stream5.eltelon.com:8000/radio-buena-nueva.aac"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"radio",
+    "image":"https://i.imgur.com/GdGBO1U.jpg",
+    "arguments":[
+      "http://cast.radioservicios.cl:8308/linares"
+    ]
+  },
+
+  {
+    "title":"",
+    "provider":"radio",
+    "image":"https://i.imgur.com/OWxAMUJ.jpg",
+    "arguments":[
+      "http://stream5.eltelon.com/maria-fm.aac"
+    ]
+  }
+
+
+]
