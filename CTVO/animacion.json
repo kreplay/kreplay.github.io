@@ -4,7 +4,7 @@
     "provider":"stream",
     "image": "https://3.bp.blogspot.com/-cfjVLrttpfQ/W7rUIeczWaI/AAAAAAAAQmI/glqmuUS1b3MRYt0tZ5I_ak54BO1LO2UlACLcBGAs/s1600/ACSNETWORL.jpg",
     "arguments":[
-      "http://5.9.12.201:25461/live/demO/demO/220.ts"
+      "https://cors-anywhere.herokuapp.com/http://5.9.12.201:25461/live/demO/demO/220.ts"
     ]
   },
   {
