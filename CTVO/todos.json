@@ -78,5 +78,13 @@
     "arguments":[
       "http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8"
     ]
+  },
+         {
+    "title":"",
+    "provider":"overview",
+    "image":"https://4.bp.blogspot.com/-ZEWNGLo2jew/XNYozmVs9yI/AAAAAAAATGI/mFrMhoNQJkIAUX83NNqewJj_A4RxCNheQCLcBGAs/s1600/Radios.jpg",
+    "arguments":[
+      "http://kreplay.github.io/CTVO/radios.json"
+    ]
   }
 ]
