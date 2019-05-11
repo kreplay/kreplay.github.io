@@ -2,17 +2,131 @@
     {
     "title":"",
     "provider":"radio",
+    "image": "https://2.bp.blogspot.com/-xOzmPngN-24/XNYoztVcW6I/AAAAAAAATGA/yaM_f7JEY7gLucC54bpo0DeB-T_qpw0ygCLcBGAs/s1600/activa.jpg",
+    "arguments":[
+      "http://18233.live.streamtheworld.com/ACTIVAAAC.aac"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"radio",
+    "image": "https://3.bp.blogspot.com/-8yMBWmEOADg/XNYozrUNxeI/AAAAAAAATGE/LG1rxVCyeYE5jycefB3WnlVDrjk2rUedwCLcBGAs/s1600/adn.jpg",
+    "arguments":[
+      "http://19173.live.streamtheworld.com/ADNAAC.aac"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"radio",
+    "image": "https://1.bp.blogspot.com/-Aa3qlfrH6kM/XNYo0KLRQvI/AAAAAAAATGM/fWlXp8t47BUrGmGpqLB9kgq-XpC7KQYHgCLcBGAs/s1600/ambrosio.jpg",
+    "arguments":[
+      "http://s3.mediostream.cl:9378/stream?icy=http"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"radio",
+    "image": "https://2.bp.blogspot.com/-mHfxenG-6SI/XNYo3WpQ8nI/AAAAAAAATG0/cFfbKuoIGZIpFg67QGJ70jcggC7n6jkFQCLcBGAs/s320/santiago.jpg",
+    "arguments":[
+      "http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio"
+    ]
+  },
+            {
+    "title":"",
+    "provider":"radio",
+    "image": "https://4.bp.blogspot.com/-E46acc-uOsM/XNYo0WMQDtI/AAAAAAAATGQ/iocOwXMqabEd8j_0a65s7NkT8G-5FhbwQCLcBGAs/s1600/bio%2Bbio%2Bconcepcion.jpg",
+    "arguments":[
+      "https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"radio",
+    "image": "https://3.bp.blogspot.com/-EaUlkzRmgA8/XNYrQgZI2aI/AAAAAAAATHc/_9vUZVkqTyUyg2Wd7yXqAm0hk8I6pAKfwCLcBGAs/s1600/carolina.jpg",
+    "arguments":[
+      "http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"radio",
+    "image": "https://1.bp.blogspot.com/-w1u_HNLZeOU/XNYo0p22L-I/AAAAAAAATGU/MZu1GmiRV1cLng-M_6wWYhfLPqbv74KrgCLcBGAs/s1600/cooperativa.jpg",
+    "arguments":[
+      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"radio",
     "image": "https://2.bp.blogspot.com/-08v43ejbvag/XNYWOYZH3_I/AAAAAAAATF4/3bdQtnnIzuIYtbXFiTINIwHxBpn0fCQrQCLcBGAs/s1600/corazon.jpg",
+    "arguments":[
+      "http://14003.live.streamtheworld.com/CORAZONAAC.aac"
+    ]
+  },
+            {
+    "title":"",
+    "provider":"radio",
+    "image": "https://3.bp.blogspot.com/-ps3862DxuGc/XNYo1NydSEI/AAAAAAAATGY/XOUAmV80U4AKkZhXhrBAYkq1D40ABRQGgCLcBGAs/s1600/disney.jpg",
+    "arguments":[
+      "http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio"
+    ]
+  },
+     
+            {
+    "title":"",
+    "provider":"radio",
+    "image": "https://3.bp.blogspot.com/-KDconP6C3Q0/XNYo1czEk_I/AAAAAAAATGc/wK4dmb2d3g0HLoZIX9JgQSx3j0pnweJSACLcBGAs/s1600/kr.jpg",
+    "arguments":[
+      "http://rosetta.shoutca.st:8325/listen.pls?sid=1"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"radio",
+    "image": "https://4.bp.blogspot.com/-7_45IUs0-fg/XNYo1vVKMEI/AAAAAAAATGg/OAAmTjVzqlcxtPsaa1MnuFodeuZaqsKTwCLcBGAs/s1600/los%2B40.jpg",
+    "arguments":[
+      "http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"radio",
+    "image": "https://3.bp.blogspot.com/-q9ICYUmkqaY/XNYo14r921I/AAAAAAAATGo/I8MmW_m2L48yfPwKw6HDPbgf2Yff7ljdACLcBGAs/s1600/pudahuel.jpg",
+    "arguments":[
+      "http://17953.live.streamtheworld.com/PUDAHUELAAC.aac"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"radio",
+    "image": "https://2.bp.blogspot.com/-PYcNC5hBjCk/XNYo2FICAoI/AAAAAAAATGs/faDr6Qzlra096FaMjQSl3p2U-449lAY0ACLcBGAs/s1600/punto%2B9.jpg",
     "arguments":[
       "http://14003.live.streamtheworld.com/CORAZONAAC.aac"
     ]
   },
      {
     "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-OE7tuCKdsNA/W_mdh17GhBI/AAAAAAAARdk/tetl2Daf4KMOl7siBIV-SDX0_HkkXiRYQCLcBGAs/s320/ucvbanner.jpg",
+    "provider":"radio",
+    "image":"https://4.bp.blogspot.com/-ig1gj4s8Gsk/XNYo2ToGAJI/AAAAAAAATGw/TI8IDOKKUF8JPI21uZOlxhb_7FJuPTnqgCLcBGAs/s1600/rock%2Band%2Bpop.jpg",
     "arguments":[
-      "http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8"
+      "http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac"
+    ]
+  },
+            {
+    "title":"",
+    "provider":"radio",
+    "image": "https://3.bp.blogspot.com/-ynZhNRkoU7A/XNYo207LYdI/AAAAAAAATG4/Pn86eX1RL7symtSYSVC0KXQqkSRq82hlQCLcBGAs/s1600/romantica.jpg",
+    "arguments":[
+      "http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio"
+    ]
+  },
+     
+            {
+    "title":"",
+    "provider":"radio",
+    "image": "https://4.bp.blogspot.com/-B90fXSBOEPo/XNYo3_vWzOI/AAAAAAAATG8/aePj8K-t4ZsvRqqiNroIHRvs9KpbsGE3QCLcBGAs/s1600/universo.jpg,
+    "arguments":[
+      "https://redirector.dps.live/universo/aac/icecast.audio"
     ]
   }
 ]
