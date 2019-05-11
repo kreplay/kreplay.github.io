@@ -1,0 +1,18 @@
+[
+    {
+    "title":"",
+    "provider":"radio",
+    "image": "https://2.bp.blogspot.com/-08v43ejbvag/XNYWOYZH3_I/AAAAAAAATF4/3bdQtnnIzuIYtbXFiTINIwHxBpn0fCQrQCLcBGAs/s1600/corazon.jpg",
+    "arguments":[
+      "http://14003.live.streamtheworld.com/CORAZONAAC.aac"
+    ]
+  },
+     {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-OE7tuCKdsNA/W_mdh17GhBI/AAAAAAAARdk/tetl2Daf4KMOl7siBIV-SDX0_HkkXiRYQCLcBGAs/s320/ucvbanner.jpg",
+    "arguments":[
+      "http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8"
+    ]
+  }
+]
