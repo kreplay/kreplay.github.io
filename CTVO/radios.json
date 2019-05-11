@@ -71,6 +71,30 @@
       "http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio"
     ]
   },
+             {
+    "title":"",
+    "provider":"radio",
+    "image": "https://4.bp.blogspot.com/-w_VywcH0OSQ/XNY2vQ28wRI/AAAAAAAATHk/2uDBamntIv8PSMRdNGNfZ-L86_NYt_ljQCLcBGAs/s1600/fm2.jpg",
+    "arguments":[
+      "http://19223.live.streamtheworld.com/FMDOS_SC"
+    ]
+  },
+                {
+    "title":"",
+    "provider":"radio",
+    "image": "https://3.bp.blogspot.com/-92eAmtzs0GE/XNY2vQmgyYI/AAAAAAAATHo/QxQz3uOFWa09mefwROHT7T8G-wXWdl45ACLcBGAs/s1600/futuro.jpg",
+    "arguments":[
+      "http://19793.live.streamtheworld.com/FUTUROAAC.aac"
+    ]
+  },
+                    {
+    "title":"",
+    "provider":"radio",
+    "image": "https://2.bp.blogspot.com/-EAxZFMdamEo/XNY2vXMP6bI/AAAAAAAATHs/ySfN9xWP1fsgDVAGwrc306sDqe3PSO7-gCLcBGAs/s1600/imagina.jpg",
+    "arguments":[
+      "http://14073.live.streamtheworld.com/IMAGINAAAC.aac"
+    ]
+  },
      
             {
     "title":"",
@@ -94,6 +118,15 @@
     "image": "https://2.bp.blogspot.com/-REDtLHle7Gk/XNYo16fo0jI/AAAAAAAATGk/TdQkEcmql1c7VRidN8GpXjwgZ27BfAnQACLcBGAs/s1600/palom.jpg",
     "arguments":[
       "http://radio.mediastre.am/paloma.aac"
+    ]
+  },
+                {
+    "title":"",
+    "provider":"radio",
+    "image": "https://2.bp.blogspot.com/-d-seP0EBiDg/XNY2wJNOxaI/AAAAAAAATH0/YEFIDtbtv7UvleuZRJJvxjsIEtvuiExXQCLcBGAs/s1600/playfm.jpg",
+    "arguments":[
+      "http://mp3.playfm.cl/;stream/1
+"
     ]
   },
         {
