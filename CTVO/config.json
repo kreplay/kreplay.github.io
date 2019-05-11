@@ -74,6 +74,21 @@
       }
     ]
   },
+      {
+    "title":"Radios",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Radios",
+        "provider":"overview",
+        "arguments":[
+          "https://kreplay.github.io/CTVO/radios.json"
+        ]
+      }
+    ]
+  },
   {
     "title":"Configuraciones",
     "drawable":"ic_settings",
