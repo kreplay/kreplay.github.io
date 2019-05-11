@@ -77,7 +77,7 @@
     "provider":"radio",
     "image": "https://3.bp.blogspot.com/-KDconP6C3Q0/XNYo1czEk_I/AAAAAAAATGc/wK4dmb2d3g0HLoZIX9JgQSx3j0pnweJSACLcBGAs/s1600/kr.jpg",
     "arguments":[
-      "http://rosetta.shoutca.st:8325/listen.pls?sid=1"
+      "http://rosetta.shoutca.st:8325"
     ]
   },
         {
@@ -86,6 +86,14 @@
     "image": "https://4.bp.blogspot.com/-7_45IUs0-fg/XNYo1vVKMEI/AAAAAAAATGg/OAAmTjVzqlcxtPsaa1MnuFodeuZaqsKTwCLcBGAs/s1600/los%2B40.jpg",
     "arguments":[
       "http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac"
+    ]
+  },
+            {
+    "title":"",
+    "provider":"radio",
+    "image": "https://2.bp.blogspot.com/-REDtLHle7Gk/XNYo16fo0jI/AAAAAAAATGk/TdQkEcmql1c7VRidN8GpXjwgZ27BfAnQACLcBGAs/s1600/palom.jpg",
+    "arguments":[
+      "http://radio.mediastre.am/paloma.aac"
     ]
   },
         {
