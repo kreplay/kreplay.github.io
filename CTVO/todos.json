@@ -2,6 +2,13 @@
     {
     "title":"",
     "provider":"stream",
+    "image": "https://3.bp.blogspot.com/-0CT7rDgtXAg/XNhufy_nioI/AAAAAAAATIc/s2Gl_QR3KE0gw3qLXHXmSoQWUZvkREnWACLcBGAs/s1600/cdf.jpg",
+    "arguments":[
+      "http://157.230.219.19/hls/veopartidos.m3u8"
+    ]
+  },    {
+    "title":"",
+    "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
       "http://c13-live-1.cdn.nedmedia.io/index_4.m3u8"
