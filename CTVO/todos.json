@@ -17,7 +17,7 @@
   },
           {
     "title":"OP2",
-    "provider":"web",
+    "provider":"webview",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
       "https://player.twitch.tv/?channel=chv_9k"
