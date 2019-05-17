@@ -12,7 +12,7 @@
     "provider":"stream",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5c928b7f6d6f41084bdae898.m3u8?&dnt=true&access_token=q9BwD2qhUG9voT2a8lsQRQU0osNhiSDXGr3ukZS2WJLiN3nhDZf73Eh2Wxfrl17vIMzazkcUFJK&ref=http%3A%2F%2Fwww.chilevision.cl%2Fsenal-online%2F"
+      "http://chv-ply.janus.cl:80/playlist/stream.m3u8?s=hd"
     ]
   },
   {
