@@ -2,6 +2,14 @@
         {
     "title":"",
     "provider":"stream",
+    "image": "https://3.bp.blogspot.com/-FqSif2osVqo/XOG6Px1NqCI/AAAAAAAATLA/q-f2_lq9CxE9QyP0fZSxC7JfzMgZTVXpACLcBGAs/s1600/hbo.png",
+    "arguments":[
+      "http://66.70.179.175:25461/001719s/token/1300"
+    ]
+  },
+                {
+    "title":"",
+    "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
       "http://c13-live-1.cdn.nedmedia.io/index_4.m3u8"
