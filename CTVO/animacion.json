@@ -2,14 +2,6 @@
   {
     "title":"",
     "provider":"stream",
-    "image": "https://3.bp.blogspot.com/-cfjVLrttpfQ/W7rUIeczWaI/AAAAAAAAQmI/glqmuUS1b3MRYt0tZ5I_ak54BO1LO2UlACLcBGAs/s1600/ACSNETWORL.jpg",
-    "arguments":[
-      "http://66.70.179.175:25461/001719s/token/1300"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
     "image":"https://1.bp.blogspot.com/-wDdgqSN30zs/W7rUJQ7Ej2I/AAAAAAAAQmc/D2fEaYnwyGUf3dV_KlSYEAlDKsECCp-kACLcBGAs/s1600/boing.jpg",
     "arguments":[
       "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8"
