@@ -1,10 +1,10 @@
 [
   {
     "title":"Claro Sports",
-    "provider":"webview",
+    "provider":"stream",
     "image": "",
     "arguments":[
-      "http://www.liketvw.com/embed/foxsports2"
+      "http://ul.cdn574.net:8080/hls/qu8oaz.m3u8?s=QtUt0-_2YYY3TuhdCNCc7Q&e=1559435118"
     ]
   },
  
