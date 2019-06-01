@@ -1,10 +1,10 @@
 [
   {
     "title":"Claro Sports",
-    "provider":"webview",
+    "provider":"stream",
     "image": "",
     "arguments":[
-      ""
+      "https://linearhlsls2-i.akamaihd.net/hls/live/463004/n53/master.m3u8"
     ]
   },
  
