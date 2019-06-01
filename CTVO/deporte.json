@@ -1,10 +1,10 @@
 [
   {
     "title":"Claro Sports",
-    "provider":"stream",
+    "provider":"webview",
     "image": "",
     "arguments":[
-      "https://126.liveflashplayer.org:8088/stream/finales2/playlist.m3u8?id=43284&pk=a4e0824a33b812d2988f17942b4328f5c2aff3c33ebd230592fdc1236992d8d9"
+      "http://pandrama.net/outside/reproductortv.html"
     ]
   },
  
