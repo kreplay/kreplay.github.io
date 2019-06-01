@@ -1,10 +1,10 @@
 [
   {
     "title":"Claro Sports",
-    "provider":"stream",
+    "provider":"webview",
     "image": "",
     "arguments":[
-      "http://ul.cdn574.net:8080/hls/nw3vw5wbqt3v.m3u8?s=7xObVCvOIl3Zh5dOE_nyNw&e=1559436575"
+      "http://premiumtvchannels.com/latino/foxsports2"
     ]
   },
  
