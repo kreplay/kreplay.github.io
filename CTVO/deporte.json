@@ -1,10 +1,10 @@
 [
   {
     "title":"Claro Sports",
-    "provider":"stream",
+    "provider":"webview",
     "image": "",
     "arguments":[
-      "http://shacktv.com:8080/live/888999/888999/104914.ts "
+      "http://www.liketvw.com/embed/foxsports2"
     ]
   },
  
