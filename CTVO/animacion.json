@@ -1,8 +1,8 @@
 [
-  {
+    {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-wDdgqSN30zs/W7rUJQ7Ej2I/AAAAAAAAQmc/D2fEaYnwyGUf3dV_KlSYEAlDKsECCp-kACLcBGAs/s1600/boing.jpg",
+    "image":"https://2.bp.blogspot.com/-rdlRSyfcW1Q/XPioq8oVz0I/AAAAAAAATQ4/kJJR7sAxw-UbJxbVXwYFKm7pPVNAf_fPgCLcBGAs/s1600/cn.jpg",
     "arguments":[
       "https://pandrama.net/app/index%20%285%29.m3u8"
     ]
@@ -10,9 +10,9 @@
   {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-9yBibgHRb_s/W7rUJ7tZkEI/AAAAAAAAQmk/CCH6LdX8qtwW8-vmsNviGOcJASPeEvwiwCLcBGAs/s1600/loco%2Bmotion.jpg",
+    "image":"https://1.bp.blogspot.com/-wDdgqSN30zs/W7rUJQ7Ej2I/AAAAAAAAQmc/D2fEaYnwyGUf3dV_KlSYEAlDKsECCp-kACLcBGAs/s1600/boing.jpg",
     "arguments":[
-      "http://locomotiontv.com/envivo/loco_channel/stream.m3u8"
+      "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8"
     ]
   },
   {
