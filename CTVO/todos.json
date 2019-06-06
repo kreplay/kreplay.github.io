@@ -15,14 +15,6 @@
       "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
     ]
   },
-          {
-    "title":"OP2",
-    "provider":"webview",
-    "image":"https://imgur.com/IueS9II.jpg",
-    "arguments":[
-      "https://player.twitch.tv/?channel=chv_9k"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
@@ -37,6 +29,14 @@
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
+    ]
+  },
+            {
+    "title":"",
+    "provider":"stream",
+    "image":"https://2.bp.blogspot.com/-CWZnf1X5LaY/XPianI0BFZI/AAAAAAAATQk/kDC_4hOpwFMymD2CvAGe8kWvpyjDc6YPgCLcBGAs/s320/mega%252B.jpg",
+    "arguments":[
+      "http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8"
     ]
   },
   {
@@ -77,6 +77,22 @@
     "image":"https://1.bp.blogspot.com/-4AwMJn2t2n4/XBhcB2pNFMI/AAAAAAAAR8k/qGeil_P3gQoQRQuJp04NyCSUj6lUhuyswCLcBGAs/s1600/tvn%2Bmusica.jpg",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8"
+    ]
+  },
+          {
+    "title":"",
+    "provider":"stream",
+    "image":"https://2.bp.blogspot.com/--DMBy5YEjYE/XPianEOQSVI/AAAAAAAATQo/tpO3A8rxHiwklRWLEJdLzM39jBYBKK1WQCLcBGAs/s1600/t31.jpg",
+    "arguments":[
+      "https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8"
+    ]
+  },
+          {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8"
     ]
   },
      {
