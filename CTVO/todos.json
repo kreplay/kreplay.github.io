@@ -15,22 +15,6 @@
       "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
     ]
   },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
-    "arguments":[
-      "http://disfruta.net:8000/live/gutty01/pMn9KvJ5J5/4822.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
-    "arguments":[
-      "http://disfruta.net:8000/live/gutty01/pMn9KvJ5J5/7483.m3u8"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
