@@ -45,7 +45,7 @@
     "provider":"stream",
     "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8"
+      "http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8"
     ]
   },
       {
