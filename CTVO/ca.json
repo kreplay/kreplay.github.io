@@ -39,6 +39,14 @@
     "arguments":[
       "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
     ]
+  },
+      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/teleamazonas.png?raw=true",
+    "arguments":[
+      "http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8"
+    ]
   }
 
 ]
