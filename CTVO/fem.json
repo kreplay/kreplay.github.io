@@ -1,19 +1,11 @@
 [
-  {
-    "title":"",
-    "provider":"stream",
-    "image": "https://imgur.com/IueS9II.jpg",
-    "arguments":[
-      "https://bit.ly/2KTNUrt"
-    ]
-  },
  
   {
     "title":"",
     "provider":"stream",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index_1.m3u8"
+      "https://bit.ly/2IROZgS"
     ]
   },
     {
@@ -21,7 +13,7 @@
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ds.jpg?raw=true",
     "arguments":[
-      "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
+      "https://bit.ly/2KTNUrt"
     ]
   }
 
