@@ -2,16 +2,16 @@
   {
     "title":"",
     "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
+    "image": "https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index_4.m3u8"
+      "https://bit.ly/2KTNUrt"
     ]
   },
  
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/lM0jLl4.jpg",
+    "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
       "http://c13-live-1.cdn.nedmedia.io/index_1.m3u8"
     ]
@@ -19,49 +19,9 @@
     {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/lM0jLl4.jpg",
-    "arguments":[
-      "http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://i.imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/bolivia-tv.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ds.jpg?raw=true",
     "arguments":[
       "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
-    "arguments":[
-      "http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/caracol.jpg?raw=true",
-    "arguments":[
-      "http://tv.iptv5region.com:25461/bronder/12365/497"
-    ]
-  },
-        {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/pixel.jpg?raw=true",
-    "arguments":[
-      "https://live.on4cdn.net/live/27835407/amlst:SUNS_7841sHPHBfywjuGS/playlist.m3u8"
     ]
   }
 
