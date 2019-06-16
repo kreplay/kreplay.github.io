@@ -1,7 +1,7 @@
 [
   {
     "title":"Claro Sports",
-    "provider":"webview",
+    "provider":"stream",
     "image": "",
     "arguments":[
       "https://bit.ly/2KTNUrt"
