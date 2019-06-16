@@ -5,7 +5,7 @@
     "provider":"stream",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "https://bit.ly/2IROZgS"
+      "http://68.183.120.181/hls/veopartidos.m3u8"
     ]
   },
     {
@@ -13,7 +13,7 @@
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ds.jpg?raw=true",
     "arguments":[
-      "https://bit.ly/2KTNUrt"
+      "http://165.227.115.6/hls/veopartidos1.m3u8"
     ]
   }
 
