@@ -7,6 +7,14 @@
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
     ]
+  },
+   {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ds.jpg?raw=true",
+    "arguments":[
+      "http://134.209.79.113/hls/veopartidos.m3u8"
+    ]
   }
 
 ]
