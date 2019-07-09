@@ -1,21 +1,4 @@
 [
-  
-                  {
-    "title":"",
-    "provider":"overview",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ca.jpg?raw=true",
-    "arguments":[
-      "https://kreplay.github.io/CTVO/ca.json"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"overview",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/fem.jpg?raw=true",
-    "arguments":[
-      "https://kreplay.github.io/CTVO/fem.json"
-    ]
-  },
                 {
     "title":"",
     "provider":"stream",
