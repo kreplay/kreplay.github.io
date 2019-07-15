@@ -2,15 +2,15 @@
                 {
     "title":"",
     "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
+    "image": "Canal 13",
     "arguments":[
       "http://c13-live-1.cdn.nedmedia.io/index_4.m3u8"
     ]
   },
   {
-    "title":"",
+    "title":"CHV",
     "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
+    "image":"",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
     ]
@@ -24,73 +24,73 @@
     ]
   },
   {
-    "title":"",
+    "title":"MEGA",
     "provider":"stream",
-    "image":"https://imgur.com/V8NxK1J.jpg",
+    "image":"",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
     ]
   },
             {
-    "title":"",
+    "title":"Mega +",
     "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-CWZnf1X5LaY/XPianI0BFZI/AAAAAAAATQk/kDC_4hOpwFMymD2CvAGe8kWvpyjDc6YPgCLcBGAs/s320/mega%252B.jpg",
+    "image":"",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8"
     ]
   },
   {
-    "title":"",
+    "title":"TV Chile",
     "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-E6LohPDelrc/XMz_cV-5IrI/AAAAAAAATEQ/T8HrQtS1GnAn9cLeEaVF2CY3vBhg3oQywCLcBGAs/s1600/america%2Btv.jpg",
+    "image":"",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
     ]
   },
     {
-    "title":"",
+    "title":"TVN",
     "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
+    "image":"",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
     ]
   },
       {
-    "title":"",
+    "title":"TVN KIDS",
     "provider":"stream",
-    "image":"https://i.imgur.com/LWNlFmj.jpg",
+    "image":"",
     "arguments":[
       "http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8"
     ]
   },
       {
-    "title":"",
+    "title":"TVN de Culto",
     "provider":"stream",
-    "image":"https://4.bp.blogspot.com/-XJAoVzYux-Q/XBhcBD9GJuI/AAAAAAAAR8Y/Zc9oHKlHpKQIT_N7VrMrmV3Z4xAhyfj3QCLcBGAs/s1600/TVN%2BDE%2BCULTO.png",
+    "image":"",
     "arguments":[
       "http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/59283217415649134b4d2241/playout/index-f2-v1-a1.m3u8"
     ]
   },
         {
-    "title":"",
+    "title":"TVN Música",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-4AwMJn2t2n4/XBhcB2pNFMI/AAAAAAAAR8k/qGeil_P3gQoQRQuJp04NyCSUj6lUhuyswCLcBGAs/s1600/tvn%2Bmusica.jpg",
+    "image":"",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8"
     ]
   },
           {
-    "title":"",
+    "title":"TV+",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
+    "image":"",
     "arguments":[
       "https://cl-a3-p-e-es7.cdn.mdstrm.com/live-stream/5cb5f21b7c1a456374261e79/playout/master.m3u8"
     ]
   },
      {
-    "title":"",
+    "title":"UCV",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-OE7tuCKdsNA/W_mdh17GhBI/AAAAAAAARdk/tetl2Daf4KMOl7siBIV-SDX0_HkkXiRYQCLcBGAs/s320/ucvbanner.jpg",
+    "image":"",
     "arguments":[
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
