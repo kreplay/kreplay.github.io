@@ -25,10 +25,10 @@
   },
       {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
+      "https://kreplay.github.io/tvn.html"
     ]
   }
 ]
