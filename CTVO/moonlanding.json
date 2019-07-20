@@ -1,0 +1,34 @@
+[
+  {
+    "title":"Programación Especial",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://pandrama.com/calendario.html"
+    ]
+  },
+                   {
+    "title":"",
+    "provider":"stream",
+    "image": "https://imgur.com/lM0jLl4.jpg",
+    "arguments":[
+      "http://c13-live-1.cdn.nedmedia.io/index_4.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/IueS9II.jpg",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
+    ]
+  },
+      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/UVFiDRp.jpg",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
+    ]
+  }
+]
