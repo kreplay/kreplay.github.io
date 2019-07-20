@@ -25,10 +25,10 @@
   },
       {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream/533adcc949386ce765657d7c?jsapi=true&autoplay=true&controls=true&volume=75&player=57f40bb4dc5b9f3075c49cfe&access_token=&custom.overlay="
+      "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
     ]
   }
 ]
