@@ -44,7 +44,7 @@
     "provider":"webview",
     "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
     "arguments":[
-      "https://ok.ru/video/1346446040682"
+      "http://ok.ru/videoembed/1346446040682?nochat=1&autoplay=1"
     ]
   }
 ]
