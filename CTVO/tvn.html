@@ -7,6 +7,25 @@ iframe {
     border: none;         /* Reset default border */
     height: 100vh;        /* Viewport-relative units */
     width: 100vw;
-}</style><iframe sandbox="allow-same-origin allow-scripts allow-forms"
-    src="https://token.tvn.cl/?url=57a498c4d7b86d600e5461cb&ads=false&imagen=%2F%2Fstrm.tvn.cl%2Fimg%2Flogo_tvn.png&autostart=true&volume=100&adsvolume=100&html5=true&relacionados=0&controls=true&custom.preroll=&custom.overlay="
-     style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+}
+    .botoncanal{background:#ff5858;border:#ff5858;z-index: 1000;position: absolute;border-radius: 10px;bottom:1px;color:white;}</style><iframe id="myvideo" sandbox="allow-same-origin allow-scripts allow-forms"
+    src="https://token.tvn.cl/?url=57a498c4d7b86d600e5461cb?jsapi=true&autoplay=true&controls=true&volume=75&player=57f40bb4dc5b9f3075c49cfe&access_token=&custom.overlay="
+     style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999;"></iframe>
+<button onclick="openFullscreen();" class="botoncanal" style="margin-bottom:8px">Pantalla completa</button><script>
+/* Get the element you want displayed in fullscreen mode (a video in this example): */
+var elem = document.getElementById("myvideo"); 
+
+/* When the openFullscreen() function is executed, open the video in fullscreen.
+Note that we must include prefixes for different browsers, as they don't support the requestFullscreen method yet */
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.mozRequestFullScreen) { /* Firefox */
+    elem.mozRequestFullScreen();
+  } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE/Edge */
+    elem.msRequestFullscreen();
+  }
+}
+</script>
