@@ -57,7 +57,7 @@
   },
       {
     "title":"Con problemas",
-    "provider":"webview,
+    "provider":"webview",
     "image":"https://i.imgur.com/LWNlFmj.jpg",
     "arguments":[
       "http://kreplay.github.io/CTVO/tvn.html"
