@@ -48,11 +48,11 @@
     ]
   },
     {
-    "title":"Con problemas",
-    "provider":"webview",
+    "title":"",
+    "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://kreplay.github.io/CTVO/tvn.html"
+      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
     ]
   },
       {
