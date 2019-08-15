@@ -25,7 +25,7 @@
   },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
       "https://pandrama.com/outside/getdatajson.php?m3u8"
