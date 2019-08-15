@@ -25,10 +25,10 @@
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&autoplay=true&volume=100&player=screen&access_token=yyt08jn5vAVnzn0BAM4hy1vTS6XA2sZbID8jUPjOnwrRHaCFMuJAB4VJeAReFY1LD5xkMyJKztU&mse=true&ads[map]=&custom.c3=SENALENVIVO&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv="
+      "https://pandrama.com/outside/getdatajson.php"
     ]
   },
             {
