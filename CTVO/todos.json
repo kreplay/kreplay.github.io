@@ -31,14 +31,6 @@
       "https://pandrama.com/outside/getdatajson.php?m3u8"
     ]
   },
-            {
-    "title":"",
-    "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-CWZnf1X5LaY/XPianI0BFZI/AAAAAAAATQk/kDC_4hOpwFMymD2CvAGe8kWvpyjDc6YPgCLcBGAs/s320/mega%252B.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
