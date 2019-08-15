@@ -25,20 +25,13 @@
   },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
       "https://pandrama.com/outside/getdatajson.php"
     ]
   },
-            {
-    "title":"",
-    "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-CWZnf1X5LaY/XPianI0BFZI/AAAAAAAATQk/kDC_4hOpwFMymD2CvAGe8kWvpyjDc6YPgCLcBGAs/s320/mega%252B.jpg",
-    "arguments":[
-      "https://pandrama.com/outside/getdatajson.php"
-    ]
-  },
+
   {
     "title":"",
     "provider":"stream",
