@@ -25,10 +25,10 @@
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "https://pandrama.com/outside/getdatajson.php"
+      "https://pandrama.com/outside/getdatajson.php?.m3u8"
     ]
   },
 
