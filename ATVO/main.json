@@ -33,10 +33,10 @@
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8"
+      "https://www.youtube.com/embed/LKh_Ghjxur4"
     ]
   },
       {
