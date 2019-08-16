@@ -25,10 +25,10 @@
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "https://player.twitch.tv/?volume=0.5&muted&channel=juanlineatv_2"
+      "http://ad.mysisli.com/live/tr33cvxx/tracks-v1a1/mono.m3u8"
     ]
   },
     {
