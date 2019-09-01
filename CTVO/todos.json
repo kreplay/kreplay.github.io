@@ -16,14 +16,6 @@
     ]
   },
   {
-    "title":"Con problemas",
-    "provider":"stream",
-    "image":"https://i.imgur.com/8okyBwU.jpg",
-    "arguments":[
-      "https://pandrama.com/outside/lr.php?.m3u8"
-    ]
-  },
-  {
     "title":"",
     "provider":"stream",
     "image":"https://imgur.com/V8NxK1J.jpg",
