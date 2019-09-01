@@ -1,10 +1,10 @@
 [
                {
-    "title":"Con Problemas",
+    "title":"",
     "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index_4.m3u8"
+      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live-1250.m3u8"
     ]
   },
   {
