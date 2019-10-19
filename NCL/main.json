@@ -52,7 +52,7 @@
     "provider":"rss",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
-      "http://www.lacuarta.com/feed/manager?type=rss&sc=TEFDVUFSVEE="
+      "https://www.lacuarta.com"
     ]
   },
       {
