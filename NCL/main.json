@@ -32,11 +32,11 @@
     ]
   },
   {
-    "title":"Hot Trailers",
-    "provider":"youtube",
+    "title":"CHV Noticias",
+    "provider":"webview",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
-      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM", "playlist"
+      "https://www.chvnoticias.cl/trending/"
     ]
   }
 
