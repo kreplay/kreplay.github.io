@@ -10,9 +10,9 @@
     {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/aF6ebLc.jpg",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/t13.jpg?raw=true",
     "arguments":[
-      "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
+      "http://t13-movil-live.cdn.nedmedia.io/index.m3u8"
     ]
   },
   {
