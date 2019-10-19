@@ -24,11 +24,11 @@
     ]
   },
   {
-    "title":"Game Overload",
-    "provider":"youtube",
+    "title":"CNN Chile",
+    "provider":"webview",
     "image":"https://unsplash.it/720/480?image=96",
     "arguments":[
-      "PLrEnWoR732-CFfUX4TPybGxiO7q_5OS8D", "playlist"
+      "https://www.cnnchile.com/pais/"
     ]
   },
   {
