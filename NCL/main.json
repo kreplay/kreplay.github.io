@@ -38,6 +38,22 @@
     "arguments":[
       "https://www.chvnoticias.cl/trending/"
     ]
+  },
+    {
+    "title":"24 hrs",
+    "provider":"webview",
+    "image":"https://unsplash.it/720/480?image=967",
+    "arguments":[
+      "https://www.24horas.cl/nacional/"
+    ]
+  },
+    {
+    "title":"Cooperativa",
+    "provider":"rss",
+    "image":"https://unsplash.it/720/480?image=967",
+    "arguments":[
+      "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
+    ]
   }
 
 ]
