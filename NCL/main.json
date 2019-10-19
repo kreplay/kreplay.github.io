@@ -8,11 +8,11 @@
     ]
   },
   {
-    "title":"Inspiring Stories",
-    "provider":"youtube",
+    "title":"EMOL RSS",
+    "provider":"rss",
     "image":"https://unsplash.it/720/480?image=998",
     "arguments":[
-      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4", "playlist"
+      "http://cache-comentarios.ecn.cl/Comments/Api?action=getMostCommentedPages&site=emol&siteSection=nacional"
     ]
   },
   {
