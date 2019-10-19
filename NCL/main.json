@@ -48,11 +48,19 @@
     ]
   },
     {
+    "title":"La Cuarta",
+    "provider":"rss",
+    "image":"https://unsplash.it/720/480?image=967",
+    "arguments":[
+      "http://www.lacuarta.com/feed/manager?type=rss&sc=TEFDVUFSVEE="
+    ]
+  },
+      {
     "title":"Cooperativa",
     "provider":"rss",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
-      "http://feeds.feedburner.com/LinaresVivimoslanoticiacl"
+      "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
     ]
   }
 
