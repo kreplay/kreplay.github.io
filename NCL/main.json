@@ -52,7 +52,7 @@
     "provider":"rss",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
-      "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
+      "http://feeds.feedburner.com/cooperativa/FphE"
     ]
   }
 
