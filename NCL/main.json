@@ -1,8 +1,8 @@
 [
   {
-    "title":"BIO BIO",
+    "title":"TENDENCIA",
     "provider":"webview",
-    "image": "https://i.imgur.com/MGCS7h4.jpg",
+    "image": "",
     "arguments":[
       "https://www.biobiochile.cl/lista/categorias/nacional"
     ]
