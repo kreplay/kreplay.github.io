@@ -2,7 +2,7 @@
   {
     "title":"TENDENCIA",
     "provider":"webview",
-    "image": "",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/biobio.jpg?raw=true",
     "arguments":[
       "https://www.biobiochile.cl/lista/categorias/nacional"
     ]
@@ -10,7 +10,7 @@
   {
     "title":"EMOL RSS",
     "provider":"webview",
-    "image":"",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/emol.jpg?raw=true",
     "arguments":[
       "https://www.emol.com/nacional/"
     ]
@@ -58,7 +58,7 @@
       {
     "title":"Cooperativa",
     "provider":"rss",
-    "image":"https://unsplash.it/720/480?image=967",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cooperativa.jpg?raw=true",
     "arguments":[
       "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
     ]
