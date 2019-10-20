@@ -1,6 +1,6 @@
 [
   {
-    "title":"TENDENCIA",
+    "title":"",
     "provider":"webview",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/biobio.jpg?raw=true",
     "arguments":[
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "title":"EMOL RSS",
+    "title":"",
     "provider":"webview",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/emol.jpg?raw=true",
     "arguments":[
@@ -16,17 +16,17 @@
     ]
   },
   {
-    "title":"T13",
+    "title":"",
     "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=856",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/t13.jpg?raw=true",
     "arguments":[
       "https://www.t13.cl/nacional"
     ]
   },
   {
-    "title":"CNN Chile",
+    "title":"",
     "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=96",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
     "arguments":[
       "https://www.cnnchile.com/pais/"
     ]
@@ -40,9 +40,9 @@
     ]
   },
     {
-    "title":"24 hrs",
+    "title":"",
     "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=967",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/24hrs.jpg?raw=true",
     "arguments":[
       "https://www.24horas.cl/nacional/"
     ]
