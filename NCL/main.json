@@ -10,7 +10,7 @@
   {
     "title":"EMOL RSS",
     "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=998",
+    "image":"",
     "arguments":[
       "https://www.emol.com/nacional/"
     ]
