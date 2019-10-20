@@ -2,7 +2,7 @@
   {
     "title":"BIO BIO",
     "provider":"webview",
-    "image": "https://unsplash.it/720/480?image=1073",
+    "image": "https://i.imgur.com/MGCS7h4.jpg",
     "arguments":[
       "https://www.biobiochile.cl/lista/categorias/nacional"
     ]
