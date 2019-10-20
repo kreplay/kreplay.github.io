@@ -1,64 +1,64 @@
 [
   {
-    "title":"TENDENCIA",
-    "provider":"webview",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/biobio.jpg?raw=true",
+    "title":"I de Tarapacá",
+    "provider":"overview",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/colors/color1.jpg?raw=true",
     "arguments":[
       "https://www.biobiochile.cl/lista/categorias/nacional"
     ]
   },
   {
-    "title":"EMOL RSS",
-    "provider":"webview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/emol.jpg?raw=true",
+    "title":"II de Antofagasta",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color2.jpg?raw=true",
     "arguments":[
       "https://www.emol.com/nacional/"
     ]
   },
   {
-    "title":"T13",
-    "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=856",
+    "title":"III de Atacama",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
     "arguments":[
       "https://www.t13.cl/nacional"
     ]
   },
   {
-    "title":"CNN Chile",
-    "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=96",
+    "title":"IV de Coquimbo ",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
     "arguments":[
       "https://www.cnnchile.com/pais/"
     ]
   },
   {
-    "title":"CHV Noticias",
-    "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=967",
+    "title":"V de Valparaíso",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color5.jpg?raw=true",
     "arguments":[
       "https://www.chvnoticias.cl/trending/"
     ]
   },
     {
-    "title":"24 hrs",
-    "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=967",
+    "title":"VI del Libertador General Bernardo O'Higgins",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color6.jpg?raw=true",
     "arguments":[
       "https://www.24horas.cl/nacional/"
     ]
   },
     {
-    "title":"La Cuarta",
-    "provider":"rss",
-    "image":"https://unsplash.it/720/480?image=967",
+    "title":"VII del Maule",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color7.jpg?raw=true",
     "arguments":[
       "https://www.lacuarta.com"
     ]
   },
       {
-    "title":"Cooperativa",
-    "provider":"rss",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cooperativa.jpg?raw=true",
+    "title":"VIII de Concepción ",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color8.jpg?raw=true",
     "arguments":[
       "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
     ]
