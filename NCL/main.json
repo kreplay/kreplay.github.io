@@ -31,14 +31,6 @@
       "https://www.cnnchile.com/pais/"
     ]
   },
-  {
-    "title":"CHV Noticias",
-    "provider":"webview",
-    "image":"https://unsplash.it/720/480?image=967",
-    "arguments":[
-      "https://www.chvnoticias.cl/trending/"
-    ]
-  },
     {
     "title":"",
     "provider":"webview",
@@ -47,20 +39,12 @@
       "https://www.24horas.cl/nacional/"
     ]
   },
-    {
-    "title":"La Cuarta",
-    "provider":"rss",
-    "image":"https://unsplash.it/720/480?image=967",
-    "arguments":[
-      "https://www.lacuarta.com"
-    ]
-  },
       {
     "title":"Cooperativa",
-    "provider":"rss",
+    "provider":"webview",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cooperativa.jpg?raw=true",
     "arguments":[
-      "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
+      "https://www.cooperativa.cl"
     ]
   }
 
