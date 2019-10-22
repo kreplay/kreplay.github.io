@@ -1,0 +1,10 @@
+[
+        {
+    "title":"PRIMITIVOS TV VALDIVIA",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://api.new.livestream.com/accounts/6107228/events/6490843/live.m3u8"
+    ]
+  }
+]
