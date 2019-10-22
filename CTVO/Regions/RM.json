@@ -1,0 +1,11 @@
+  
+[
+        {
+    "title":"SAN BERNARDO",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8"
+    ]
+  }
+]
