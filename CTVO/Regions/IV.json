@@ -1,6 +1,14 @@
   
 [
       {
+    "title":"CHOAPA TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8"
+    ]
+  },
+  {
     "title":"SAN ANTONIO",
     "provider":"stream",
     "image":"",
