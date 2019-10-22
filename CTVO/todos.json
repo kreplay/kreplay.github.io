@@ -94,6 +94,14 @@
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
   },
+      {
+    "title":"REGIONALES",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color1.jpg?raw=true",
+    "arguments":[
+      "https://kreplay.github.io/CTVO/regiones.json"
+    ]
+  },
          {
     "title":"",
     "provider":"overview",
