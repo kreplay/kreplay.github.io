@@ -1,0 +1,10 @@
+[
+        {
+    "title":"CANAL 9 BIO BIO",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "Http://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8"
+    ]
+  }
+]
