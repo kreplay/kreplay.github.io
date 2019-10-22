@@ -6,6 +6,14 @@
     "arguments":[
       "http://iframe.dacast.com/b/135039/c/505089"
     ]
+  },
+            {
+    "title":"CAPISSIMA ARICA",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8"
+    ]
   }
 
 ]
