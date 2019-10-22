@@ -1,10 +1,10 @@
 [
       {
-    "title":"IQUIQUE TV",
+    "title":"ANTOFAGASTA TV",
     "provider":"webview",
     "image":"",
     "arguments":[
-      "https://livestream.com/iquiquetv/online"
+      "https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8"
     ]
   }
 ]
