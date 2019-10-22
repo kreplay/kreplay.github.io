@@ -1,1 +1,21 @@
 
+[
+        {
+    "title":"ROCCO TV COYHAIQUE",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8"
+    ]
+  },
+  [
+        {
+    "title":"CANAL 11 AYSÉN",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://v2.tustreaming.cl/canal11aysen/live1/tracks-v1a1/mono.m3u8"
+    ]
+  }
+]
+]
