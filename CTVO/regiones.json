@@ -66,7 +66,7 @@
  {
     "title":"IX de la Araucanía",
     "provider":"overview",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/colors/color2.jpg?raw=true",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/IX.json"
     ]
@@ -74,7 +74,7 @@
   {
     "title":"X de Los Lagos",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/X.json"
     ]
@@ -82,7 +82,7 @@
   {
     "title":"XI de Aysén del General Carlos Ibañez del Campo ",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color5.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/XI.json"
     ]
@@ -90,7 +90,7 @@
   {
     "title":"XII de Magallanes y de la Antártica Chilena",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color5.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color6.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/XII.json"
     ]
@@ -98,7 +98,7 @@
     {
     "title":"Metropolitana de Santiago",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color2.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color1.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/RM.json"
     ]
@@ -106,7 +106,7 @@
       {
     "title":"XIV de Los Ríos",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color2.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/XIV.json"
     ]
@@ -114,7 +114,7 @@
         {
     "title":"XV de Arica y Parinacota ",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/XV.json"
     ]
@@ -122,7 +122,7 @@
         {
     "title":"XVI del Ñuble ",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color5.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/Regions/XVI.json"
     ]
