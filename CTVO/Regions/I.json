@@ -14,6 +14,14 @@
     "arguments":[
       "http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8"
     ]
+  },
+          {
+    "title":"IQUIQUE TV",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://livestream.com/iquiquetv/online"
+    ]
   }
 
 ]
