@@ -1,0 +1,34 @@
+[
+        {
+    "title":"CANAL 33 TEMUCO",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8"
+    ]
+  },
+          {
+    "title":"TEC TELEVISIÓN TEMUCO",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8"
+    ]
+  },
+          {
+    "title":"UFROVISIÓN TEMUCO",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
+    ]
+  },
+          {
+    "title":"TEMUCO TELEVISIÓN",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://593d7fe3c9b0d.streamlock.net/8172/8172/playlist.m3u8"
+    ]
+  }
+]
