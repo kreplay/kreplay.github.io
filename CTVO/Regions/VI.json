@@ -1,0 +1,11 @@
+  
+[
+        {
+    "title":"SEXTAVISIÓN TV",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8"
+    ]
+  }
+]
