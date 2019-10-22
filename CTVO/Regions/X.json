@@ -1,0 +1,42 @@
+[
+        {
+    "title":"INET OSORNO",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8"
+    ]
+  },
+          {
+    "title":"TV FRUTILLAR",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://v2.tustreaming.cl/visiontv/live1/tracks-v1a1/rewind-999999.m3u8"
+    ]
+  },
+          {
+    "title":"CANAL 5 PUERTO MONTT",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://play.streaminghd.cl/luis251/luis251/playlist.m3u8"
+    ]
+  },
+          {
+    "title":"CHILOÉ RED 25",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://v2.tustreaming.cl/chiloered/live1/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+            {
+    "title":"CANAL 2 QUELLÓN",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8"
+    ]
+  }
+]
