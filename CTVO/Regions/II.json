@@ -1,7 +1,7 @@
 [
       {
     "title":"ANTOFAGASTA TV",
-    "provider":"webview",
+    "provider":"stream",
     "image":"",
     "arguments":[
       "https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8"
