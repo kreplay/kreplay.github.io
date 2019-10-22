@@ -1,0 +1,51 @@
+  
+[
+        {
+    "title":"CAMPUS TV TALCA",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8"
+    ]
+  },
+        {
+    "title":"TV CENTRO",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8"
+    ]
+  },
+          {
+    "title":"CANAL 5 LINARES",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://unlimited2-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8"
+    ]
+  },
+          {
+    "title":"TV MAULINOS",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://590c5dc5c3271.streamlock.net/juancarlos407/juancarlos407/playlist.m3u8"
+    ]
+  },
+            {
+    "title":"SAN CLEMENTE",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8"
+    ]
+  },
+              {
+    "title":"CONTIVISIÓN",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://unlimited10-cl.dps.live/contivision/contivision.smil/playlist.m3u8"
+    ]
+  }
+]
