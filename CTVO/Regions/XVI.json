@@ -1,0 +1,10 @@
+[
+        {
+    "title":"CANAL 21 CHILLÁN",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://tls.cdnz.cl/canal21tv/live/playlist.m3u8"
+    ]
+  }
+]
