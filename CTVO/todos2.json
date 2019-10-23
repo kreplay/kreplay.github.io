@@ -95,18 +95,18 @@
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
   },
-        {
-    "title":"REGIONALES",
+      {
+    "title":"Regionales",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color1.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/regiones.json"
     ]
   },
          {
-    "title":"",
+    "title":"Radios",
     "provider":"overview",
-    "image":"https://4.bp.blogspot.com/-ZEWNGLo2jew/XNYozmVs9yI/AAAAAAAATGI/mFrMhoNQJkIAUX83NNqewJj_A4RxCNheQCLcBGAs/s1600/Radios.jpg",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
     "arguments":[
       "http://kreplay.github.io/CTVO/radios.json"
     ]
