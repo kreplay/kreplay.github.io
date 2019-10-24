@@ -82,6 +82,13 @@
           {
     "title":"",
     "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/uatv.jpg?raw=true",
+    "arguments":[
+      "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+    ]
+  },          {
+    "title":"",
+    "provider":"stream",
     "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
     "arguments":[
       "https://cl-a3-p-e-es7.cdn.mdstrm.com/live-stream/5cb5f21b7c1a456374261e79/playout/master.m3u8"
