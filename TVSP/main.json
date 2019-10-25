@@ -1,4 +1,13 @@
-[                 {
+[            
+         {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/antena%203.jpg?raw=true",
+    "arguments":[
+      "https://livestartover.atresmedia.com/antena3/master.m3u8"
+    ]
+  },
+    {
     "title":"",
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/tve1.jpg?raw=true",
@@ -43,7 +52,7 @@
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/la%20sexta.jpg?raw=true",
     "arguments":[
-      "https://livestartover.atresmedia.com/antena3/master.m3u8"
+      "https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8"
     ]
   },
   {
