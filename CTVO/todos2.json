@@ -1,12 +1,4 @@
 [
-                 {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
-    "arguments":[
-      "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
-    ]
-  },
                {
     "title":"",
     "provider":"stream",
@@ -60,7 +52,7 @@
     "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://181.43.224.215:9981/stream/channelid/384690764"
+      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
     ]
   },
       {
