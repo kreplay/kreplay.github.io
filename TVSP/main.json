@@ -34,7 +34,7 @@
    {
     "title":"Radio 3",
     "provider":"radio",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/cuatro.jpg?raw=true",
+    "image":"",
     "arguments":[
       "http://radio3.rtveradio.cires21.com/radio3.mp3"
     ]
