@@ -1,106 +1,106 @@
 [            
          {
-    "title":"allala",
-    "provider":"stream",
+    "title":"Europa Fm",
+    "provider":"radio",
     "image": "",
     "arguments":[
-      "https://livestartover.atresmedia.com/antena3/master.m3u8"
+      "http://icecast-streaming.nice264.com/europafm?hash=1479898610785.mp3"
     ]
   },
     {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/tve1.jpg?raw=true",
+    "title":"Los 40",
+    "provider":"radio",
+    "image": "",
     "arguments":[
-      "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8"
+      "http://17893.live.streamtheworld.com/LOS40.mp3"
     ]
   },
                 {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/tve2.jpg?raw=true",
+    "title":"Cadena Dial",
+    "provider":"radio",
+    "image": "",
     "arguments":[
-      "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8"
+      "http://19113.live.streamtheworld.com/CADENADIAL.mp3"
     ]
   },
   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/24h.jpg?raw=true",
+    "title":"Cadena 100",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8"
+      "http://195.10.2.98/cope/cadena100.mp3"
     ]
   },
    {
-    "title":"",
-    "provider":"stream",
+    "title":"Radio 3",
+    "provider":"radio",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/cuatro.jpg?raw=true",
     "arguments":[
-      "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8"
+      "http://radio3.rtveradio.cires21.com/radio3.mp3"
     ]
   },
   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/divinity.jpg?raw=true",
+    "title":"Rock FM",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8"
+      "http://195.55.74.205/cope/rockfm.mp3"
     ]
   },
     {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/la%20sexta.jpg?raw=true",
+    "title":"Kiss FM",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8"
+      "http://kissfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3?hash=1479900164262.mp3"
     ]
   },
   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/real%20madrid.jpg?raw=true",
+    "title":"M80 Radio",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8"
+      "http://19373.live.streamtheworld.com/M80RADIO.mp3"
     ]
   },
     {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/rtvc.jpg?raw=true",
+    "title":"Melodía FM",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8"
+      "http://icecast-streaming.nice264.com/melodiafm?hash=1479900324293.mp3"
     ]
   },
       {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/t3%20de%20catalunya.jpg?raw=true",
+    "title":"Máxima FM",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8"
+      "http://208.92.53.76:443/MAXIMAFM.mp3"
     ]
   },
       {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/telecinco.jpg?raw=true",
+    "title":"Megastar FM",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8"
+      "http://195.55.74.206/cope/megastar.mp3"
     ]
   },
         {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/telemadrid.jpg?raw=true",
+    "title":"Hit FM",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8"
+      "http://kissfm.es.audio1.glb.ipercast.net:8000/hitfm.es/mp3"
     ]
   },
        {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/trece.jpg?raw=true",
+    "title":"Radiohole",
+    "provider":"radio",
+    "image":"",
     "arguments":[
-      "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8"
+      "http://17873.live.streamtheworld.com/RADIOLE.mp3"
     ]
   }
 ]
