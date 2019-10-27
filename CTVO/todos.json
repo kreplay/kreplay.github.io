@@ -8,7 +8,7 @@
   },
      {
     "title":"",
-    "provider":"radio",
+    "provider":"stream",
     "image": "https://1.bp.blogspot.com/-w1u_HNLZeOU/XNYo0p22L-I/AAAAAAAATGU/MZu1GmiRV1cLng-M_6wWYhfLPqbv74KrgCLcBGAs/s1600/cooperativa.jpg",
     "arguments":[
       "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
