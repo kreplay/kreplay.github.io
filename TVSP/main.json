@@ -2,7 +2,7 @@
          {
     "title":"",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/TVSP/antena%203.jpg?raw=true",
+    "image": "",
     "arguments":[
       "https://livestartover.atresmedia.com/antena3/master.m3u8"
     ]
