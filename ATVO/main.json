@@ -1,10 +1,10 @@
 [
     {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image": "https://4.bp.blogspot.com/-Sq9VcqkGY_s/XGO0qWJJ87I/AAAAAAAASi8/dhziVnrjIekdIP7TB2fCGZgJHKrxQn0JACPcBGAYYCw/s320/el%2B9.png",
     "arguments":[
-      "http://dwgoed11hdvfh.cloudfront.net/c9/live.smil/playlist.m3u8"
+      "https://www.elnueve.com.ar/en-vivo/"
     ]
   },
   {
