@@ -28,7 +28,7 @@
     "provider":"stream",
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "http://ad.mysisli.com/live/tr33cvxx/tracks-v1a1/mono.m3u8"
+      "https://g1.vxral-hor.transport.edge-access.net/b11/ngrp:el12_live01-100083_all/el12_live01-100083_480p.m3u8"
     ]
   },
     {
@@ -36,7 +36,7 @@
     "provider":"stream",
     "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8"
+      "https://prepublish.f.qaotic.net/a04/ngrp:c7live02Internacional-20034_all/Playlist.m3u8"
     ]
   },
       {
@@ -44,7 +44,7 @@
     "provider":"stream",
     "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
     "arguments":[
-      "http://ad.mysisli.com/live/telfe32/tracks-v1a1/mono.m3u8"
+      "https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8"
     ]
   }
 ]
