@@ -12,23 +12,23 @@
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
     "arguments":[
-      "http://cdnh4.iblups.com/hls/irtp.m3u8"
+      "https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkK5gvWBnY6L1po0dRu4YQU)/dm/3/x774s7s/s/live-1.m3u8"
     ]
   },
                {
     "title":"",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpenoticias.jpg?raw=true",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpe.jpg?raw=true",
     "arguments":[
-      "https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8"
+      "http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpenoticias.jpg?raw=true",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
+      "https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8"
     ]
   },
    {
