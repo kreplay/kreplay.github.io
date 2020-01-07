@@ -2,9 +2,9 @@
            {
     "title":"",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/AMERICATV.jpg?raw=true",
     "arguments":[
-      "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
+      "https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?uid=k6r6ylSpuvMH6JQXDPz1jxsbn97zXifw&sid=0Lx7hhlvMSMJWYtblGbTUdXHwLB6cuNh&pid=CyuWNeaPF1vb8N6ZxYt7A2WjEBNmVdy9&ref=&res=940x529&dnt=true&access_tok"
     ]
   },
                {
