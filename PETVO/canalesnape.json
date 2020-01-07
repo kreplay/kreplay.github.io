@@ -10,17 +10,17 @@
                {
     "title":"",
     "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-w1u_HNLZeOU/XNYo0p22L-I/AAAAAAAATGU/MZu1GmiRV1cLng-M_6wWYhfLPqbv74KrgCLcBGAs/s1600/cooperativa.jpg",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
     "arguments":[
-      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+      "http://cdnh4.iblups.com/hls/irtp.m3u8"
     ]
   },
                {
     "title":"",
     "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpenoticias.jpg?raw=true",
     "arguments":[
-      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live-1250.m3u8"
+      "https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8"
     ]
   },
   {
