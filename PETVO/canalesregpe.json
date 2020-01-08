@@ -38,5 +38,21 @@
     "arguments":[
       "http://tv.radiotel.net:1935/impacto/ngrp:impacto_all/playlist.m3u8"
     ]
+  },
+              {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/best%20cable.jpg?raw=true",
+    "arguments":[
+      "http://185.132.179.131:1935/bestcable/bestcable/chunklist_w1150133980.m3u8"
+    ]
+  },
+                         {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/super%20canal.jpg?raw=true",
+    "arguments":[
+      "http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w1099940504.m3u8"
+    ]
   }
 ]
