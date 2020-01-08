@@ -1,0 +1,58 @@
+[
+           {
+    "title":"",
+    "provider":"webview",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/GENIOS.jpg?raw=true",
+    "arguments":[
+      "https://iframe.dacast.com/b/135700/c/505896"
+    ]
+  },
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/inpecable.jpg?raw=true",
+    "arguments":[
+      "http://serviaudio.com:1935/wami4/wami4/chunklist_w1837330986.m3u8"
+    ]
+  },
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvnorte.jpg?raw=true",
+    "arguments":[
+      "https://stream-03.nyc.dailymotion.com/sec(KWkG5yZ-MfaZutGAUZnLIfguqCXXWxkqctLApi5Hn5o)/dm/3/x1brnj6/s/live-2.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/megatv.jpg?raw=true",
+    "arguments":[
+      "https://media1.cdnlayer.biz:1936/8002/8002/playlist.m3u8"
+    ]
+  },
+   {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/impacto.jpg?raw=true",
+    "arguments":[
+      "http://tv.radiotel.net:1935/impacto/ngrp:impacto_all/playlist.m3u8"
+    ]
+  },
+              {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/best%20cable.jpg?raw=true",
+    "arguments":[
+      "http://185.132.179.131:1935/bestcable/bestcable/chunklist_w1150133980.m3u8"
+    ]
+  },
+                         {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/super%20canal.jpg?raw=true",
+    "arguments":[
+      "http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w1099940504.m3u8"
+    ]
+  }
+]
