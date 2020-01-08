@@ -20,7 +20,7 @@
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpe.jpg?raw=true",
     "arguments":[
-      "http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8"
+      "http://cdnh4.iblups.com/hls/irtp.m3u8 "
     ]
   },
   {
@@ -51,9 +51,10 @@
          {
     "title":"Radios",
     "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/congreso.jpg?raw=true",
     "arguments":[
-      "http://kreplay.github.io/CTVO/radios.json"
+      "http://stream.congreso.gob.pe/_hls/playlist.m3u8"
     ]
   }
+           
 ]
