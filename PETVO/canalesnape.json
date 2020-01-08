@@ -1,57 +1,9 @@
 [
-           {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/AMERICATV.jpg?raw=true",
-    "arguments":[
-      "https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?uid=k6r6ylSpuvMH6JQXDPz1jxsbn97zXifw&sid=0Lx7hhlvMSMJWYtblGbTUdXHwLB6cuNh&pid=CyuWNeaPF1vb8N6ZxYt7A2WjEBNmVdy9&ref=&res=940x529&dnt=true&access_tok"
-    ]
-  },
-               {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
-    "arguments":[
-      "https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkK5gvWBnY6L1po0dRu4YQU)/dm/3/x774s7s/s/live-1.m3u8"
-    ]
-  },
-               {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpe.jpg?raw=true",
-    "arguments":[
-      "http://cdnh4.iblups.com/hls/irtp.m3u8 "
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpenoticias.jpg?raw=true",
-    "arguments":[
-      "https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8"
-    ]
-  },
-   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/ipe.jpg?raw=true",
-    "arguments":[
-      "http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/UCI0.jpg?raw=true",
-    "arguments":[
-      "https://59d39900ebfb8.streamlock.net/8402/8402/chunklist_w1358703401.m3u8"
-    ]
-  },
 
          {
     "title":"",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/congreso.jpg?raw=true",
+    "image":"",
     "arguments":[
       "http://stream.congreso.gob.pe/_hls/playlist.m3u8"
     ]
