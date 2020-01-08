@@ -50,7 +50,7 @@
 
          {
     "title":"",
-    "provider":"overview",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/congreso.jpg?raw=true",
     "arguments":[
       "http://stream.congreso.gob.pe/_hls/playlist.m3u8"
