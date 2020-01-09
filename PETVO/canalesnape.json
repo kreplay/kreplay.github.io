@@ -1,11 +1,34 @@
 [
-
-         {
-    "title":"Congreso",
-    "provider":"stream",
+           {
+    "title":"América Noticias",
+    "provider":"webview",
+    "image": "",
+    "arguments":[
+      "https://www.americatv.com.pe/noticias/?ref=hbprd2"
+    ]
+  },
+               {
+    "title":"Panaméricana Noticias",
+    "provider":"webview",
+    "image": "",
+    "arguments":[
+      "https://panamericana.pe/noticias-de-hoy"
+    ]
+  },
+               {
+    "title":"TVPE Noticias",
+    "provider":"webview",
+    "image": "",
+    "arguments":[
+      "https://www.tvperu.gob.pe/programas/tvperu-noticias"
+    ]
+  },
+  {
+    "title":"UCI Noticias",
+    "provider":"webview",
     "image":"",
     "arguments":[
-      "http://stream.congreso.gob.pe/_hls/playlist.m3u8"
+      "https://uci.pe"
     ]
   }
            
