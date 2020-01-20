@@ -42,10 +42,74 @@
   },
       {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
     "arguments":[
-      "https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8"
+      "https://telefe.com/vivo/"
+    ]
+  },
+          {
+    "title":"",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8"
+    ]
+  },
+              {
+    "title":"Argentinisima",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8"
+    ]
+  },
+                  {
+    "title":"24/7",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8"
+    ]
+  },
+                      {
+    "title":"24/7",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8"
+    ]
+  },
+                          {
+    "title":"CL3",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8"
+    ]
+  },
+                              {
+    "title":"Conexión Abierta",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8"
+    ]
+  },
+                                  {
+    "title":"Conexión Abierta",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8"
+    ]
+  },
+                                      {
+    "title":"TV SALUD",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8"
     ]
   }
 ]
