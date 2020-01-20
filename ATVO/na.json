@@ -4,23 +4,24 @@
     "provider":"webview",
     "image": "https://4.bp.blogspot.com/-Sq9VcqkGY_s/XGO0qWJJ87I/AAAAAAAASi8/dhziVnrjIekdIP7TB2fCGZgJHKrxQn0JACPcBGAYYCw/s320/el%2B9.png",
     "arguments":[
-      "https://www.elnueve.com.ar/"
+      "https://www.elnueve.com.ar/en-vivo/"
+
     ]
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image": "https://3.bp.blogspot.com/-u2lbkf-1OyA/XGO0o4Qtq8I/AAAAAAAASiE/ON4U9HOGEQcRRlVSc06T_3ZIJcgXX09xQCLcBGAs/s1600/26.png",
     "arguments":[
-      "https://www.diario26.com"
+      "http://200.115.193.177/live/26hd-480/.m3u8"
     ]
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://3.bp.blogspot.com/-yCBh9jHszxU/XGO0o-LwHjI/AAAAAAAASh8/0NKbj8DddOwFWyvuuHxKPBYfaYDUt-rPACLcBGAs/s1600/america%2Btv.png",
     "arguments":[
-      "https://www.americatv.com.ar"
+      "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
     ]
   },
   {
@@ -28,23 +29,23 @@
     "provider":"webview",
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "https://www.eltrecetv.com.ar"
+      "https://player.twitch.tv/?channel=13tvhd9"
     ]
   },
     {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "https://www.eltrecetv.com.ar"
+      "https://prepublish.f.qaotic.net/a04/ngrp:c7live02Internacional-20034_all/Playlist.m3u8"
     ]
   },
       {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
     "arguments":[
-      "https://telefe.com"
+      "https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8"
     ]
   }
 ]
