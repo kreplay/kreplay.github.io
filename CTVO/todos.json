@@ -32,10 +32,10 @@
   },
    {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
-      "https://www.lared.cl/senal-online"
+      "http://claro2-pi-dns.herokuapp.com/master.php?id=546&f=.m3u8"
     ]
   },
   {
