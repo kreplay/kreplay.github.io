@@ -2,50 +2,34 @@
 [
     {
     "title":"",
-    "provider":"webview",
-    "image": "https://4.bp.blogspot.com/-Sq9VcqkGY_s/XGO0qWJJ87I/AAAAAAAASi8/dhziVnrjIekdIP7TB2fCGZgJHKrxQn0JACPcBGAYYCw/s320/el%2B9.png",
+    "provider":"stream",
+    "image": "https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://www.elnueve.com.ar/"
+      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
     ]
   },
-  {
+                 {
     "title":"",
-    "provider":"webview",
-    "image": "https://3.bp.blogspot.com/-u2lbkf-1OyA/XGO0o4Qtq8I/AAAAAAAASiE/ON4U9HOGEQcRRlVSc06T_3ZIJcgXX09xQCLcBGAs/s1600/26.png",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpe.jpg?raw=true",
     "arguments":[
-      "https://www.diario26.com"
+      "http://cdnh4.iblups.com/hls/irtp.m3u8 "
     ]
   },
-  {
+     {
     "title":"",
-    "provider":"webview",
-    "image":"https://3.bp.blogspot.com/-yCBh9jHszxU/XGO0o-LwHjI/AAAAAAAASh8/0NKbj8DddOwFWyvuuHxKPBYfaYDUt-rPACLcBGAs/s1600/america%2Btv.png",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/rt0.jpg?raw=true",
     "arguments":[
-      "https://www.americatv.com.ar"
+      "https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8"
     ]
   },
-  {
+               {
     "title":"",
-    "provider":"webview",
-    "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/fmhot0.jpg?raw=true",
     "arguments":[
-      "https://www.eltrecetv.com.ar"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"webview",
-    "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
-    "arguments":[
-      "hhttps://www.eltrecetv.com.ar"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"webview",
-    "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
-    "arguments":[
-      "https://telefe.com"
+      "http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8"
     ]
   }
 ]
