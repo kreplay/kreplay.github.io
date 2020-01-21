@@ -12,7 +12,7 @@
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
     "arguments":[
-      "https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkK5gvWBnY6L1po0dRu4YQU)/dm/3/x774s7s/s/live-1.m3u8"
+      "http://claro2-pi-dns.herokuapp.com/master.php?id=462&f=.m3u8"
     ]
   },
                {
