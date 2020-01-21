@@ -34,7 +34,7 @@
   },
              {
     "title":"",
-    "provider":"webview",
+    "provider":"radio",
     "image": "",
     "arguments":[
       "http://200.73.59.84:8000/play/a00z"
