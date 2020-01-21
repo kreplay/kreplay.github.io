@@ -33,10 +33,10 @@
   },
    {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
-      "http://200.73.59.84:8000/play/a00x"
+      "https://www.lared.cl/senal-online"
     ]
   },
   {
