@@ -31,5 +31,13 @@
     "arguments":[
       "http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8"
     ]
+  },
+             {
+    "title":"",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "http://200.73.59.84:8000/play/a00z"
+    ]
   }
 ]
