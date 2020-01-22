@@ -32,10 +32,10 @@
   },
    {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
-      "https://www.lared.cl/senal-online"
+      "http://200.111.146.178:9981/stream/channelid/2004792736?ticket=D2CD184B08B006D004AC9439C6976816B26184AB&profile=pass"
     ]
   },
   {
@@ -43,7 +43,7 @@
     "provider":"stream",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "http://200.111.146.178:9981/stream/channelid/1344454007?ticket=DE81C5B1B4376882776C61AADB304EC9ACF0C730&profile=pass"
+      "http://200.111.146.178:9981/stream/channelid/737142584?ticket=6FB3A179F801A4AC422729C5E7FBF9737E563513&profile=pass"
     ]
   },
     {
