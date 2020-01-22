@@ -37,7 +37,7 @@
     "provider":"stream",
     "image": "",
     "arguments":[
-      "http://200.73.59.84:8000/play/a00z"
+      "http://87.252.224.12:8000/playlist.m3u8"
     ]
   }
 ]
