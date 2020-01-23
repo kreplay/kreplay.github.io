@@ -1,0 +1,51 @@
+[
+  {
+    "title":"BIO BIO",
+    "provider":"webview",
+    "image": "",
+    "arguments":[
+      "https://www.biobiochile.cl/lista/categorias/nacional"
+    ]
+  },
+  {
+    "title":"EMOL",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://www.emol.com/nacional/"
+    ]
+  },
+  {
+    "title":"T13",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://www.t13.cl/nacional"
+    ]
+  },
+  {
+    "title":"CNN",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://www.cnnchile.com/pais/"
+    ]
+  },
+    {
+    "title":"24 Hrs",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://www.24horas.cl/nacional/"
+    ]
+  },
+      {
+    "title":"Cooperativa",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://www.cooperativa.cl"
+    ]
+  }
+
+]
