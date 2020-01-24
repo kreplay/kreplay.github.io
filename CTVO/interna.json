@@ -1,1 +1,18 @@
-
+[
+           {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/rt0.jpg?raw=true",
+    "arguments":[
+      "https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8"
+    ]
+  },
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/fmhot0.jpg?raw=true",
+    "arguments":[
+      "http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8"
+    ]
+  }
+]
