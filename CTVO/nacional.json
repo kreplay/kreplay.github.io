@@ -109,22 +109,6 @@
       "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
     ]
   },
-      {
-    "title":"Regionales",
-    "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
-    "arguments":[
-      "https://kreplay.github.io/CTVO/regiones.json"
-    ]
-  },
-         {
-    "title":"Radios",
-    "provider":"overview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
-    "arguments":[
-      "http://kreplay.github.io/CTVO/radios.json"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
@@ -154,7 +138,7 @@
     "provider":"stream",
     "image":"",
     "arguments":[
-      "http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8"
+      "http://claro2-pi-dns.herokuapp.com/master.php?id=541&f=.m3u8"
     ]
   }
 ]
