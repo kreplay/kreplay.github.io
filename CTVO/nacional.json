@@ -71,6 +71,14 @@
       "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
     ]
   },
+       {
+    "title":"canal 13 i",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://claro2-pi-dns.herokuapp.com/master.php?id=535&f=.m3u8"
+    ]
+  },        
           {
     "title":"",
     "provider":"stream",
