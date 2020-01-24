@@ -1,51 +1,128 @@
 [
-  {
-    "title":"BIO BIO",
-    "provider":"webview",
-    "image": "",
+           {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
     "arguments":[
-      "https://www.biobiochile.cl/lista/categorias/nacional"
+      "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
+    ]
+  },
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-w1u_HNLZeOU/XNYo0p22L-I/AAAAAAAATGU/MZu1GmiRV1cLng-M_6wWYhfLPqbv74KrgCLcBGAs/s1600/cooperativa.jpg",
+    "arguments":[
+      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+    ]
+  },
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "https://imgur.com/lM0jLl4.jpg",
+    "arguments":[
+      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live-1250.m3u8"
     ]
   },
   {
-    "title":"EMOL",
-    "provider":"webview",
-    "image":"",
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "https://www.emol.com/nacional/"
+      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
+    ]
+  },
+   {
+    "title":"",
+    "provider":"webview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
+    "arguments":[
+      "https://www.lared.cl/senal-online"
     ]
   },
   {
-    "title":"T13",
+    "title":"",
     "provider":"webview",
-    "image":"",
+    "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "https://www.t13.cl/nacional"
+      "https://www.mega.cl/senal-en-vivo/"
     ]
   },
   {
-    "title":"CNN",
-    "provider":"webview",
-    "image":"",
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/mega+.jpg?raw=true",
     "arguments":[
-      "https://www.cnnchile.com/pais/"
+      "http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://3.bp.blogspot.com/-E6LohPDelrc/XMz_cV-5IrI/AAAAAAAATEQ/T8HrQtS1GnAn9cLeEaVF2CY3vBhg3oQywCLcBGAs/s1600/america%2Btv.jpg",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
     ]
   },
     {
-    "title":"24 Hrs",
-    "provider":"webview",
-    "image":"",
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://www.24horas.cl/nacional/"
+      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
+    ]
+  },
+          {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/uatv.jpg?raw=true",
+    "arguments":[
+      "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+    ]
+  },          {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
+    "arguments":[
+      "https://cl-a3-p-e-es7.cdn.mdstrm.com/live-stream/5cb5f21b7c1a456374261e79/playout/master.m3u8"
+    ]
+  },
+     {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-OE7tuCKdsNA/W_mdh17GhBI/AAAAAAAARdk/tetl2Daf4KMOl7siBIV-SDX0_HkkXiRYQCLcBGAs/s320/ucvbanner.jpg",
+    "arguments":[
+      "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    ]
+  },
+         {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
+    "arguments":[
+      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd"
+    ]
+  },      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
+    "arguments":[
+      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
     ]
   },
       {
-    "title":"Cooperativa",
-    "provider":"webview",
-    "image":"",
+    "title":"Regionales",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color3.jpg?raw=true",
     "arguments":[
-      "https://www.cooperativa.cl"
+      "https://kreplay.github.io/CTVO/regiones.json"
+    ]
+  },
+         {
+    "title":"Radios",
+    "provider":"overview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/colors/color4.jpg?raw=true",
+    "arguments":[
+      "http://kreplay.github.io/CTVO/radios.json"
     ]
   }
-
 ]
