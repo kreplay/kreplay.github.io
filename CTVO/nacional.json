@@ -124,5 +124,29 @@
     "arguments":[
       "http://kreplay.github.io/CTVO/radios.json"
     ]
-  }
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://4.bp.blogspot.com/-_1rpTRkZepc/XBhcBGeV-qI/AAAAAAAAR8c/MCX08RYI93IRx3IqQkDvPbCJbsG_WoHtQCLcBGAs/s1600/24hrs.jpg",
+    "arguments":[
+      "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/t13.jpg?raw=true",
+    "arguments":[
+      "http://t13-movil-live.cdn.nedmedia.io/index.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://4.bp.blogspot.com/-5kqOeRPnzp0/W7rUJYt4aLI/AAAAAAAAQmY/iCowv0e5ugA4EK5k7Cy1aTt-Mik0gpOKwCLcBGAs/s1600/ahora%2Bnoticias.jpg",
+    "arguments":[
+      "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8"
+    ]
+  }           
 ]
