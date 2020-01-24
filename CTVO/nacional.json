@@ -33,18 +33,18 @@
   },
    {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
-      "https://www.lared.cl/senal-online"
+      "http://200.111.146.178:9981/stream/channelid/53229361?ticket=8CBF34EA00652EE0B4DEFE66D803A3DEC92ADDAE&profile=pass"
     ]
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "https://www.mega.cl/senal-en-vivo/"
+      "http://200.111.146.178:9981/stream/channelid/737142584?ticket=6FB3A179F801A4AC422729C5E7FBF9737E563513&profile=pass"
     ]
   },
   {
@@ -148,5 +148,13 @@
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8"
     ]
-  }           
+  },
+             {
+    "title":"CDO Chile",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8"
+    ]
+  }
 ]
