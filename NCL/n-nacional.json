@@ -4,7 +4,7 @@
     "provider":"webview",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/biobio.jpg?raw=true",
     "arguments":[
-      "https://www.biobiochile.cl/lista/categorias/nacional"
+      "https://www.biobiochile.cl/"
     ]
   },
   {
@@ -12,7 +12,7 @@
     "provider":"webview",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/NCL/emol.jpg?raw=true",
     "arguments":[
-      "https://www.emol.com/nacional/"
+      "https://www.emol.com/"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "provider":"webview",
     "image":"https://unsplash.it/720/480?image=856",
     "arguments":[
-      "https://www.t13.cl/nacional"
+      "https://www.t13.cl/"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "provider":"webview",
     "image":"https://unsplash.it/720/480?image=96",
     "arguments":[
-      "https://www.cnnchile.com/pais/"
+      "https://www.cnnchile.com/"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "provider":"webview",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
-      "https://www.chvnoticias.cl/trending/"
+      "https://www.chvnoticias.cl/"
     ]
   },
     {
@@ -44,7 +44,7 @@
     "provider":"webview",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
-      "https://www.24horas.cl/nacional/"
+      "https://www.24horas.cl/"
     ]
   },
     {
