@@ -27,7 +27,7 @@
     "provider":"stream",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
+      "http://200.111.146.178:9981/stream/channelid/1051187084?ticket=2E100C1CB2D20260272043F6D52B09C0A2C3C158&profile=pass"
     ]
   },
    {
@@ -67,7 +67,7 @@
     "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
+      "http://200.111.146.178:9981/stream/channelid/1623424135?ticket=9BE3A5D1B6F08795E2F0CF9FF346E3592206181A&profile=pass"
     ]
   },
        {
