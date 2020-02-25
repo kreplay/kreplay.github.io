@@ -1,4 +1,12 @@
 [
+                  {
+    "title":"",
+    "provider":"webview",
+    "image":"https://imgur.com/UVFiDRp.jpg",
+    "arguments":[
+      "https://player.twitch.tv/?channel=yug_pqw"
+    ]
+  }, 
            {
     "title":"",
     "provider":"stream",
