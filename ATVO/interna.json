@@ -2,10 +2,10 @@
 [
        {
     "title":"",
-    "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-E6LohPDelrc/XMz_cV-5IrI/AAAAAAAATEQ/T8HrQtS1GnAn9cLeEaVF2CY3vBhg3oQywCLcBGAs/s1600/america%2Btv.jpg",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
     "arguments":[
-      "http://200.111.146.178:9981/stream/channelid/299348219?ticket=034E0DE283D672501D0374CDED99A2D325F1EE3A&profile=pass"
+      "https://player.twitch.tv/?channel=yug_pqw"
     ]
   }, 
     {
