@@ -3,19 +3,11 @@
        {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
+    "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
       "https://player.twitch.tv/?channel=yug_pqw"
     ]
   }, 
-    {
-    "title":"",
-    "provider":"stream",
-    "image": "https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
-    ]
-  },
                  {
     "title":"",
     "provider":"stream",
