@@ -65,10 +65,10 @@
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
+      "https://player.twitch.tv/?channel=yug_pqw"
     ]
   },
           {
