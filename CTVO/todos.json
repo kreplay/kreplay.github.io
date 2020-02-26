@@ -64,10 +64,10 @@
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://200.111.146.178:9981/stream/channelid/1623424135?ticket=9BE3A5D1B6F08795E2F0CF9FF346E3592206181A&profile=pass"
+      "https://player.twitch.tv/?channel=yug_pqw"
     ]
   },
      {
