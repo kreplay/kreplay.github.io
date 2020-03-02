@@ -1,17 +1,10 @@
 [
-                     {
-    "title":"Todo Noticias",
-    "provider":"stream",
-    "image": "",
-    "arguments":[
-      "          {
+          {
     "title":"",
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
     "arguments":[
       "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
-    ]
-  },"
     ]
   },
            {
