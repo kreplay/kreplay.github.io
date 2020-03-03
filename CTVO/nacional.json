@@ -41,7 +41,7 @@
   },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
       "https://thawing-shelf-19213.herokuapp.com/tv/skymaster.php?id=543&f=.m3u8"
