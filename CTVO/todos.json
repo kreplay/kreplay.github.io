@@ -44,7 +44,7 @@
     "provider":"stream",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "http://roedor.xyz/SRREGIO.NET/mc.php?c=203&f.m3u8"
+      "https://thawing-shelf-19213.herokuapp.com/tv/skymaster.php?id=547&f=.m3u8"
     ]
   },
     {
