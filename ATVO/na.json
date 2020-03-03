@@ -1,10 +1,10 @@
 [
     {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image": "https://4.bp.blogspot.com/-Sq9VcqkGY_s/XGO0qWJJ87I/AAAAAAAASi8/dhziVnrjIekdIP7TB2fCGZgJHKrxQn0JACPcBGAYYCw/s320/el%2B9.png",
     "arguments":[
-      "https://www.elnueve.com.ar/en-vivo/"
+      "http://roedor.xyz/SRREGIO.NET/mc.php?c=211&f.m3u8"
 
     ]
   },
@@ -37,7 +37,7 @@
     "provider":"stream",
     "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "https://prepublish.f.qaotic.net/a04/ngrp:c7live02Internacional-20034_all/Playlist.m3u8"
+      "http://roedor.xyz/SRREGIO.NET/mc.php?c=210&f.m3u8"
     ]
   },
       {
@@ -45,7 +45,7 @@
     "provider":"webview",
     "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
     "arguments":[
-      "https://telefe.com/vivo/"
+      "http://roedor.xyz/SRREGIO.NET/mc.php?c=212&f.m3u8"
     ]
   },
           {
