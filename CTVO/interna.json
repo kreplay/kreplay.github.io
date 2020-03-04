@@ -1,7 +1,7 @@
 [
                         {
     "title":"Todo Noticias",
-    "provider":"wordpress_video",
+    "provider":"wordpress",
     "image": "",
     "arguments":[
       "ollazo.wordpress.com",""
