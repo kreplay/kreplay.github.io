@@ -32,8 +32,8 @@
     ]
   },
    {
-    "title":"webview",
-    "provider":"stream",
+    "title":"",
+    "provider":"webview",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
       "https://www.lared.cl/senal-online"
