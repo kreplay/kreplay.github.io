@@ -8,7 +8,7 @@
       "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
     ]
   },
-               {
+                    {
     "title":"",
     "provider":"stream",
     "image": "https://1.bp.blogspot.com/-w1u_HNLZeOU/XNYo0p22L-I/AAAAAAAATGU/MZu1GmiRV1cLng-M_6wWYhfLPqbv74KrgCLcBGAs/s1600/cooperativa.jpg",
@@ -33,8 +33,8 @@
     ]
   },
    {
-    "title":"",
-    "provider":"webview",
+    "title":"webview",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
       "https://www.lared.cl/senal-online"
@@ -45,7 +45,7 @@
     "provider":"webview",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "https://www.mega.cl/senal-en-vivo/"
+      "https://thawing-shelf-19213.herokuapp.com/tv/skymaster.php?id=543&f=.m3u8"
     ]
   },
   {
@@ -66,12 +66,12 @@
   },
     {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://player.twitch.tv/?channel=yug_pqw"
+      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
     ]
-  },
+  },       
           {
     "title":"",
     "provider":"stream",
@@ -84,7 +84,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
     "arguments":[
-      "https://cl-a3-p-e-es7.cdn.mdstrm.com/live-stream/5cb5f21b7c1a456374261e79/playout/master.m3u8"
+      "https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8"
     ]
   },
      {
