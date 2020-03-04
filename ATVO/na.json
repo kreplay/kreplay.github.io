@@ -26,10 +26,10 @@
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "https://player.twitch.tv/?channel=13tvhd9"
+      "http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3197.m3u8"
     ]
   },
     {
@@ -37,15 +37,15 @@
     "provider":"stream",
     "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "http://roedor.xyz/SRREGIO.NET/mc.php?c=210&f.m3u8"
+      "https://chunks01.tvpublica.com.ar/streams/BJQRNMF6b.m3u8"
     ]
   },
       {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
     "arguments":[
-      "http://roedor.xyz/SRREGIO.NET/mc.php?c=212&f.m3u8"
+      "http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22121.m3u8"
     ]
   },
           {
