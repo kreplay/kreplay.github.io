@@ -1,13 +1,4 @@
-  //TODO: load data by $.ajax
-/*
-  $.getJSON(url, function(data) {
-        console.log(data);
-    })
-    .done(function() {})
-    .fail(function() {})
-    .always(function() {});
-}
-*/
+
 var campData = {
   "campaigns": [
   {
@@ -54,4 +45,3 @@ function imgError(image) {
   return true;
 };
 $('.content-wrapper').html(html);
-    //# sourceURL=pen.js
