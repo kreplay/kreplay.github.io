@@ -1,0 +1,57 @@
+  //TODO: load data by $.ajax
+/*
+  $.getJSON(url, function(data) {
+        console.log(data);
+    })
+    .done(function() {})
+    .fail(function() {})
+    .always(function() {});
+}
+*/
+var campData = {
+  "campaigns": [
+  {
+    "productId": 1,
+    "productDescription": "Dramas Coreanos con subtítulos en español",
+    "productThumbnail": "https://appimg2.dbankcdn.com/hwmarket/files/application/icon144/10119/fbb82f06df834cd4a1b8a71a6cdc6cd8.png",
+    "clickProxyURL": "http://ads.appia.com/v2/clickAd.jsp?siteId=4756&deviceId=7265&spotId=&sessionId=Rws12312dsda&campaignId=5168&creativeId=78772&packageName=air.com.sgn.cookiejam.gp&fulfillmentTypeId=1&placementId=1&campaignDisplayOrder=1&enc=true&ts=14a095005c5&algorithmId=143",
+    "productName": "Pandrama" },
+
+  {
+    "productId": 1,
+    "productDescription": "Dramas Coreanos con subtítulos en español",
+    "productThumbnail": "https://appimg2.dbankcdn.com/hwmarket/files/application/icon144/10119/fbb82f06df834cd4a1b8a71a6cdc6cd8.png",
+    "clickProxyURL": "http://ads.appia.com/v2/clickAd.jsp?siteId=4756&deviceId=7265&spotId=&sessionId=Rws12312dsda&campaignId=5168&creativeId=78772&packageName=air.com.sgn.cookiejam.gp&fulfillmentTypeId=1&placementId=1&campaignDisplayOrder=1&enc=true&ts=14a095005c5&algorithmId=143",
+    "productName": "Pandrama" }],
+};
+
+
+
+//write template
+var html = "<div class='appListPanel'>";
+for (var i = 0; i < campData['campaigns'].length; i++) {if (window.CP.shouldStopExecution(0)) break;
+  html += "<a href=" + campData['campaigns'][i].clickProxyURL + ">";
+  html += "<div class='adCol'>";
+  html += "<div class='wrapper'>";
+  html += "<img src=" + campData['campaigns'][i].productThumbnail + " title=" + campData['campaigns'][i].productName + " class='adThumbnail' onerror='imgError(this);'/>";
+  html += "<h2>" + campData['campaigns'][i].productName + "</h2>";
+
+  if (campData['campaigns'][i].productDescription.length < 50) {
+    html += "<p class='appDesc'>" + campData['campaigns'][i].productDescription + "</p>";
+  } else
+  {
+    html += "<p class='appDesc'>" + campData['campaigns'][i].productDescription.substring(0, 50) + "...</p>";
+  }
+
+  html += "<a class='btn' href=" + campData['campaigns'][i].clickProxyURL + ">DESCARGAR</a>";
+  html += "</div></div></a>";
+}window.CP.exitedLoop(0);
+html += "</div>";
+
+function imgError(image) {
+  image.onerror = '';
+  image.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAACrCAIAAACWivtOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpDM0Q3MkY2RjQyQjkxMUU0ODdGQTlFNzI5QTE1NkRFRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpDM0Q3MkY3MDQyQjkxMUU0ODdGQTlFNzI5QTE1NkRFRCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkMzRDcyRjZENDJCOTExRTQ4N0ZBOUU3MjlBMTU2REVEIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkMzRDcyRjZFNDJCOTExRTQ4N0ZBOUU3MjlBMTU2REVEIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+MBOpxAAAA3pJREFUeNrs3V1PGkEUgGGLCgYEFeP//3V6I3tBjI0E0U5sSg0f6y647c7Z573oRUlqZR7mTJavH/f39yfqcD13AQEiQASIABEgAkSACBABIkAEiAARIAJEgAgQASJABIgAESACRIAIEAEiQASIABEgAkSACBABIkAEiAARIAJEgAgQASJABIgAESACRIAIUMs7awXDXu/8/DzenbtcLt/e3gj4urT8t7e38QQURbFYLEwBESACRICcBOv08PBgbewBIkAEqKPngI0Gg0G8u/719XW1WhFQqZBXDJ8+MgVEgAgQAXISrNN8Pk8H6ez+25PJpIUvg8hSQFr+9j/vvt37+7spIAJEgAgQASJABIgAtaCzML/J6enp5eXl+qLbz48a/YnD4XC1WuV4bSqggLQYk8mk1/u7pfX7/dFoVBRFQ+/bStTST3x5ecldQC/Go39j+deLNJ1OG7nXer3r6+v058XFhXPA/288Hm8v/3onaOLJmPVzPAEQRBBQ/irCb1+h4UfN/fsEHDIF/tnP+j3+GxVGQO2Wy2XJrd94ElyP/42/zBpBBAHpQH7wrYeN/6YHDQH1en5+3vfC+5Kbjhz/BLSotM/PZrPtWZCWfz6fNzT+wwyCIFeE0gP98fExLcPna4I7H/1XV1dPT0+1Dgc7x//2NvCN44aAww8E5cswHo9Ho1G/3691rbDKKzzz3QM69MzQYDBIAk7+fHBV+WO6yviPMQi6IiCt0M3Nzee5XgVB+fiPsQ10RcB0Ot1Y7y8RVBn/BORR2vzT7N/5EC9BUPcNHpkOgvgC1uN/3z6/E0HF8R9gGwguYGP8V0RQa/wTkNn4/xJB3fGf+yCILGDf+C9HcOT7O7MTcBZ1+cvH/z4Ed3d3Rz7XbA/IZvzv7PiXGmQ3CGIKqDj+G4qAnMY/AdEEHDD+m5hBGSEIJeDg8d/lbSCUgP87/gno+vjPdBAEEdCG8Z/pNhBBQHvGPwFdH/8bLrP4SPQIV4Vns9mJnARFgAgQAcryJLhYLHzBoD1ABIgAEaBOngTrFvLrB+0BIkAEiAA5Ce6qKIp4d31LvjIxDwG5f363KSACRIAIEAEiQASIABEgAkSACBABIkAEiAARIAJEgAgQASJABIgAESACRIAIEAEiQASIABEgAkSACBABIkAEiAARIAJEgAgQASJABOi4fgkwACNorLT3z5ixAAAAAElFTkSuQmCC';
+  return true;
+};
+$('.content-wrapper').html(html);
+    //# sourceURL=pen.js
