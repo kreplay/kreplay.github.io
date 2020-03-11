@@ -33,10 +33,10 @@
   },
    {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
-      "https://www.lared.cl/senal-online"
+      "https://thawing-shelf-19213.herokuapp.com/tv/skymaster.php?id=546&f=.m3u8"
     ]
   },
   {
