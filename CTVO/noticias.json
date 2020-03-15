@@ -32,9 +32,9 @@
     ]
   },
     {
-    "title":"Todo Noticias",
-    "provider":"stream",
-    "image":"",
+    "title":"",
+    "provider":"webview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/todo%20noticias.jpg?raw=true",
     "arguments":[
       "https://www.youtube.com/embed/wHn1_QVoXGM"
     ]
