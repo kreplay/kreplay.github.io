@@ -1,0 +1,10 @@
+[
+           {
+    "title":"",
+    "provider":"webview",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/MAPA%20de%20casos%20covid.jpg?raw=true",
+    "arguments":[
+      "https://who.maps.arcgis.com/apps/opsdashboard/index.html#/10a2438e6e2e4092a8e02772c42f0f2b?ext=30,25,70,70"
+    ]
+  }
+  ]
