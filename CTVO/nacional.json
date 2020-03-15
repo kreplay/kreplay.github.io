@@ -1,6 +1,14 @@
 [
            {
     "title":"",
+    "provider":"overview",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/covid19.jpg?raw=true",
+    "arguments":[
+      "https://kreplay.github.io/CTVO/covid19.json"
+    ]
+  },
+           {
+    "title":"",
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
     "arguments":[
