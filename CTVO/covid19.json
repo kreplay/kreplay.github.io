@@ -16,11 +16,10 @@
     ]
   },
                        {
-    "title":"Canales de Noticias",
-    "provider":"vimeo",
-    "image": "",
-    "arguments":[
-   "3767141", "album"
+     "title":"Test",
+        "provider":"wordpress_video",
+        "arguments":[
+          "http://musicservlet.azurewebsites.net/wp-json/wp/v2/", ""
     ]
   }
            
