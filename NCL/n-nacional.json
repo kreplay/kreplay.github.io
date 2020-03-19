@@ -65,10 +65,10 @@
   },
         {
     "title":"Info Oficial",
-    "provider":"wordpress",
+    "provider":"wordpress_video",
     "image":"",
     "arguments":[
-      "https://ollazo.wordpress.com/wp-json/wp/v2/"
+      "ollazo.wordpress.com"
     ]
   }
 
