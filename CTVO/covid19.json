@@ -17,7 +17,7 @@
   },
                        {
     "title":"Canales de Noticias",
-    "provider":"wordpress_video",
+    "provider":"vimeo",
     "image": "",
     "arguments":[
    "3767141", "album"
