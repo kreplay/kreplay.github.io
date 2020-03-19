@@ -155,7 +155,7 @@
     "provider":"wordpress_video",
     "image":"",
     "arguments":[
-      "ollazo.wordpress.com"
+      "ollazo.wordpress.com", ""
     ]
   }
            
