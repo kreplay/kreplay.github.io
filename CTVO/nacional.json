@@ -2,9 +2,9 @@
            {
     "title":"",
     "provider":"overview",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/covid19.jpg?raw=true",
+    "image": "Noticias",
     "arguments":[
-      "https://kreplay.github.io/CTVO/covid19.json"
+      "https://kreplay.github.io/CTVO/noticias.json"
     ]
   },
            {
