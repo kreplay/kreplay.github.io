@@ -14,13 +14,6 @@
     "arguments":[
       "https://kreplay.github.io/CTVO/noticias.json"
     ]
-  },
-                       {
-     "title":"Test",
-        "provider":"wordpress_video",
-        "arguments":[
-          "ollazo.wordpress.com", ""
-    ]
   }
            
   ]
