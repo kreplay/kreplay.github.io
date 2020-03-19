@@ -17,7 +17,7 @@
   },
                        {
     "title":"Canales de Noticias",
-    "provider":"wordpress_audio",
+    "provider":"wordpress_video",
     "image": "",
     "arguments":[
    "ollazo.wordpress.com", ""
