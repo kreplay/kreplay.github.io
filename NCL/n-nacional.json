@@ -68,7 +68,7 @@
     "provider":"wordpress",
     "image":"",
     "arguments":[
-      "ollazo.wordpress.com"
+      "https://ollazo.wordpress.com/wp-json/wp/v2/"
     ]
   }
 
