@@ -148,5 +148,15 @@
     "arguments":[
       "http://claro2-pi-dns.herokuapp.com/master.php?id=541&f=.m3u8"
     ]
+  },
+           
+        {
+    "title":"Info Oficial",
+    "provider":"wordpress_video",
+    "image":"",
+    "arguments":[
+      "ollazo.wordpress.com"
+    ]
   }
+           
 ]
