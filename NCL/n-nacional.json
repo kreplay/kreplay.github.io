@@ -62,14 +62,6 @@
     "arguments":[
       "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
     ]
-  },
-        {
-    "title":"Info Oficial",
-    "provider":"wordpress_video",
-    "image":"",
-    "arguments":[
-      "ollazo.wordpress.com"
-    ]
   }
 
 ]
