@@ -1,8 +1,8 @@
 [
            {
-    "title":"",
+    "title":"Noticias",
     "provider":"overview",
-    "image": "Noticias",
+    "image": "",
     "arguments":[
       "https://kreplay.github.io/CTVO/noticias.json"
     ]
