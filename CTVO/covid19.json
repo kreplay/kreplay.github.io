@@ -19,7 +19,7 @@
      "title":"Test",
         "provider":"wordpress_video",
         "arguments":[
-          "http://musicservlet.azurewebsites.net/wp-json/wp/v2/", ""
+          "ollazo.wordpress.com", ""
     ]
   }
            
