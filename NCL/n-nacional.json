@@ -65,7 +65,7 @@
   },
     {
     "title":"TENDENCIA",
-    "provider":"rss",
+    "provider":"wordpress",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/biobio.jpg?raw=true",
     "arguments":[
       "https://www.biobiochile.cl/static/app-radio-biobio.json?v=1584739990800"
