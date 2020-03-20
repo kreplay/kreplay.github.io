@@ -62,6 +62,14 @@
     "arguments":[
       "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
     ]
+  },
+    {
+    "title":"TENDENCIA",
+    "provider":"rss",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/biobio.jpg?raw=true",
+    "arguments":[
+      "https://www.biobiochile.cl/static/app-radio-biobio.json?v=1584739990800"
+    ]
   }
 
 ]
