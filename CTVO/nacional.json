@@ -44,7 +44,7 @@
     "provider":"webview",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
-      "https://thawing-shelf-19213.herokuapp.com/tv/skymaster.php?id=546&f=.m3u8"
+      "https://www.lared.cl/senal-online"
     ]
   },
   {
@@ -52,15 +52,7 @@
     "provider":"webview",
     "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "https://thawing-shelf-19213.herokuapp.com/tv/skymaster.php?id=547&f=.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/mega+.jpg?raw=true",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8"
+      "https://www.mega.cl/senal-en-vivo/"
     ]
   },
   {
