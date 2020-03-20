@@ -68,7 +68,7 @@
     "provider":"rss",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/biobio.jpg?raw=true",
     "arguments":[
-      "http://feeds.feedburner.com/feedburner/BBC"
+      "http://feeds.feedburner.com/biobiochile-cl"
     ]
   }
 
