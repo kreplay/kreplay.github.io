@@ -1,13 +1,5 @@
 [
-    {
-    "title":"",
-    "provider":"webview",
-    "image": "https://4.bp.blogspot.com/-Sq9VcqkGY_s/XGO0qWJJ87I/AAAAAAAASi8/dhziVnrjIekdIP7TB2fCGZgJHKrxQn0JACPcBGAYYCw/s320/el%2B9.png",
-    "arguments":[
-      "https://www.elnueve.com.ar/en-vivo/"
 
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
