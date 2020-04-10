@@ -94,6 +94,14 @@
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
   },
+                {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/68904_EMOL_TV.png",
+    "arguments":[
+      "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
+    ]
+  },
          {
     "title":"",
     "provider":"stream",
@@ -131,6 +139,14 @@
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ahora%20noticias.jpg?raw=true",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8"
+    ]
+  },
+             {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/92611_Pura_Noticia.png",
+    "arguments":[
+      "https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8"
     ]
   },
              {
