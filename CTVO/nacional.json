@@ -7,6 +7,14 @@
       "https://kreplay.github.io/CTVO/noticias.json"
     ]
   },
+                           {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/68904_EMOL_TV.png",
+    "arguments":[
+      "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
+    ]
+  },
            {
     "title":"",
     "provider":"stream",
@@ -29,6 +37,21 @@
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
       "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live-1250.m3u8"
+    ]
+  },
+                          {
+    "title":"",
+    "provider":"stream",
+    "image": "http://www.m3u.cl/logo/95390_13i.png",
+    "arguments":[
+      "https://jimmy.zappingtv.com/13i/13i.smil/chunklist_w864550285_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTc0MCZ3b3d6YXRva2VuaGFzaD1XVF9kaUJwRGtzcTNXdGVHcHFiTk0wX0RuWTJLV2lPeW96blZacHBUQnVJPQ==.m3u8"
+    ]
+  },               {
+    "title":"",
+    "provider":"stream",
+    "image": "http://www.m3u.cl/logo/95386_13c.png",
+    "arguments":[
+      "https://jimmy.zappingtv.com/13c/13c.smil/chunklist_b3628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTU2MCZ3b3d6YXRva2VuaGFzaD1rNDB0a21ERi1aZ2oyRlpHeXJSVkxGaFJMdjdMUmdTSVFUeENla1U4OVl3PQ==.m3u8"
     ]
   },
   {
@@ -94,14 +117,6 @@
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
   },
-                {
-    "title":"",
-    "provider":"stream",
-    "image":"http://www.m3u.cl/logo/68904_EMOL_TV.png",
-    "arguments":[
-      "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
-    ]
-  },
          {
     "title":"",
     "provider":"stream",
@@ -150,11 +165,43 @@
     ]
   },
              {
-    "title":"Canal Teletón",
+    "title":"",
     "provider":"stream",
     "image":"http://www.m3u.cl/logo/96323_Teleton_TV.png",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8"
+    ]
+  },
+                        {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/79753_Ufrovision.png",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
+    ]
+  },
+                                   {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/45105_Cachipum_TV.png",
+    "arguments":[
+      "http://23.236.180.26/11580409776/live/playlist.m3u8"
+    ]
+  },
+                                              {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/93920_Boing.png",
+    "arguments":[
+      "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8"
+    ]
+  },
+                        {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/47417_Locomotion.png",
+    "arguments":[
+      "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"
     ]
   }
            
