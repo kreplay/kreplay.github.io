@@ -203,6 +203,38 @@
     "arguments":[
       "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"
     ]
+  },
+                                                         {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/80097_Maxima_Movie.jpg",
+    "arguments":[
+      "http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8"
+    ]
+  },
+                        {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/80098_Maxima_FM.jpg",
+    "arguments":[
+      "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
+    ]
+  },
+                                   {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/97300_On_Radio_Kpop.png",
+    "arguments":[
+      "https://tls.cdnz.cl/onradio4/live/playlist.m3u8"
+    ]
+  },
+                                              {
+    "title":"",
+    "provider":"stream",
+    "image":"http://www.m3u.cl/logo/97299_On_Radio_Chile.png",
+    "arguments":[
+      "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
+    ]
   }
            
 ]
