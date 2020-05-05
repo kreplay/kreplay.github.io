@@ -39,21 +39,6 @@
       "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live-1250.m3u8"
     ]
   },
-                          {
-    "title":"",
-    "provider":"stream",
-    "image": "http://www.m3u.cl/logo/95390_13i.png",
-    "arguments":[
-      "https://jimmy.zappingtv.com/13i/13i.smil/chunklist_w864550285_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTc0MCZ3b3d6YXRva2VuaGFzaD1XVF9kaUJwRGtzcTNXdGVHcHFiTk0wX0RuWTJLV2lPeW96blZacHBUQnVJPQ==.m3u8"
-    ]
-  },               {
-    "title":"",
-    "provider":"stream",
-    "image": "http://www.m3u.cl/logo/95386_13c.png",
-    "arguments":[
-      "https://jimmy.zappingtv.com/13c/13c.smil/chunklist_b3628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTU2MCZ3b3d6YXRva2VuaGFzaD1rNDB0a21ERi1aZ2oyRlpHeXJSVkxGaFJMdjdMUmdTSVFUeENla1U4OVl3PQ==.m3u8"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
