@@ -2,7 +2,7 @@
            {
     "title":"Noticias",
     "provider":"overview",
-    "image": "",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/colors/color2.jpg?raw=true",
     "arguments":[
       "https://kreplay.github.io/CTVO/noticias.json"
     ]
