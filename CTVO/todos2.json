@@ -10,7 +10,7 @@
                            {
     "title":"",
     "provider":"stream",
-    "image":"http://www.m3u.cl/logo/68904_EMOL_TV.png",
+    "image":"https://1.bp.blogspot.com/-rkoL0S9PEE8/XrkpRYHWkLI/AAAAAAAAUhc/kiNspJok49ke3gbamk8l8Ngtmyz3s15jQCLcBGAsYHQ/s1600/tvemol.jpg",
     "arguments":[
       "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
     ]
@@ -144,7 +144,7 @@
              {
     "title":"",
     "provider":"stream",
-    "image":"http://www.m3u.cl/logo/92611_Pura_Noticia.png",
+    "image":"https://1.bp.blogspot.com/-BI6PqjpW2so/XrkpQ4w846I/AAAAAAAAUhU/zWrEaExAgCoxEaTo8pTdKjgCi92DQp3TgCLcBGAsYHQ/s1600/puratv.jpg",
     "arguments":[
       "https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8"
     ]
@@ -176,7 +176,7 @@
                                               {
     "title":"",
     "provider":"stream",
-    "image":"http://www.m3u.cl/logo/93920_Boing.png",
+    "image":"https://1.bp.blogspot.com/-rF7CxLRZgM4/XrkpPeJZuzI/AAAAAAAAUhA/xqdsor1Gj1Yd1HMni4G04SJOyIFsCAodgCLcBGAsYHQ/s1600/boing2.jpg",
     "arguments":[
       "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8"
     ]
@@ -184,23 +184,16 @@
                         {
     "title":"",
     "provider":"stream",
-    "image":"http://www.m3u.cl/logo/47417_Locomotion.png",
+    "image":"https://1.bp.blogspot.com/-TqOmv-BTsXo/XrkpPXx-70I/AAAAAAAAUhE/SvoGPiY7jcADhkCnU5iJtqsjW5AkrxMOACLcBGAsYHQ/s1600/loco-motion.jpg",
     "arguments":[
       "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"
     ]
   },
-                                                         {
-    "title":"",
-    "provider":"stream",
-    "image":"http://www.m3u.cl/logo/80097_Maxima_Movie.jpg",
-    "arguments":[
-      "http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8"
-    ]
-  },
+
                         {
     "title":"",
     "provider":"stream",
-    "image":"http://www.m3u.cl/logo/80098_Maxima_FM.jpg",
+    "image":"https://1.bp.blogspot.com/-qdMDH8klQ50/XrkpQfeNGXI/AAAAAAAAUhM/kMAYRxc5YWonGSOGILnkX69ylBMaMgdNwCLcBGAsYHQ/s1600/maxima.jpg",
     "arguments":[
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
     ]
@@ -208,7 +201,7 @@
                                    {
     "title":"",
     "provider":"stream",
-    "image":"http://www.m3u.cl/logo/97300_On_Radio_Kpop.png",
+    "image":"https://1.bp.blogspot.com/-CUFs8JzItbQ/XrkpQuSrHUI/AAAAAAAAUhQ/hhhjoofDi_cO1QLNg2dy5EW7e_VmYSLiwCLcBGAsYHQ/s1600/onradiochilekpop.jpg",
     "arguments":[
       "https://tls.cdnz.cl/onradio4/live/playlist.m3u8"
     ]
