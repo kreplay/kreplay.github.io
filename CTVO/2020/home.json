@@ -2,7 +2,7 @@
            {
     "title":"Noticias",
     "provider":"overview",
-    "image": "",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c86c2563154543.5aa7c66ed2b1f.gif",
     "arguments":[
       "https://kreplay.github.io/CTVO/noticias.json"
     ]
