@@ -39,15 +39,6 @@
       "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_MOBILE_FTA/ArtearHD-video=678000.m3u8"
     ]
   },
-
-          {
-    "title":"",
-    "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-QIdNeZJqpZE/XsNPpRuO1-I/AAAAAAAAUi4/r3EKDCqDNBcflJ3V_8L2roHIbDYK3dCagCLcBGAsYHQ/s1600/telefe%2Bcordoba.jpg",
-    "arguments":[
-      "https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/index_1_av-p.m3u8"
-    ]
-  },
           {
     "title":"",
     "provider":"stream",
@@ -57,11 +48,11 @@
     ]
   },
           {
-    "title":"",
+    "title":"https://1.bp.blogspot.com/-MWsJmM1RZP8/XsNuJx1dq1I/AAAAAAAAUjY/120cGRuZv9oQcePK96pZhTrib5EMgspnACLcBGAsYHQ/s1600/13%2BMAX.jpg",
     "provider":"stream",
     "image":"",
     "arguments":[
-      "https://1.bp.blogspot.com/-MWsJmM1RZP8/XsNuJx1dq1I/AAAAAAAAUjY/120cGRuZv9oQcePK96pZhTrib5EMgspnACLcBGAsYHQ/s1600/13%2BMAX.jpg"
+      "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8"
     ]
   },
               {
