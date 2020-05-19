@@ -18,9 +18,17 @@
         {
     "title":"Radio Ambrosio | Linares",
     "provider":"radio",
-    "image": "https://i.imgur.com/Jbc9KX8.png",
+    "image": "https://pbs.twimg.com/profile_images/584224031316058113/M6OWTF6n_400x400.jpg",
     "arguments":[
       "http://s3.mediostream.cl:9378/stream?icy=http"
+    ]
+  },
+            {
+    "title":"Radio Arcoiris | Coyhaique",
+    "provider":"radio",
+    "image": "",
+    "arguments":[
+      "http://5.9.65.9:8195/stream"
     ]
   },
         {
@@ -47,8 +55,16 @@
       "https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio"
     ]
   },
+         {
+    "title":"Radio Carabineros",
+    "provider":"radio",
+    "image":"https://i.imgur.com/wc4vW92.png",
+    "arguments":[
+      "http://5.9.65.9:9978/;"
+    ]
+  },
     {
-    "title":"",
+    "title":"Radio Carolina",
     "provider":"radio",
     "image": "https://3.bp.blogspot.com/-EaUlkzRmgA8/XNYrQgZI2aI/AAAAAAAATHc/_9vUZVkqTyUyg2Wd7yXqAm0hk8I6pAKfwCLcBGAs/s1600/carolina.jpg",
     "arguments":[
@@ -85,6 +101,14 @@
     "image": "https://3.bp.blogspot.com/-ps3862DxuGc/XNYo1NydSEI/AAAAAAAATGY/XOUAmV80U4AKkZhXhrBAYkq1D40ABRQGgCLcBGAs/s1600/disney.jpg",
     "arguments":[
       "http://unlimited4-us.dps.live/disney/mp364k/icecast.audio"
+    ]
+  },
+        {
+    "title":"Radio El Conquistador | Concepción",
+    "provider":"radio",
+    "image": "https://i.imgur.com/wF05ZSU.jpg",
+    "arguments":[
+      "http://167.114.219.240:9314/;"
     ]
   },
              {
