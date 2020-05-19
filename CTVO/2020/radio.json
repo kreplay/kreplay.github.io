@@ -124,7 +124,7 @@
     "provider":"radio",
     "image": "https://3.bp.blogspot.com/-92eAmtzs0GE/XNY2vQmgyYI/AAAAAAAATHo/QxQz3uOFWa09mefwROHT7T8G-wXWdl45ACLcBGAs/s1600/futuro.jpg",
     "arguments":[
-      "http://19793.live.streamtheworld.com/FUTUROAAC.aac"
+      "https://18593.live.streamtheworld.com/FUTUROAAC.aac"
     ]
   },
                     {
@@ -149,7 +149,7 @@
     "provider":"radio",
     "image": "https://4.bp.blogspot.com/-7_45IUs0-fg/XNYo1vVKMEI/AAAAAAAATGg/OAAmTjVzqlcxtPsaa1MnuFodeuZaqsKTwCLcBGAs/s1600/los%2B40.jpg",
     "arguments":[
-      "http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac"
+      "https://14033.live.streamtheworld.com/LOS40_CHILEAAC.aac"
     ]
   },
             {
@@ -157,7 +157,7 @@
     "provider":"radio",
     "image": "https://2.bp.blogspot.com/-REDtLHle7Gk/XNYo16fo0jI/AAAAAAAATGk/TdQkEcmql1c7VRidN8GpXjwgZ27BfAnQACLcBGAs/s1600/palom.jpg",
     "arguments":[
-      "http://radio.mediastre.am/paloma.aac"
+      "http://192.99.18.164:9622/,"
     ]
   },
                 {
@@ -165,16 +165,15 @@
     "provider":"radio",
     "image": "https://2.bp.blogspot.com/-d-seP0EBiDg/XNY2wJNOxaI/AAAAAAAATH0/YEFIDtbtv7UvleuZRJJvxjsIEtvuiExXQCLcBGAs/s1600/playfm.jpg",
     "arguments":[
-      "http://mp3.playfm.cl/;stream/1
-"
+      "http://mp3.playfm.cl/;stream/1"
     ]
   },
         {
-    "title":"radio Pudahuel",
+    "title":"Radio Pudahuel",
     "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-q9ICYUmkqaY/XNYo14r921I/AAAAAAAATGo/I8MmW_m2L48yfPwKw6HDPbgf2Yff7ljdACLcBGAs/s1600/pudahuel.jpg",
+    "image": "https://i.imgur.com/uudoKgZ.png",
     "arguments":[
-      "http://17953.live.streamtheworld.com/PUDAHUELAAC.aac"
+      "https://18493.live.streamtheworld.com/PUDAHUEL.mp3"
     ]
   },
     {
@@ -190,7 +189,7 @@
     "provider":"radio",
     "image":"https://i.imgur.com/4CGIlyX.png",
     "arguments":[
-      "http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aacc"
+      "http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac"
     ]
   },
             {
