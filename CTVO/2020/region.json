@@ -1,0 +1,12 @@
+  {"title":"Inicio",
+    "drawable":"ic_home",
+    "submenu":"",
+    "tabs":[
+      {"title":"Inicio",
+        "image":"",
+        "provider":"overview",
+        "arguments":
+        [
+          "https://kreplay.github.io/CTVO/2020/home.json"
+        ]}],"iap":false}
+,
