@@ -38,5 +38,21 @@
     "arguments":[
       "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"
     ]
+  },
+                          {
+    "title":"Taltal Animación",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8"
+    ]
+  },
+                            {
+    "title":"TV Retro",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?"
+    ]
   }
 ]
