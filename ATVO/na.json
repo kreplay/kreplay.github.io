@@ -39,22 +39,7 @@
       "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_MOBILE_FTA/ArtearHD-video=678000.m3u8"
     ]
   },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
-    "arguments":[
-      "https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-xenNo6lc0sY/XsNPpVno7WI/AAAAAAAAUi0/3Vtt_VZ_hFMkri11vBU0TTO6XbW9_lVVgCLcBGAsYHQ/s1600/telefe.jpg",
-    "arguments":[
-      "https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1589819710~exp=1589996110~acl=/i/evento6hls_1@48399/*~hmac=4e0d75a22052030e32133f09efcb609225e9b12c8ea8f75a69091c12e25eee07"
-    ]
-  },
+
           {
     "title":"",
     "provider":"stream",
