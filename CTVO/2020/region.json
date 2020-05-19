@@ -169,7 +169,7 @@
   },
             {
     "title":"Canal 9 | Concepción",
-    "provider":"radio",
+    "provider":"stream",
     "image": "https://i.imgur.com/tZ3gJiP.png",
     "arguments":[
       "http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8"
@@ -194,7 +194,7 @@
     {
     "title":"UATV | Temuco",
     "provider":"stream",
-    "image": "qpnkBzN.png",
+    "image": "https://i.imgur.com/qpnkBzN.png",
     "arguments":[
       "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ]
