@@ -19,17 +19,17 @@
                {
     "title":"",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/fmhot0.jpg?raw=true",
+    "image": "https://i.imgur.com/hzZQxNu.pnge",
     "arguments":[
-      "http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8"
+      "https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8"
     ]
   },
              {
     "title":"",
     "provider":"stream",
-    "image": "",
+    "image": "https://i.imgur.com/HOfGX6a.png",
     "arguments":[
-      "http://87.252.224.12:8000/playlist.m3u8"
+      "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"
     ]
   }
 ]
