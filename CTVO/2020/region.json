@@ -58,12 +58,19 @@
         {
     "title":"Los Andes | San Felipe",
     "provider":"stream",
-    "image": "https://i.imgur.com/ezYteTW.png",
+    "image": "https://i.imgur.com/MqzUrb5.png",
     "arguments":[
       "https://unlimited5-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
     ]
   },
                 {
+    "title":"VTV | Viña del Mar",
+    "provider":"stream",
+    "image": "https://i.imgur.com/ezYteTW.png",
+    "arguments":[
+      "http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8"
+    ]
+  },                {
     "title":"Canal 22 Santiago",
     "provider":"stream",
     "image": "https://i.imgur.com/7QbBMCe.png",
@@ -82,7 +89,7 @@
                     {
     "title":"Tu Canal | Colina",
     "provider":"stream",
-    "image": "https://i.imgur.com/7QbBMCe.png",
+    "image": "https://i.imgur.com/xfwXojS.jpg",
     "arguments":[
       "http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8"
     ]
@@ -98,13 +105,20 @@
         {
     "title":"TVO | San Vicente",
     "provider":"stream",
-    "image": "https://i.imgur.com/7QbBMCe.png",
+    "image": "https://i.imgur.com/eOKZuI8.png",
     "arguments":[
       "http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8"
     ]
   },
 
              {
+    "title":"Contivisión| Constitución",
+    "provider":"stream",
+    "image": "https://i.imgur.com/LHn9ofg.png",
+    "arguments":[
+      "https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8"
+    ]
+  },             {
     "title":"Nativa TV | Talca",
     "provider":"stream",
     "image": "https://i.imgur.com/qQTfCoX.png",
@@ -118,6 +132,14 @@
     "image": "https://i.imgur.com/kzO3n9t.png",
     "arguments":[
       "https://590c5dc5c3271.streamlock.net/juancarlos563/juancarlos563/master.m3u8"
+    ]
+  },
+                    {
+    "title":"Campus TV | Talca",
+    "provider":"stream",
+    "image": "https://i.imgur.com/UT6HkBE.jpg",
+    "arguments":[
+      "https://unlimited2-cl.dps.live/campustv/campustv.smil/playlist.m3u8"
     ]
   },
                     {
@@ -138,69 +160,93 @@
     ]
   },
         {
-    "title":"",
-    "provider":"radio",
-    "image": "https://4.bp.blogspot.com/-7_45IUs0-fg/XNYo1vVKMEI/AAAAAAAATGg/OAAmTjVzqlcxtPsaa1MnuFodeuZaqsKTwCLcBGAs/s1600/los%2B40.jpg",
+    "title":"Canal 21 | Chillán",
+    "provider":"stream",
+    "image": "https://i.imgur.com/ilCiqga.png",
     "arguments":[
-      "http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac"
+      "http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8"
     ]
   },
             {
-    "title":"",
+    "title":"Canal 9 | Concepción",
     "provider":"radio",
-    "image": "https://2.bp.blogspot.com/-REDtLHle7Gk/XNYo16fo0jI/AAAAAAAATGk/TdQkEcmql1c7VRidN8GpXjwgZ27BfAnQACLcBGAs/s1600/palom.jpg",
+    "image": "https://i.imgur.com/tZ3gJiP.png",
     "arguments":[
-      "http://radio.mediastre.am/paloma.aac"
+      "http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8"
     ]
   },
                 {
-    "title":"",
-    "provider":"radio",
-    "image": "https://2.bp.blogspot.com/-d-seP0EBiDg/XNY2wJNOxaI/AAAAAAAATH0/YEFIDtbtv7UvleuZRJJvxjsIEtvuiExXQCLcBGAs/s1600/playfm.jpg",
+    "title":"TVU | Concepción",
+    "provider":"stream",
+    "image": "https://i.imgur.com/XHChUjI.png",
     "arguments":[
-      "http://mp3.playfm.cl/;stream/1
-"
+      "http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8"
     ]
   },
         {
-    "title":"",
-    "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-q9ICYUmkqaY/XNYo14r921I/AAAAAAAATGo/I8MmW_m2L48yfPwKw6HDPbgf2Yff7ljdACLcBGAs/s1600/pudahuel.jpg",
+    "title":"Pucón TV | Pucón",
+    "provider":"stream",
+    "image": "https://i.imgur.com/DeSfleJ.png",
     "arguments":[
-      "http://17953.live.streamtheworld.com/PUDAHUELAAC.aac"
+      "https://unlimited5-cl.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chunks.m3u8"
     ]
   },
     {
-    "title":"",
-    "provider":"radio",
-    "image": "https://2.bp.blogspot.com/-PYcNC5hBjCk/XNYo2FICAoI/AAAAAAAATGs/faDr6Qzlra096FaMjQSl3p2U-449lAY0ACLcBGAs/s1600/punto%2B9.jpg",
+    "title":"UATV | Temuco",
+    "provider":"stream",
+    "image": "qpnkBzN.png",
     "arguments":[
-      "http://164.77.84.69:8000/punto9"
+      "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ]
   },
      {
-    "title":"",
-    "provider":"radio",
-    "image":"https://4.bp.blogspot.com/-ig1gj4s8Gsk/XNYo2ToGAJI/AAAAAAAATGw/TI8IDOKKUF8JPI21uZOlxhb_7FJuPTnqgCLcBGAs/s1600/rock%2Band%2Bpop.jpg",
+    "title":"Ufrovisión | Temuco",
+    "provider":"stream",
+    "image":"https://i.imgur.com/hqpnkBzN.png",
     "arguments":[
-      "http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac"
-    ]
-  },
-            {
-    "title":"",
-    "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-ynZhNRkoU7A/XNYo207LYdI/AAAAAAAATG4/Pn86eX1RL7symtSYSVC0KXQqkSRq82hlQCLcBGAs/s1600/romantica.jpg",
-    "arguments":[
-      "http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio"
+      "http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
     ]
   },
      
             {
-    "title":"",
-    "provider":"radio",
-    "image": "https://4.bp.blogspot.com/-B90fXSBOEPo/XNYo3_vWzOI/AAAAAAAATG8/aePj8K-t4ZsvRqqiNroIHRvs9KpbsGE3QCLcBGAs/s1600/universo.jpg",
+    "title":"Inet TV | Osorno",
+    "provider":"stream",
+    "image": "https://i.imgur.com/qhS2Ee8.png",
     "arguments":[
-      "https://redirector.dps.live/universo/aac/icecast.audio"
+      "http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8"
+    ]
+  },
+         
+            {
+    "title":"ULagos TV| Osorno",
+    "provider":"stream",
+    "image": "https://i.imgur.com/IZmyR1B.png",
+    "arguments":[
+      "http://uestv.02.cl.cdnz.cl/uloslagos/live/playlist.m3u8"
+    ]
+  },
+                  {
+    "title":"ITV | Patagonia",
+    "provider":"stream",
+    "image": "https://i.imgur.com/u3SfJYn.png",
+    "arguments":[
+      "https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8"
+    ]
+  },
+            {
+    "title":"Canal 2 | Quellón",
+    "provider":"stream",
+    "image": "https://i.imgur.com/rzv06Mv.png",
+    "arguments":[
+      "http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8"
+    ]
+  },
+                {
+    "title":"Umag TV Digital | Punta Arenas",
+    "provider":"stream",
+    "image": "https://i.imgur.com/OqlcPmb.jpg",
+    "arguments":[
+      "https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8"
     ]
   }
 ]
