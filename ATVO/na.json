@@ -73,9 +73,9 @@
     ]
   },
                   {
-    "title":"24/7",
+    "title":"",
     "provider":"stream",
-    "image":"",
+    "image":"https://4.bp.blogspot.com/--6ak5GfQOl4/XsNzC23SF_I/AAAAAAAAUj0/6OUi-_0rSW8J_woTOjW_WI4QjQM872_GgCLcBGAsYHQ/s1600/canal247.jpg",
     "arguments":[
       "http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8"
     ]
