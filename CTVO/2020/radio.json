@@ -173,7 +173,7 @@
     "provider":"radio",
     "image": "https://i.imgur.com/uudoKgZ.png",
     "arguments":[
-      "https://18493.live.streamtheworld.com/PUDAHUEL.mp3"
+      "https://19253.live.streamtheworld.com/PUDAHUELAAC.aac"
     ]
   },
     {
@@ -206,7 +206,7 @@
     "provider":"radio",
     "image": "https://4.bp.blogspot.com/-B90fXSBOEPo/XNYo3_vWzOI/AAAAAAAATG8/aePj8K-t4ZsvRqqiNroIHRvs9KpbsGE3QCLcBGAs/s1600/universo.jpg",
     "arguments":[
-      "http://unlimited3-cl.dps.live/universo/mp3/icecast.audio"
+      "https://redirector.dps.live/universo/aac/icecast.audio"
     ]
   }
 ]
