@@ -1,12 +1,5 @@
 [
-           {
-    "title":"Noticias 😍😘",
-    "provider":"overview",
-    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c86c2563154543.5aa7c66ed2b1f.gif",
-    "arguments":[
-      "https://kreplay.github.io/CTVO/noticias.json"
-    ]
-  },
+
                                       {
     "title":"",
     "provider":"stream",
@@ -21,14 +14,6 @@
     "image":"https://1.bp.blogspot.com/-rkoL0S9PEE8/XrkpRYHWkLI/AAAAAAAAUhc/kiNspJok49ke3gbamk8l8Ngtmyz3s15jQCLcBGAsYHQ/s1600/tvemol.jpg",
     "arguments":[
       "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
-    ]
-  },
-           {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
-    "arguments":[
-      "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
     ]
   },
                {
@@ -47,46 +32,7 @@
       "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live-1250.m3u8"
     ]
   },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/IueS9II.jpg",
-    "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
-    ]
-  },
-   {
-    "title":"",
-    "provider":"webview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
-    "arguments":[
-      "https://www.lared.cl/senal-online"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"webview",
-    "image":"https://imgur.com/V8NxK1J.jpg",
-    "arguments":[
-      "https://www.mega.cl/senal-en-vivo/"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-E6LohPDelrc/XMz_cV-5IrI/AAAAAAAATEQ/T8HrQtS1GnAn9cLeEaVF2CY3vBhg3oQywCLcBGAs/s1600/america%2Btv.jpg",
-    "arguments":[
-      "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
-    ]
-  },       
+ 
           {
     "title":"",
     "provider":"stream",
