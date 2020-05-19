@@ -1,107 +1,140 @@
 [
     {
-    "title":"Radio Activa",
-    "provider":"radio",
-    "image": "https://2.bp.blogspot.com/-xOzmPngN-24/XNYoztVcW6I/AAAAAAAATGA/yaM_f7JEY7gLucC54bpo0DeB-T_qpw0ygCLcBGAs/s1600/activa.jpg",
+    "title":"Antofagasta TV",
+    "provider":"stream",
+    "image": "https://i.imgur.com/R8vJnAp.png",
     "arguments":[
-      "http://18233.live.streamtheworld.com/ACTIVAAAC.aac"
+      "https://unlimited1-cl.dps.live/atv/atv.smil/atv/livestream1/chunks.m3u8"
     ]
   },
         {
-    "title":"Radio ADN",
-    "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-8yMBWmEOADg/XNYozrUNxeI/AAAAAAAATGE/LG1rxVCyeYE5jycefB3WnlVDrjk2rUedwCLcBGAs/s1600/adn.jpg",
+    "title":"Holvoet TV | Atacama",
+    "provider":"stream",
+    "image": "https://i.imgur.com/PtLIrrx.png",
     "arguments":[
-      "http://19173.live.streamtheworld.com/ADNAAC.aac"
+      "http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
     ]
   },
         {
-    "title":"Radio Ambrosio",
-    "provider":"radio",
-    "image": "https://1.bp.blogspot.com/-Aa3qlfrH6kM/XNYo0KLRQvI/AAAAAAAATGM/fWlXp8t47BUrGmGpqLB9kgq-XpC7KQYHgCLcBGAs/s1600/ambrosio.jpg",
+    "title":"Atacama TV",
+    "provider":"stream",
+    "image": "https://i.imgur.com/sg1aTZE.png",
     "arguments":[
-      "http://s3.mediostream.cl:9378/stream?icy=http"
+      "https://v2.tustreaming.cl/atacamatv/live1/index.m3u8"
     ]
   },
         {
-    "title":"Radio Bio Bio",
-    "provider":"radio",
-    "image": "https://2.bp.blogspot.com/-mHfxenG-6SI/XNYo3WpQ8nI/AAAAAAAATG0/cFfbKuoIGZIpFg67QGJ70jcggC7n6jkFQCLcBGAs/s320/santiago.jpg",
+    "title":"Desierto de Atacama",
+    "provider":"stream",
+    "image": "https://i.imgur.com/WsluQPH.png",
     "arguments":[
-      "http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio"
+      "https://unlimited10-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8"
     ]
   },
             {
-    "title":"",
-    "provider":"radio",
-    "image": "https://4.bp.blogspot.com/-E46acc-uOsM/XNYo0WMQDtI/AAAAAAAATGQ/iocOwXMqabEd8j_0a65s7NkT8G-5FhbwQCLcBGAs/s1600/bio%2Bbio%2Bconcepcion.jpg",
+    "title":"La Serena",
+    "provider":"stream",
+    "image": "https://i.imgur.com/bos2XTg.png",
     "arguments":[
-      "https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio"
+      "https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream2/playlist.m3u8"
     ]
   },
     {
-    "title":"",
-    "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-EaUlkzRmgA8/XNYrQgZI2aI/AAAAAAAATHc/_9vUZVkqTyUyg2Wd7yXqAm0hk8I6pAKfwCLcBGAs/s1600/carolina.jpg",
+    "title":"Canal 2 San Antonio",
+    "provider":"stream",
+    "image": "https://i.imgur.com/jA7qtts.png",
     "arguments":[
-      "http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio"
+      "http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8"
     ]
   },
     {
-    "title":"",
-    "provider":"radio",
-    "image": "https://1.bp.blogspot.com/-w1u_HNLZeOU/XNYo0p22L-I/AAAAAAAATGU/MZu1GmiRV1cLng-M_6wWYhfLPqbv74KrgCLcBGAs/s1600/cooperativa.jpg",
+    "title":"VTV | El Aconcagua",
+    "provider":"stream",
+    "image": "https://i.imgur.com/ezYteTW.png",
     "arguments":[
-      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+      "http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8"
     ]
   },
         {
-    "title":"",
-    "provider":"radio",
-    "image": "https://2.bp.blogspot.com/-08v43ejbvag/XNYWOYZH3_I/AAAAAAAATF4/3bdQtnnIzuIYtbXFiTINIwHxBpn0fCQrQCLcBGAs/s1600/corazon.jpg",
+    "title":"Los Andes | San Felipe",
+    "provider":"stream",
+    "image": "https://i.imgur.com/ezYteTW.png",
     "arguments":[
-      "http://14003.live.streamtheworld.com/CORAZONAAC.aac"
-    ]
-  },
-            {
-    "title":"",
-    "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-ps3862DxuGc/XNYo1NydSEI/AAAAAAAATGY/XOUAmV80U4AKkZhXhrBAYkq1D40ABRQGgCLcBGAs/s1600/disney.jpg",
-    "arguments":[
-      "http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio"
-    ]
-  },
-             {
-    "title":"",
-    "provider":"radio",
-    "image": "https://4.bp.blogspot.com/-w_VywcH0OSQ/XNY2vQ28wRI/AAAAAAAATHk/2uDBamntIv8PSMRdNGNfZ-L86_NYt_ljQCLcBGAs/s1600/fm2.jpg",
-    "arguments":[
-      "http://19223.live.streamtheworld.com/FMDOS_SC"
+      "https://unlimited5-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
     ]
   },
                 {
-    "title":"",
-    "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-92eAmtzs0GE/XNY2vQmgyYI/AAAAAAAATHo/QxQz3uOFWa09mefwROHT7T8G-wXWdl45ACLcBGAs/s1600/futuro.jpg",
+    "title":"Canal 22 Santiago",
+    "provider":"stream",
+    "image": "https://i.imgur.com/7QbBMCe.png",
     "arguments":[
-      "http://19793.live.streamtheworld.com/FUTUROAAC.aac"
+      "http://canal22santiago.cl/playlist.m3u8"
     ]
   },
                     {
-    "title":"",
-    "provider":"radio",
-    "image": "https://2.bp.blogspot.com/-EAxZFMdamEo/XNY2vXMP6bI/AAAAAAAATHs/ySfN9xWP1fsgDVAGwrc306sDqe3PSO7-gCLcBGAs/s1600/imagina.jpg",
+    "title":"Máxima Movie | San Bernardo",
+    "provider":"stream",
+    "image": "https://i.imgur.com/hWtvjVM.png",
     "arguments":[
-      "http://14073.live.streamtheworld.com/IMAGINAAAC.aac"
+      "http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8"
+    ]
+  },
+                    {
+    "title":"Tu Canal | Colina",
+    "provider":"stream",
+    "image": "https://i.imgur.com/7QbBMCe.png",
+    "arguments":[
+      "http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8"
+    ]
+  },
+                    {
+    "title":"Buin Somos Todos | Buin",
+    "provider":"stream",
+    "image": "https://i.imgur.com/5eMb8Vm.png",
+    "arguments":[
+      "https://bst.buin.cl/0.m3u8"
+    ]
+  },
+        {
+    "title":"TVO | San Vicente",
+    "provider":"stream",
+    "image": "https://i.imgur.com/7QbBMCe.png",
+    "arguments":[
+      "http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8"
+    ]
+  },
+
+             {
+    "title":"Nativa TV | Talca",
+    "provider":"stream",
+    "image": "https://i.imgur.com/qQTfCoX.png",
+    "arguments":[
+      "https://inliveserver.com:1936/11528/mp4:11528_360p/master.m3u8"
+    ]
+  },
+                {
+    "title":"TV Maulinos | Talca",
+    "provider":"stream",
+    "image": "https://i.imgur.com/kzO3n9t.png",
+    "arguments":[
+      "https://590c5dc5c3271.streamlock.net/juancarlos563/juancarlos563/master.m3u8"
+    ]
+  },
+                    {
+    "title":"UTV | San Clemente",
+    "provider":"stream",
+    "image": "https://i.imgur.com/pzjJ515.png",
+    "arguments":[
+      "http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8"
     ]
   },
      
             {
-    "title":"",
-    "provider":"radio",
-    "image": "https://3.bp.blogspot.com/-KDconP6C3Q0/XNYo1czEk_I/AAAAAAAATGc/wK4dmb2d3g0HLoZIX9JgQSx3j0pnweJSACLcBGAs/s1600/kr.jpg",
+    "title":"TV 5 | Linares",
+    "provider":"stream",
+    "image": "https://i.imgur.com/yfwr5U5.png",
     "arguments":[
-      "http://rosetta.shoutca.st:8325"
+      "https://unlimited1-cl.dps.live/tv5/tv5.smil/playlist.m3u8"
     ]
   },
         {
