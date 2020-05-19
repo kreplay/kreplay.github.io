@@ -80,14 +80,6 @@
       "http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8"
     ]
   },
-                          {
-    "title":"CL3",
-    "provider":"stream",
-    "image":"",
-    "arguments":[
-      "http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8"
-    ]
-  },
                               {
     "title":"",
     "provider":"stream",
