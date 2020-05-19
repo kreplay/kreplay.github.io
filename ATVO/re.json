@@ -1,12 +1,5 @@
 [
-    {
-    "title":"5R TV",
-    "provider":"stream",
-    "image": "",
-    "arguments":[
-      "http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8"
-    ]
-  },
+
   {
     "title":"Canal 4 - Jujuy",
     "provider":"stream",
@@ -21,14 +14,6 @@
     "image":"",
     "arguments":[
       "http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8"
-    ]
-  },
-  {
-    "title":"Telam 4",
-    "provider":"stream",
-    "image":"",
-    "arguments":[
-      "http://184.154.28.210:1935/canal4/canal4/playlist.m3u8"
     ]
   },
     {
