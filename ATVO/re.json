@@ -1,11 +1,26 @@
 [
-
   {
-    "title":"Canal 4 - Jujuy",
+    "title":"5RTV  - Santa Fé",
     "provider":"stream",
     "image": "",
     "arguments":[
-      "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/chunklist_w621402693.m3u8"
+      "http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8"
+    ]
+  },
+  {
+    "title":"Multivisión",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8"
+    ]
+  },
+  {
+    "title":"Canal 10 - General Roca",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8"
     ]
   },
   {
@@ -70,6 +85,46 @@
     "image":"",
     "arguments":[
       "http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8"
+    ]
+  },
+                 {
+    "title":"Canal 79 - Mar del Plata",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w56484596.m3u8"
+    ]
+  },
+                   {
+    "title":"Canal 9 Comodoro Rivadavia",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://live.canalnueve.tv/canal.m3u8"
+    ]
+  },
+                     {
+    "title":"RTN Neuquén",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8"
+    ]
+  },
+                       {
+    "title":"Chacra TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://s8.stweb.tv:1935/chacra/live/chunks.m3u8"
+    ]
+  },
+                       {
+    "title":"CPE TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8"
     ]
   }
 ]
