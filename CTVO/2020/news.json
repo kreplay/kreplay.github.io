@@ -46,5 +46,13 @@
     "arguments":[
       "https://www.youtube.com/embed/wHn1_QVoXGM"
     ]
+  },
+     {
+    "title":"",
+    "provider":"stream",
+    "image":"https://img.iptvmate.net/baee2be40deda03a665cc490362cc1f3.png",
+    "arguments":[
+      "https://ch.iptvmate.net/2efe26daf07ada2bcba7d7c94deb1188.m3u8"
+    ]
   }
 ]
