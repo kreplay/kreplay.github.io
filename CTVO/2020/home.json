@@ -2,7 +2,7 @@
            {
     "title":"Noticias",
     "provider":"overview",
-    "image": "",
+    "image": "https://image.freepik.com/vector-gratis/medicos-personas-mayores-que-usan-mascarillas-pandemia-covid19_24877-63538.jpg",
     "arguments":[
       "https://kreplay.github.io/CTVO/noticias.json"
     ]
