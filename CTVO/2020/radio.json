@@ -20,7 +20,7 @@
     "provider":"radio",
     "image": "https://pbs.twimg.com/profile_images/584224031316058113/M6OWTF6n_400x400.jpg",
     "arguments":[
-      "http://s3.mediostream.cl:9378/stream?icy=http"
+      "http://s4.mediostream.cl:8113/;type=mp3"
     ]
   },
             {
