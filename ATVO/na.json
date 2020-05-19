@@ -7,6 +7,14 @@
       "http://200.115.193.177/live/26hd-480/.m3u8"
     ]
   },
+      {
+    "title":"",
+    "provider":"stream",
+    "image": "https://3.bp.blogspot.com/-QQ_S-JeVhP8/XsNQjH70F7I/AAAAAAAAUjI/zvBPCT4md6kXbI3HPCqy85dTizrZlEQLACLcBGAsYHQ/s1600/el%2B9.png",
+    "arguments":[
+      "http://195.201.205.194:5000/Latinos/EZZrpiINDr/40"
+    ]
+  },
   {
     "title":"",
     "provider":"stream",
@@ -20,7 +28,15 @@
     "provider":"stream",
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3197.m3u8"
+      "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_MOBILE/ArtearHD.m3u8"
+    ]
+  },
+      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
+    "arguments":[
+      "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_MOBILE_FTA/ArtearHD-video=678000.m3u8"
     ]
   },
     {
@@ -28,15 +44,31 @@
     "provider":"stream",
     "image":"https://2.bp.blogspot.com/-qI95vAYeRwM/XGO0swEh2xI/AAAAAAAASiw/HCjgS-fktKgImS-4y2oRx6hh42F2bN1pACLcBGAs/s1600/tv%2Bpublica%2Bargentina.png",
     "arguments":[
-      "https://chunks01.tvpublica.com.ar/streams/BJQRNMF6b.m3u8"
+      "https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8"
     ]
   },
       {
     "title":"",
     "provider":"stream",
-    "image":"https://4.bp.blogspot.com/-CTZ-2ZODGak/XGSrfbqrBCI/AAAAAAAASjY/TfoIsDaLTRQpjcVCN4SrVRPeAnoj3NS0QCLcBGAs/s1600/telefe.png",
+    "image":"https://1.bp.blogspot.com/-xenNo6lc0sY/XsNPpVno7WI/AAAAAAAAUi0/3Vtt_VZ_hFMkri11vBU0TTO6XbW9_lVVgCLcBGAsYHQ/s1600/telefe.jpg",
     "arguments":[
-      "http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22121.m3u8"
+      "https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_3_av-p.m3u8?sd=10&rebase=on"
+    ]
+  },
+          {
+    "title":"",
+    "provider":"stream",
+    "image":"https://3.bp.blogspot.com/-QIdNeZJqpZE/XsNPpRuO1-I/AAAAAAAAUi4/r3EKDCqDNBcflJ3V_8L2roHIbDYK3dCagCLcBGAsYHQ/s1600/telefe%2Bcordoba.jpg",
+    "arguments":[
+      "https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/index_1_av-p.m3u8"
+    ]
+  },
+          {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-oKKm1T_8QE4/XsNPpdWOXSI/AAAAAAAAUi8/C6pSxHkAhYQVyqJsOyjlXTgcAs7iSR1ewCLcBGAsYHQ/s1600/telefe%2Bsanta%2Bfe.jpg",
+    "arguments":[
+      "https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/index_11_av-b.m3u8"
     ]
   },
           {
