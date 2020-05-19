@@ -31,29 +31,37 @@
       "http://unlimited6-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
     ]
   },
+            {
+    "title":"Contivisión Música,
+    "provider":"stream",
+    "image": "https://i.imgur.com/LHn9ofg.png",
+    "arguments":[
+      "http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8"
+    ]
+  },
         {
     "title":"Radio Camila TV",
     "provider":"stream",
-    "image": "https://i.imgur.com/",
+    "image": "https://i.imgur.com/1Ct0fSh.png",
     "arguments":[
       "https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8"
     ]
   },
         {
-    "title":"",
+    "title":"Maulina FM",
     "provider":"stream",
-    "image": "https://i.imgur.com/",
+    "image": "https://i.imgur.com/vKBGzLp.png",
     "arguments":[
-      "http://18233.live.streamtheworld.com/ACTIVAAAC.aac"
+      "https://v2.tustreaming.cl/maulinafm/live1/tracks-v1a1/mono.m3u8"
     ]
   },
         {
-    "title":"",
+    "title":"Máxima Videos Clásicos",
     "provider":"stream",
-    "image": "https://i.imgur.com/",
+    "image": "https://i.imgur.com/hWtvjVM.png",
     "arguments":[
-      "http://18233.live.streamtheworld.com/ACTIVAAAC.aac"
+      "https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8"
     ]
-  },
+  }
 
 ]
