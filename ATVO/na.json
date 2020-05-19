@@ -57,17 +57,17 @@
     ]
   },
           {
-    "title":"13 Max",
+    "title":"",
     "provider":"stream",
     "image":"",
     "arguments":[
-      "http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8"
+      "https://1.bp.blogspot.com/-MWsJmM1RZP8/XsNuJx1dq1I/AAAAAAAAUjY/120cGRuZv9oQcePK96pZhTrib5EMgspnACLcBGAsYHQ/s1600/13%2BMAX.jpg"
     ]
   },
               {
-    "title":"Argentinisima",
+    "title":"",
     "provider":"stream",
-    "image":"",
+    "image":"https://2.bp.blogspot.com/-24UklpEO8L4/XsNvvF4xQ-I/AAAAAAAAUjo/4K2mscevfMgk7ZOWgPAohR3yF4V_lWRRwCLcBGAsYHQ/s1600/argentinisima.jpg",
     "arguments":[
       "http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8"
     ]
@@ -89,9 +89,9 @@
     ]
   },
                               {
-    "title":"Conexión Abierta",
+    "title":"",
     "provider":"stream",
-    "image":"",
+    "image":"https://3.bp.blogspot.com/-VFKmbCXMC4w/XsNuJwKn_dI/AAAAAAAAUjU/56-kASSTY9M9-0FfDJeU7rxbfvXlww_KgCLcBGAsYHQ/s1600/conexion%2Babierta.jpg",
     "arguments":[
       "http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8"
     ]
