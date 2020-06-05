@@ -15,7 +15,7 @@
     "arguments":[
       "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
     ]
-  },⁹
+  },
                {
     "title":"",
     "provider":"stream",
@@ -46,14 +46,6 @@
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
     "arguments":[
       "https://www.lared.cl/senal-online"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"webview",
-    "image":"https://imgur.com/V8NxK1J.jpg",
-    "arguments":[
-      "https://www.mega.cl/senal-en-vivo/"
     ]
   },
   {
