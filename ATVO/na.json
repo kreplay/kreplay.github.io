@@ -9,10 +9,10 @@
   },
       {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image": "https://3.bp.blogspot.com/-QQ_S-JeVhP8/XsNQjH70F7I/AAAAAAAAUjI/zvBPCT4md6kXbI3HPCqy85dTizrZlEQLACLcBGAsYHQ/s1600/el%2B9.png",
     "arguments":[
-      "http://195.201.205.194:5000/Latinos/EZZrpiINDr/40"
+      "https://www.elnueve.com.ar/en-vivo/"
     ]
   },
   {
@@ -23,12 +23,20 @@
       "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
     ]
   },
+    {
+    "title":"",
+    "provider":"webview",
+    "image":"https://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png",
+    "arguments":[
+      "https://www.youtube.com/embed/MdJsCt1ThIQ"
+    ]
+  },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
-      "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_MOBILE/ArtearHD.m3u8"
+      "https://www.eltrecetv.com.ar/vivo"
     ]
   },
       {
@@ -37,6 +45,22 @@
     "image":"https://4.bp.blogspot.com/-GANlsPMonEU/XGO0pXJSMVI/AAAAAAAASiM/63rfyI5ZCiEB6588RJIB2WoPBBsHhBbrACLcBGAs/s1600/canal%2B13.png",
     "arguments":[
       "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_MOBILE_FTA/ArtearHD-video=678000.m3u8"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"webview",
+    "image":"https://i2.wp.com/elsigloweb.com/wp-content/uploads/2017/09/C5N_Logo_2015.png?resize=840%2C478",
+    "arguments":[
+      "https://www.youtube.com/embed/SITqezHXSHA"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"webview",
+    "image":"https://www.cronicatv.com.ar/__export/1503431053000/sites/cronica/arte/imagenes-redes/Imagen-dummy.png",
+    "arguments":[
+      "https://www.youtube.com/embed/K9X2WcIk_Ws"
     ]
   },
           {
