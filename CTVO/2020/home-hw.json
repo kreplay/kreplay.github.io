@@ -1,12 +1,4 @@
 [
-           {
-    "title":"📺 Noticias",
-    "provider":"overview",
-    "image": "https://4.bp.blogspot.com/-zqjDUfvyzf0/XsQaFl38jlI/AAAAAAAAUkM/vngp829GdM8D3zaXyCfODJ5c6hnDMo8aQCLcBGAsYHQ/s1600/banner.jpg",
-    "arguments":[
-      "https://kreplay.github.io/CTVO/noticias.json"
-    ]
-  },
                                       {
     "title":"",
     "provider":"stream",
