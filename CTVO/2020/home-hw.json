@@ -31,7 +31,7 @@
       "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
     ]
   },
-               {
+             {
     "title":"",
     "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
@@ -41,10 +41,10 @@
   },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
+      "https://www.chilevision.cl/senal-online"
     ]
   },
    {
