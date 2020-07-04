@@ -23,14 +23,6 @@
       "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
     ]
   },
-           {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
-    "arguments":[
-      "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
-    ]
-  },
                {
     "title":"",
     "provider":"stream",
@@ -84,7 +76,7 @@
     "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
+      "http://nano.zappingtv.com:1935/tvno/tvn.smil/chunklist_b728000_sles.m3u8"
     ]
   },       
           {
