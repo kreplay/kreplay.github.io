@@ -15,20 +15,12 @@
       "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
     ]
   },
-                           {
+                              {
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-rkoL0S9PEE8/XrkpRYHWkLI/AAAAAAAAUhc/kiNspJok49ke3gbamk8l8Ngtmyz3s15jQCLcBGAsYHQ/s1600/tvemol.jpg",
     "arguments":[
       "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
-    ]
-  },
-           {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/NCL/cnn.jpg?raw=true",
-    "arguments":[
-      "http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
     ]
   },
                {
@@ -44,15 +36,15 @@
     "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "https://cl-canal13-13now-live.ned.media/live.m3u8"
+      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live.m3u8"
     ]
   },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
+      "https://www.chilevision.cl/senal-online"
     ]
   },
    {
@@ -84,7 +76,7 @@
     "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8"
+      "http://nano.zappingtv.com:1935/tvno/tvn.smil/chunklist_b728000_sles.m3u8"
     ]
   },       
           {
@@ -94,7 +86,7 @@
     "arguments":[
       "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ]
-  },          {
+  },              {
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
