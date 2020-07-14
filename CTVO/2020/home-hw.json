@@ -1,5 +1,13 @@
 [
-                                      {
+                         {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
+    "arguments":[
+      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd"
+    ]
+  },                      
+{
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-3D2ymwJpyqo/XrkpQ2YFFTI/AAAAAAAAUhY/44B33t-NMdM3oHBxCs3v2hLWV6GGdss-wCLcBGAsYHQ/s1600/tveducachile.jpg",
@@ -94,14 +102,7 @@
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
   },
-         {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
-    "arguments":[
-      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd"
-    ]
-  },      {
+      {
     "title":"",
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
