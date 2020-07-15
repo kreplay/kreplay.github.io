@@ -1,5 +1,13 @@
 [
-                         {
+               {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
+    "arguments":[
+      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
+    ]
+  },           
+  {
     "title":"",
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
@@ -100,14 +108,6 @@
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ucv.jpg?raw=true",
     "arguments":[
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
-    "arguments":[
-      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
     ]
   },
   {
