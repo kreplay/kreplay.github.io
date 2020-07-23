@@ -9,10 +9,10 @@
   },           
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
     "arguments":[
-      "https://www.youtube.com/embed/gTdP2L5Lawo"
+      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
     ]
   },                      
 {
@@ -81,10 +81,10 @@
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://nano.zappingtv.com:1935/tvno/tvn.smil/chunklist_b728000_sles.m3u8"
+      "https://www.tvn.cl/envivo/"
     ]
   },       
           {
