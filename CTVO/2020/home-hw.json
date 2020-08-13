@@ -2,27 +2,12 @@
              {
     "title":"📱 Revisa esta App",
     "provider":"custom",
-    "image": "https://1.bp.blogspot.com/-I_mfJ8EoTdk/XzSkyyeIxCI/AAAAAAAAUtc/UFo3wsHpHIc4Q0ENI_tRPeQgL3-18pkeQCLcBGAsYHQ/s560/banner.png",
+    "image": "https://1.bp.blogspot.com/-Aksm7Wshsv4/XzSld0ua6sI/AAAAAAAAUtk/CCIaeyMsxoMfUqZfiO4oBpg5NhEDS4m2wCLcBGAsYHQ/s560/banner.png",
     "arguments":[
       "https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=C102443381", "url"
     ]
   },
-               {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
-    "arguments":[
-      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
-    ]
-  },           
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
-    "arguments":[
-      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
-    ]
-  },                      
+                   
 {
     "title":"",
     "provider":"stream",
@@ -141,7 +126,22 @@
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8"
     ]
-  },
+  },               {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
+    "arguments":[
+      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
+    ]
+  },           
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
+    "arguments":[
+      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
+    ]
+  },   
              {
     "title":"",
     "provider":"stream",
