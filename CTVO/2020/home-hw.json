@@ -1,4 +1,12 @@
 [
+             {
+    "title":"📱 Revisa esta App",
+    "provider":"custom",
+    "image": "https://1.bp.blogspot.com/-UfncveaPqZ0/XzSjdYE3fQI/AAAAAAAAUtQ/bWviUhlCHMgRb5UjkLV3mFlqui66tB0UQCLcBGAsYHQ/s560/banner.png",
+    "arguments":[
+      "https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=C102443381", "url"
+    ]
+  },
                {
     "title":"",
     "provider":"stream",
