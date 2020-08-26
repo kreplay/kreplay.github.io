@@ -1,11 +1,11 @@
 [
              {
-    "title":"📱 Revisa esta App",
-    "provider":"custom",
-    "image": "https://1.bp.blogspot.com/-Aksm7Wshsv4/XzSld0ua6sI/AAAAAAAAUtk/CCIaeyMsxoMfUqZfiO4oBpg5NhEDS4m2wCLcBGAsYHQ/s560/banner.png",
-    "arguments":[
-      "https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=C102443381", "url"
-    ]
+ "title":"",
+        "provider":"wordpress_audio",
+         "image":"https://1.bp.blogspot.com/-G8Ift3aDiFw/X0bqoMGhqxI/AAAAAAAAUv0/q9FoSMU6lTcXP9geMyTw3PjyTFD5IH8fACLcBGAsYHQ/s400/fiestas%2Bpatrias.png",      
+        "arguments":[
+          "http://cuecas.chilechileno.cl/wp-json/wp/v2/", ""
+        ]
   },
                    
 {
