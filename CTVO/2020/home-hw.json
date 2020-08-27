@@ -4,7 +4,7 @@
         "provider":"wordpress_audio",
          "image":"https://1.bp.blogspot.com/-dc-TWtnqCEM/X0buBAJcVsI/AAAAAAAAUwM/dXlTI6gO49sSWESAinycUhIAgpUuAJAmACLcBGAsYHQ/s320/fiestas%2Bpatrias3.png",      
         "arguments":[
-          "http://cuecas.chilechileno.cl/wp-json/wp/v2/", ""
+          "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "2"
         ]
   },
                    
