@@ -1,0 +1,19 @@
+[
+  {
+    "title":"Learn Something",
+    "provider":"youtube",
+    "image": "https://unsplash.it/720/480?image=1073",
+    "arguments":[
+      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE", "playlist"
+    ]
+  },
+  {
+    "title":"Hot Trailers",
+    "provider":"wordpress_audio",
+    "image":"https://unsplash.it/720/480?image=967",
+    "arguments":[
+    "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "2"
+    ]
+  }
+
+]
