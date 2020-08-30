@@ -1,16 +1,16 @@
 [
   {
-    "title":"Learn Something",
-    "provider":"youtube",
-    "image": "https://unsplash.it/720/480?image=1073",
+    "title":"100+ Canciones",
+    "provider":"wordpress_audio",
+    "image": "https://1.bp.blogspot.com/-3YNkm7f3hrA/X0rxIodqXAI/AAAAAAAAUww/QWEpWaWnFVIc1nIVQ5TicgeMbhP2sdS9QCLcBGAsYHQ/s400/variado.png",
     "arguments":[
-      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE", "playlist"
+    "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "3"
     ]
   },
   {
-    "title":"Hot Trailers",
+    "title":"50+ Canciones",
     "provider":"wordpress_audio",
-    "image":"https://unsplash.it/720/480?image=967",
+    "image":"https://1.bp.blogspot.com/-A5lBofze-N4/X0rxIsVIW8I/AAAAAAAAUws/kZnJ5hAeYDIyFI_b8bNg736CWPDCK6XRgCLcBGAsYHQ/s400/fiestas%2Bpatrias-cueca.png",
     "arguments":[
     "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "2"
     ]
