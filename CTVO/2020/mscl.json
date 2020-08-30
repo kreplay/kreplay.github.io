@@ -14,6 +14,14 @@
     "arguments":[
     "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "2"
     ]
-  }
+  },
+    {
+    "title":"Medleys de canciones",
+    "provider":"wordpress_audio",
+    "image":"https://1.bp.blogspot.com/-zkpCHy0wAJI/X0r0E5YomdI/AAAAAAAAUxA/F2kAf5TX7b071_zJQkXKQak9koRql0vggCLcBGAsYHQ/s320/Mixes.png",
+    "arguments":[
+    "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "4"
+    ]
+  },
 
 ]
