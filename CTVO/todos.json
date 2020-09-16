@@ -1,14 +1,5 @@
 [
-
-                {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
-    "arguents":[
-      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
-    ]
-  }, 
-    {
+      {
     "title":"Noticias",
     "provider":"overview",
     "image": "",
@@ -45,15 +36,15 @@
     "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "https://cl-canal13-13now-live.ned.media/live.m3u8"
+      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live.m3u8"
     ]
   },
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8"
+      "https://www.chilevision.cl/senal-online"
     ]
   },
    {
@@ -82,10 +73,10 @@
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://nano.zappingtv.com:1935/tvno/tvn.smil/chunklist_b728000_sles.m3u8"
+      "https://www.tvn.cl/envivo/"
     ]
   },       
           {
@@ -223,6 +214,14 @@
     "image":"http://www.m3u.cl/logo/97299_On_Radio_Chile.png",
     "arguments":[
       "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
+    ]
+  },
+                  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
+    "arguents":[
+      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
     ]
   }
            
