@@ -58,10 +58,10 @@
   },
     {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://www.tvn.cl/envivo/"
+      "http://161.132.222.194:10000/play/a096"
     ]
   },       
           {
