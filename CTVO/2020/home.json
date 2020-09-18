@@ -63,7 +63,15 @@
     "arguments":[
       "http://161.132.222.194:10000/play/a096"
     ]
-  },       
+  },  
+      {
+    "title":"",
+    "provider":"webview",
+    "image":"https://imgur.com/UVFiDRp.jpg",
+    "arguments":[
+      "https://tvn.cl/envivo/"
+    ]
+  },  
           {
     "title":"",
     "provider":"stream",
