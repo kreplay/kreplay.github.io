@@ -1,5 +1,5 @@
 [
-           {
+      {
     "title":"Noticias",
     "provider":"overview",
     "image": "",
@@ -7,14 +7,6 @@
       "https://kreplay.github.io/CTVO/noticias.json"
     ]
   },
-         {
-    "title":"",
-    "provider":"webview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
-    "arguments":[
-      "https://www.youtube.com/embed/gTdP2L5Lawo"
-    ]
-  },     
                                       {
     "title":"",
     "provider":"stream",
@@ -23,7 +15,7 @@
       "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
     ]
   },
-                              {
+                           {
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-rkoL0S9PEE8/XrkpRYHWkLI/AAAAAAAAUhc/kiNspJok49ke3gbamk8l8Ngtmyz3s15jQCLcBGAsYHQ/s1600/tvemol.jpg",
@@ -71,6 +63,14 @@
       "https://www.mega.cl/senal-en-vivo/"
     ]
   },
+        {
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/V8NxK1J.jpg",
+    "arguments":[
+      "http://161.132.222.194:10000/play/a093"
+    ]
+  },
   {
     "title":"",
     "provider":"stream",
@@ -81,10 +81,10 @@
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://nano.zappingtv.com:1935/tvno/tvn.smil/chunklist_b728000_sles.m3u8"
+      "https://www.tvn.cl/envivo/"
     ]
   },       
           {
@@ -94,7 +94,7 @@
     "arguments":[
       "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ]
-  },              {
+  },          {
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
@@ -110,8 +110,8 @@
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
   },
- {
-    "title":"",
+     {
+    "":"",
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
     "arguments":[
@@ -199,6 +199,15 @@
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
     ]
   },
+           
+                        {
+    "title":"",
+    "provider":"stream",
+    "image":"https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar.png",
+    "arguments":[
+      "http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8"
+    ]
+  },
                                    {
     "title":"",
     "provider":"stream",
@@ -213,6 +222,14 @@
     "image":"http://www.m3u.cl/logo/97299_On_Radio_Chile.png",
     "arguments":[
       "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
+    ]
+  },
+                  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
+    "arguents":[
+      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
     ]
   }
            
