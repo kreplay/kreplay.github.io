@@ -63,6 +63,14 @@
       "https://www.mega.cl/senal-en-vivo/"
     ]
   },
+        {
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/V8NxK1J.jpg",
+    "arguments":[
+      "http://161.132.222.194:10000/play/a093"
+    ]
+  },
   {
     "title":"",
     "provider":"stream",
