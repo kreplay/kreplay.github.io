@@ -1,36 +1,13 @@
 [
-      {
-    "title":"Noticias",
-    "provider":"overview",
-    "image": "",
-    "arguments":[
-      "https://kreplay.github.io/CTVO/noticias.json"
-    ]
-  },
-                                      {
+                                          {
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-3D2ymwJpyqo/XrkpQ2YFFTI/AAAAAAAAUhY/44B33t-NMdM3oHBxCs3v2hLWV6GGdss-wCLcBGAsYHQ/s1600/tveducachile.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
     ]
-  },
-                           {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-rkoL0S9PEE8/XrkpRYHWkLI/AAAAAAAAUhc/kiNspJok49ke3gbamk8l8Ngtmyz3s15jQCLcBGAsYHQ/s1600/tvemol.jpg",
-    "arguments":[
-      "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
-    ]
-  },
-               {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cooperativa.jpg?raw=true",
-    "arguments":[
-      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
-    ]
-  },
+  },       
+
                {
     "title":"",
     "provider":"stream",
@@ -63,14 +40,6 @@
       "https://www.mega.cl/senal-en-vivo/"
     ]
   },
-        {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/V8NxK1J.jpg",
-    "arguments":[
-      "http://161.132.222.194:10000/play/a093"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
@@ -81,12 +50,20 @@
   },
     {
     "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/UVFiDRp.jpg",
+    "arguments":[
+      "http://161.132.222.194:10000/play/a096"
+    ]
+  },  
+      {
+    "title":"",
     "provider":"webview",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "https://www.tvn.cl/envivo/"
+      "https://tvn.cl/envivo/"
     ]
-  },       
+  },  
           {
     "title":"",
     "provider":"stream",
@@ -110,7 +87,7 @@
       "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ]
   },
-     {
+                 {
     "title":"",
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
@@ -118,6 +95,14 @@
       "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
     ]
   },
+         {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
+    "arguments":[
+      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
+    ]
+  },           
   {
     "title":"",
     "provider":"stream",
@@ -142,6 +127,23 @@
       "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8"
     ]
   },
+   
+                           {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-rkoL0S9PEE8/XrkpRYHWkLI/AAAAAAAAUhc/kiNspJok49ke3gbamk8l8Ngtmyz3s15jQCLcBGAsYHQ/s1600/tvemol.jpg",
+    "arguments":[
+      "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
+    ]
+  },
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cooperativa.jpg?raw=true",
+    "arguments":[
+      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+    ]
+  },        
              {
     "title":"",
     "provider":"stream",
@@ -199,15 +201,6 @@
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
     ]
   },
-           
-                        {
-    "title":"",
-    "provider":"stream",
-    "image":"https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar.png",
-    "arguments":[
-      "http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8"
-    ]
-  },
                                    {
     "title":"",
     "provider":"stream",
@@ -222,14 +215,6 @@
     "image":"http://www.m3u.cl/logo/97299_On_Radio_Chile.png",
     "arguments":[
       "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
-    ]
-  },
-                  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
-    "arguents":[
-      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
     ]
   }
            
