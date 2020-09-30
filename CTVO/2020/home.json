@@ -1,10 +1,10 @@
 [
                {
- "title":"!",
-        "provider":"overview",
-         "image":"https://1.bp.blogspot.com/-dc-TWtnqCEM/X0buBAJcVsI/AAAAAAAAUwM/dXlTI6gO49sSWESAinycUhIAgpUuAJAmACLcBGAsYHQ/s320/fiestas%2Bpatrias3.png",      
+ "title":"Debate Presidencial EE.UU",
+        "provider":"webview",
+         "image":"https://cnet3.cbsistatic.com/img/KWW1kaz6OwziZJYa5sDfqTfQudo=/1200x675/2020/09/25/faff1261-aa48-4ebd-9844-27654a922908/telemundo.jpg",      
         "arguments":[
-          "https://kreplay.github.io/CTVO/2020/mscl.json"
+          "https://www.youtube.com/embed/KOV-9NtZTQk"
         ]
   },
                                           {
