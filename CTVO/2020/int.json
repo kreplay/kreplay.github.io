@@ -1,59 +1,59 @@
 [
-                        {
-    "title":"",
-    "provider":"stream",
-    "image": "http://www.m3u.cl/logo/95519_Rec_Online.png",
-    "arguments":[
-      "https://master.tucableip.com/reconline/live/video.m3u8"
-    ]
-  },
+
            {
     "title":"",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/rt0.jpg?raw=true",
+    "image": "https://1.bp.blogspot.com/-ZI603HTZztE/X4DL6JTFvdI/AAAAAAAAVK0/JBrjCnu8YuIkpB3OgCQMrWMvqdf5k0_UgCLcBGAsYHQ/s560/arirang.jpg",
     "arguments":[
-      "https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8"
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     ]
   },
                {
     "title":"",
     "provider":"stream",
-    "image": "http://www.m3u.cl/logo/90570_TV_Salud.png",
+    "image": "https://1.bp.blogspot.com/-zrMUAbxW8bw/X4DL6E2-iEI/AAAAAAAAVKw/ot8aq2oNrVUGux6QrKusEqhrPoS_etTlwCLcBGAsYHQ/s320/bhtv.jpg",
     "arguments":[
-      "https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8"
+      "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8"
     ]
   },
                           {
     "title":"",
     "provider":"stream",
-    "image": "http://www.m3u.cl/logo/96280_TOP_Latino_TV.png",
+    "image": "https://1.bp.blogspot.com/-EXJWMKrbepQ/X4DL6OM7k6I/AAAAAAAAVK4/cWgKqyd9UZcNBLnPDR1IZi4rUk-mLRQRgCLcBGAsYHQ/s560/cgtn.jpg",
     "arguments":[
-      "https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/.m3u8"
+      "http://livees.cgtn.com/1000e/prog_index.m3u8"
     ]
   },
                                      {
     "title":"",
     "provider":"stream",
-    "image": "http://www.m3u.cl/logo/96977_Antena_3_Internacional.png",
+    "image": "https://1.bp.blogspot.com/-NaFn9MVhvxo/X4DL68Vj-yI/AAAAAAAAVK8/eKl0U35cTakaujafwJR5a_f0JeaeKwKMQCLcBGAsYHQ/s320/dwes.jpg",
     "arguments":[
-      "https://livestartover.atresmedia.com/a3internacional/bitrate_4.m3u8"
+      "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on"
     ]
   },
                                      {
     "title":"",
     "provider":"stream",
-    "image": "http://www.m3u.cl/logo/83641_DW_Espanol.png",
+    "image": "https://1.bp.blogspot.com/-zGQ-Wj4e8BY/X4DL7Emt-EI/AAAAAAAAVLA/nxrNHB5gqfQ26A8_NXw2wfSgjSBhj2CVACLcBGAsYHQ/s560/nhkworld.jpg",
     "arguments":[
-      "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8"
+      "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+    ]
+  },                        {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-t0qeoQ_J7DM/X4DMV6u_IbI/AAAAAAAAVLc/VeKpVXSbCIk5eq2wm7KtPW1G_011cw8OgCLcBGAsYHQ/s560/reconline.jpg",
+    "arguments":[
+      "https://master.tucableip.com/reconline/live/video.m3u8"
     ]
   },
              
                         {
     "title":"",
     "provider":"stream",
-    "image":"https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar.png",
+    "image":"https://1.bp.blogspot.com/-z0w8qoWVLao/X4DL7dTzUPI/AAAAAAAAVLE/jRtM9CMHV7UJ0ND9IyC2sN-5-va58hTWACLcBGAsYHQ/s560/zeetv.jpg",
     "arguments":[
-      "http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8"
+      "https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8"
     ]
   }
 ]
