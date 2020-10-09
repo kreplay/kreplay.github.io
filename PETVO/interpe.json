@@ -1,26 +1,90 @@
 [
-                  {
-    "title":"",
-    "provider":"webview",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "https://player.twitch.tv/?channel=yug_pqw"
-    ]
-  }, 
            {
     "title":"",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/rt0.jpg?raw=true",
+    "image": "https://1.bp.blogspot.com/-eakjIUqXdKQ/X4DSGhznzAI/AAAAAAAAVLs/bXy1QT_KG-ciGE5gTiADBFwJXo-u0PfsACLcBGAsYHQ/s560/america.jpg",
     "arguments":[
-      "https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8"
+      "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+    ]
+  },
+           {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-ZI603HTZztE/X4DL6JTFvdI/AAAAAAAAVK0/JBrjCnu8YuIkpB3OgCQMrWMvqdf5k0_UgCLcBGAsYHQ/s560/arirang.jpg",
+    "arguments":[
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     ]
   },
                {
     "title":"",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/fmhot0.jpg?raw=true",
+    "image": "https://1.bp.blogspot.com/-zrMUAbxW8bw/X4DL6E2-iEI/AAAAAAAAVKw/ot8aq2oNrVUGux6QrKusEqhrPoS_etTlwCLcBGAsYHQ/s320/bhtv.jpg",
     "arguments":[
-      "http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8"
+      "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8"
+    ]
+  },
+                          {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-EXJWMKrbepQ/X4DL6OM7k6I/AAAAAAAAVK4/cWgKqyd9UZcNBLnPDR1IZi4rUk-mLRQRgCLcBGAsYHQ/s560/cgtn.jpg",
+    "arguments":[
+      "http://livees.cgtn.com/1000e/prog_index.m3u8"
+    ]
+  },
+                                     {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-NaFn9MVhvxo/X4DL68Vj-yI/AAAAAAAAVK8/eKl0U35cTakaujafwJR5a_f0JeaeKwKMQCLcBGAsYHQ/s320/dwes.jpg",
+    "arguments":[
+      "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on"
+    ]
+  },
+                                      {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-bHNCZ-Prt2s/X4DSGqS8mdI/AAAAAAAAVLo/tgWq1fOpSxg8mvt8TeI2gcQeTyQrRLvDACLcBGAsYHQ/s560/netv.jpg",
+    "arguments":[
+      "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8"
+    ]
+  },
+                                     {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-zGQ-Wj4e8BY/X4DL7Emt-EI/AAAAAAAAVLA/nxrNHB5gqfQ26A8_NXw2wfSgjSBhj2CVACLcBGAsYHQ/s560/nhkworld.jpg",
+    "arguments":[
+      "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+    ]
+  },                        {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-t0qeoQ_J7DM/X4DMV6u_IbI/AAAAAAAAVLc/VeKpVXSbCIk5eq2wm7KtPW1G_011cw8OgCLcBGAsYHQ/s560/reconline.jpg",
+    "arguments":[
+      "https://master.tucableip.com/reconline/live/video.m3u8"
+    ]
+  },
+             
+                        {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-z0w8qoWVLao/X4DL7dTzUPI/AAAAAAAAVLE/jRtM9CMHV7UJ0ND9IyC2sN-5-va58hTWACLcBGAsYHQ/s560/zeetv.jpg",
+    "arguments":[
+      "https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8"
+    ]
+  },
+      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/rt0.jpg?raw=true",
+    "arguments":[
+      "https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"webview",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/todo%20noticias.jpg?raw=true",
+    "arguments":[
+      "https://www.youtube.com/embed/wHn1_QVoXGM"
     ]
   }
 ]
