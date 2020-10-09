@@ -1,5 +1,12 @@
 [
-
+           {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-eakjIUqXdKQ/X4DSGhznzAI/AAAAAAAAVLs/bXy1QT_KG-ciGE5gTiADBFwJXo-u0PfsACLcBGAsYHQ/s560/america.jpg",
+    "arguments":[
+      "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+    ]
+  },
            {
     "title":"",
     "provider":"stream",
@@ -30,6 +37,14 @@
     "image": "https://1.bp.blogspot.com/-NaFn9MVhvxo/X4DL68Vj-yI/AAAAAAAAVK8/eKl0U35cTakaujafwJR5a_f0JeaeKwKMQCLcBGAsYHQ/s320/dwes.jpg",
     "arguments":[
       "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on"
+    ]
+  },
+                                      {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-bHNCZ-Prt2s/X4DSGqS8mdI/AAAAAAAAVLo/tgWq1fOpSxg8mvt8TeI2gcQeTyQrRLvDACLcBGAsYHQ/s560/netv.jpg",
+    "arguments":[
+      "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8"
     ]
   },
                                      {
