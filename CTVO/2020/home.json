@@ -7,7 +7,6 @@
       "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
     ]
   },       
-
                {
     "title":"",
     "provider":"stream",
@@ -48,14 +47,6 @@
       "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
     ]
   },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "http://161.132.222.194:10000/play/a096"
-    ]
-  },  
       {
     "title":"",
     "provider":"webview",
@@ -84,7 +75,7 @@
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ucv.jpg?raw=true",
     "arguments":[
-      "http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+      "https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream3/chunks.m3u8"
     ]
   },
                  {
@@ -127,15 +118,7 @@
       "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8"
     ]
   },
-   
-                           {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-rkoL0S9PEE8/XrkpRYHWkLI/AAAAAAAAUhc/kiNspJok49ke3gbamk8l8Ngtmyz3s15jQCLcBGAsYHQ/s1600/tvemol.jpg",
-    "arguments":[
-      "https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8"
-    ]
-  },
+
                {
     "title":"",
     "provider":"stream",
@@ -168,20 +151,12 @@
       "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
     ]
   },
-                                   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-bxN5xljfzxQ/XrkuvPgrS_I/AAAAAAAAUh0/olLSfyBhVEspFhMdUqwNRB4Zc9wNQMxJACLcBGAsYHQ/s1600/cachipum.jpg",
-    "arguments":[
-      "http://23.236.180.26/11580409776/live/playlist.m3u8"
-    ]
-  },
                                               {
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-rF7CxLRZgM4/XrkpPeJZuzI/AAAAAAAAUhA/xqdsor1Gj1Yd1HMni4G04SJOyIFsCAodgCLcBGAsYHQ/s1600/boing2.jpg",
     "arguments":[
-      "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8"
+      "https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8"
     ]
   },
                         {
