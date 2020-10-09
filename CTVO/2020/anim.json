@@ -1,34 +1,10 @@
 [
-                    {
-    "title":"",
-    "provider":"stream",
-    "image": "https://i.imgur.com/pzjJ515.png",
-    "arguments":[
-      "http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8"
-    ]
-  },
-                                        {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-3D2ymwJpyqo/XrkpQ2YFFTI/AAAAAAAAUhY/44B33t-NMdM3oHBxCs3v2hLWV6GGdss-wCLcBGAsYHQ/s1600/tveducachile.jpg",
-    "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
-    ]
-  },
-                         {
-    "title":"",
-    "provider":"stream",
-    "image":"https://2.bp.blogspot.com/-bxN5xljfzxQ/XrkuvPgrS_I/AAAAAAAAUh0/olLSfyBhVEspFhMdUqwNRB4Zc9wNQMxJACLcBGAsYHQ/s1600/cachipum.jpg",
-    "arguments":[
-      "http://23.236.180.26/11580409776/live/playlist.m3u8"
-    ]
-  },
-                                              {
+                                                {
     "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-rF7CxLRZgM4/XrkpPeJZuzI/AAAAAAAAUhA/xqdsor1Gj1Yd1HMni4G04SJOyIFsCAodgCLcBGAsYHQ/s1600/boing2.jpg",
     "arguments":[
-      "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8"
+      "https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8"
     ]
   },
                         {
@@ -39,20 +15,28 @@
       "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"
     ]
   },
-                          {
-    "title":"Taltal Animación",
+                         {
+    "title":"",
     "provider":"stream",
-    "image":"",
+    "image":"https://1.bp.blogspot.com/-17t1osr82I0/X4DbRwT6QXI/AAAAAAAAVMQ/0GbdMGCy4cQVcV1FnJCoQCa2MF2gAV10QCLcBGAsYHQ/s560/animee.jpg",
     "arguments":[
-      "https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8"
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5e9beaf8-7fad-4454-9cc6-676b48311488&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=false"
+    ]
+  },
+                          {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-sV_Fup5fMVU/X4DXo2zbw0I/AAAAAAAAVMA/-wn3OPtMuMMa4pBqxEiv1rrTpkmz70DlACLcBGAsYHQ/s320/kids.jpg",
+    "arguments":[
+      "https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8"
     ]
   },
                             {
-    "title":"TV Retro",
+    "title":"",
     "provider":"stream",
-    "image":"",
+    "image":"https://1.bp.blogspot.com/-_DWrI9Y8EO8/X4DXowswHRI/AAAAAAAAVL8/8Aw6ZePsUc45XoFoB390iJqVPid9REhpQCLcBGAsYHQ/s320/Peque.jpg",
     "arguments":[
-      "https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?"
+      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
     ]
   }
 ]
