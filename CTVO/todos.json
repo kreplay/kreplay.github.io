@@ -1,12 +1,12 @@
 [
-                                          {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-3D2ymwJpyqo/XrkpQ2YFFTI/AAAAAAAAUhY/44B33t-NMdM3oHBxCs3v2hLWV6GGdss-wCLcBGAsYHQ/s1600/tveducachile.jpg",
+                                           {
+    "title":"Chile v/s Colombia ⚽⚽",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-0ulOAT9aP-8/X4Y_ndccs_I/AAAAAAAAVMk/iwNk169DVcofbKmtckDBaKmxqxbc3RWuACLcBGAsYHQ/s560/eventotv.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
+      "https://cdn.chatytvgratis.net/caracolhd200.php"
     ]
-  },       
+  },        
                {
     "title":"",
     "provider":"stream",
