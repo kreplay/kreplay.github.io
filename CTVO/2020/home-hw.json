@@ -1,12 +1,5 @@
 [
-                                            {
-    "title":"Chile v/s Colombia ⚽⚽",
-    "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-0ulOAT9aP-8/X4Y_ndccs_I/AAAAAAAAVMk/iwNk169DVcofbKmtckDBaKmxqxbc3RWuACLcBGAsYHQ/s560/eventotv.jpg",
-    "arguments":[
-      "https://cdn.chatytvgratis.net/caracolhd200.php"
-    ]
-  },  
+ 
                    
 {
     "title":"",
@@ -34,10 +27,10 @@
   },
              {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live.m3u8"
+      "https://www.13.cl/en-vivo"
     ]
   },
   {
