@@ -9,10 +9,10 @@
   },       
                {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live.m3u8"
+      "https://www.13.cl/en-vivo"
     ]
   },
   {
