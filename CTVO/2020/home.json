@@ -102,14 +102,6 @@
       "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
     ]
   },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/t13.jpg?raw=true",
-    "arguments":[
-      "http://t13-movil-live.cdn.nedmedia.io/index.m3u8"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
