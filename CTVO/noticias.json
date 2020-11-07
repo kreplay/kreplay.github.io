@@ -20,7 +20,7 @@
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/t13.jpg?raw=true",
     "arguments":[
-      "http://t13-movil-live.cdn.nedmedia.io/index.m3u8"
+      "http://janus-ply.t13.cl/playlist/playlist.m3u8"
     ]
   },
   {
