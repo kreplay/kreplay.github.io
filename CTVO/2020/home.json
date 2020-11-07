@@ -1,4 +1,12 @@
 [
+      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/t13.jpg?raw=true",
+    "arguments":[
+      "http://janus-ply.t13.cl/playlist/playlist.m3u8"
+    ]
+  },
                                           {
     "title":"",
     "provider":"stream",
