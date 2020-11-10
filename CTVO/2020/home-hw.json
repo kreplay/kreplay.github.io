@@ -147,7 +147,7 @@
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
     "arguments":[
-      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
+      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
     ]
   },   
              {
