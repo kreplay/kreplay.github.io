@@ -11,7 +11,7 @@
             {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-990AzR_Egno/X62gctlMzBI/AAAAAAAAVT0/LDAso6HK3aw6lD1AeO3b5fsH-WMKRaINgCLcBGAsYHQ/s320/tvn-web.jpg",
+    "image":"https://1.bp.blogspot.com/-_Fvhgi9lV6I/X62pgNXeBHI/AAAAAAAAVWE/ZKz-wGCwPQQow1HIOribHDHN2l3ZBCnMACLcBGAsYHQ/s320/tvn-web.jpg",
     "arguments":[
       "https://tvn.cl/envivo/"
     ]
@@ -19,7 +19,7 @@
         {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-w6kzJj1CJHs/X62gcH9L_kI/AAAAAAAAVTk/C3pvLdxABkIwth-Q4YU4PfgdGPghKFhSgCLcBGAsYHQ/s320/mega-web.jpg",
+    "image":"https://1.bp.blogspot.com/-buXYqtjzjIE/X62pfTwEp2I/AAAAAAAAVV4/5_Nf_KzqsLMlzDzokePULJ0WlYWAG_IIgCLcBGAsYHQ/s320/mega-web.jpg",
     "arguments":[
       "https://www.mega.cl/senal-en-vivo/"
     ]
@@ -27,7 +27,7 @@
         {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-JdmNmfizZ24/X62gbDYVxPI/AAAAAAAAVTU/6qq0d1R9UuQwTzj0zV9_mXJ-sgP5ZwApwCLcBGAsYHQ/s320/chv-web.jpg",
+    "image":"https://1.bp.blogspot.com/-FKq-PF4p4DA/X62peXZs0dI/AAAAAAAAVVs/WDX8OrzvR4EhbqGlL7Z6iZ00jW6uTAjWwCLcBGAsYHQ/s320/chv-web.jpg",
     "arguments":[
       "https://www.chilevision.cl/senal-online"
     ]
@@ -35,7 +35,7 @@
    {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-TOZRI-dKg4M/X62gbvsOXOI/AAAAAAAAVTc/kGe5OpvvVnstxQ-AJSSa38w7W-PUP2spwCLcBGAsYHQ/s320/la%2Bred-web.jpg",
+    "image":"https://1.bp.blogspot.com/-gWGIdgc1eXY/X62pefjZK9I/AAAAAAAAVVo/KJUEMT3B8pINm_uBu4EcdTHgUelwlaERACLcBGAsYHQ/s320/la%2Bred-web.jpg",
     "arguments":[
       "https://www.lared.cl/senal-online"
     ]
@@ -43,7 +43,7 @@
                                              {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-gnA5-Aq270s/X62gcnftmtI/AAAAAAAAVTw/bVA90HoLiEIU7ZK2Nn6DSkHe_c6X_-VwgCLcBGAsYHQ/s320/tveducacl.jpg",
+    "image":"https://1.bp.blogspot.com/-Pajzm4DhsnY/X62pf_3ujMI/AAAAAAAAVWA/fVJv2dtlXYs1iU98S2Ovx6aoaYqrE7FMgCLcBGAsYHQ/s320/tveducacl.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
     ]
