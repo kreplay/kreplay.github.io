@@ -135,7 +135,7 @@
                                               {
     "title":"",
     "provider":"stream",
-    "image":"http://www.m3u.cl/logo/97299_On_Radio_Chile.png",
+    "image":"https://1.bp.blogspot.com/-DRZ_m3cXgmw/X628RskMpEI/AAAAAAAAVZQ/bWSxxAiTpJ84yY3s5SectWpz2M4JHAcUACLcBGAsYHQ/s320/on%2Bradio%2Bcl.jpg",
     "arguments":[
       "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
     ]
@@ -143,7 +143,7 @@
   {
     "title":"",
     "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-E6LohPDelrc/XMz_cV-5IrI/AAAAAAAATEQ/T8HrQtS1GnAn9cLeEaVF2CY3vBhg3oQywCLcBGAs/s1600/america%2Btv.jpg",
+    "image":"https://1.bp.blogspot.com/-fdwzfY8MfHs/X626vWzEbhI/AAAAAAAAVYs/8sQGHyBlej8PiFrXMvNYq4_2HJ9gZOlvACLcBGAsYHQ/s320/tvchile.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
     ]
@@ -152,14 +152,14 @@
           {
     "title":"",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/uatv.jpg?raw=true",
+    "image":"https://1.bp.blogspot.com/-h1YPlRZ5Ef4/X6261jS2kAI/AAAAAAAAVY4/fnBiFyYje9wdeBN4qHUuLJtIblyao2wsQCLcBGAsYHQ/s320/uatv.jpg",
     "arguments":[
       "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ]
   },          {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
+    "image":"https://1.bp.blogspot.com/-YMArYLHdl1k/X6261pVTKKI/AAAAAAAAVY0/jOvBXoMEW2cAiNjymKeQjpFazcPFps_kgCLcBGAsYHQ/s320/tv%252B.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8"
     ]
@@ -167,7 +167,7 @@
      {
     "title":"",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ucv.jpg?raw=true",
+    "image":"https://1.bp.blogspot.com/-1tVlT7QP6hE/X6261tZgmBI/AAAAAAAAVYw/OBjkY0fEeDsHSYwo1UiJgyf706P15WAigCLcBGAsYHQ/s320/ucv.jpg",
     "arguments":[
       "https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream3/chunks.m3u8"
     ]
@@ -177,7 +177,7 @@
                         {
     "title":"",
     "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-aVn9DDvLgC0/XrkuvCv99UI/AAAAAAAAUhw/yCs848HOIpQXerLPohqNLxyD-ZeTxGldgCLcBGAsYHQ/s1600/ufrovision.jpg",
+    "image":"https://1.bp.blogspot.com/-MdcINYI2tdk/X6262UjckSI/AAAAAAAAVY8/_AwYWNGUnvgvOZneGmUlLnNpTQOmZzVYgCLcBGAsYHQ/s320/ufrovision.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
     ]
@@ -212,7 +212,7 @@
                         {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-qdMDH8klQ50/XrkpQfeNGXI/AAAAAAAAUhM/kMAYRxc5YWonGSOGILnkX69ylBMaMgdNwCLcBGAsYHQ/s1600/maxima.jpg",
+    "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
     "arguments":[
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
     ]
