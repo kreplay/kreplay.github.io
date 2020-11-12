@@ -51,7 +51,7 @@
                        {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-YdqttTnScQ4/X62gaf5izaI/AAAAAAAAVTM/2fIVODLi6O4hziaObiEljK4H_-HXRmviACLcBGAsYHQ/s320/camara%2Bde%2Bdiputados.jpg",
+    "image":"https://1.bp.blogspot.com/-ltrOAMJjQMk/X62rhO7uB-I/AAAAAAAAVXE/S-D7ixeXrfA2SyCuDJ3qCgq935i8IPUPwCLcBGAsYHQ/s320/camara%2Bde%2Bdiputados.jpg",
     "arguments":[
       "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
     ]
@@ -59,7 +59,7 @@
          {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-wAw8YlL1qAI/X62gcvu6z6I/AAAAAAAAVTs/KWNhuefyI3w0nouBQeA4ayYJY0d2IN2twCLcBGAsYHQ/s320/tv%2Bsenado.jpg",
+    "image":"https://1.bp.blogspot.com/-EYXqPUwAhOw/X62rhIaiTyI/AAAAAAAAVW8/D9yTpm9rEMAdLyom0Jm_iAG5j9xz-zN4wCLcBGAsYHQ/s320/tv%2Bsenado.jpg",
     "arguments":[
       "https://janus-tv.senado.cl/embed.php"
     ]
@@ -67,7 +67,7 @@
       {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-etC8HFx5578/X62iOlnqZ8I/AAAAAAAAVUc/uG7I7dhRkToaiZokZtO_kOlMWSHWS3GMgCLcBGAsYHQ/s320/t13.jpg",
+    "image":"https://1.bp.blogspot.com/-vT81lbHY2Yw/X62rDxLU3LI/AAAAAAAAVWs/SlSU4wxbI9oFEIe-CfS_Ptl9iTBRIFn8ACLcBGAsYHQ/s320/t13.jpg",
     "arguments":[
       "http://janus-ply.t13.cl/playlist/playlist.m3u8"
     ]
@@ -76,7 +76,7 @@
   {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-9qzMOC_1aac/X62iOmwlQYI/AAAAAAAAVUg/Pv7mekqzR8UIIOv9WpkBOl9unzcfWJ0VACLcBGAsYHQ/s320/24hrs.jpg",
+    "image":"https://1.bp.blogspot.com/-Yc_CMSj4OY0/X62rD503XEI/AAAAAAAAVWo/lq82oL5xzAEIuK7DnYh2Nz5OCAZCq20ugCLcBGAsYHQ/s320/24hrs.jpg",
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
     ]
@@ -84,7 +84,7 @@
   {
     "title":"",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ahora%20noticias.jpg?raw=true",
+    "image":"https://1.bp.blogspot.com/-gComwBzQUO4/X62rD1D-lEI/AAAAAAAAVWw/DxwzQRWVfv8YIOexbu3U7N3zhSre72oDgCLcBGAsYHQ/s320/mega%2Bnoticias.jpg",
     "arguments":[
       "https://1.bp.blogspot.com/-EBMcBONNVK0/X62jbW8HDOI/AAAAAAAAVUw/xwsh32AQaIM4sfjS6HeoEFG50m0ZmY0QQCLcBGAsYHQ/s320/mega%2Bnoticias.jpg"
     ]
@@ -92,7 +92,7 @@
                  {
     "title":"",
     "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-vBGxIXnGvJ0/X62jwFiZNEI/AAAAAAAAVU4/gykbfctPAQUY0reE0enNA2E-Ti8DNgM0wCLcBGAsYHQ/s320/adn.jpg",
+    "image": "https://1.bp.blogspot.com/--X5gwHX61MA/X62teo-EioI/AAAAAAAAVXU/iXftbMlZCXwMGW7UTsLHUq-pl3pwJblDgCLcBGAsYHQ/s320/adn.jpg",
     "arguments":[
       "http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8"
     ]
@@ -101,7 +101,7 @@
                {
     "title":"",
     "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-OEFpsySuJMo/X62jwKFOzpI/AAAAAAAAVU8/Y7cY0B57ux0exihrSdWrAffIgtqRa4ecQCLcBGAsYHQ/s320/cooperativa.jpg",
+    "image": "https://1.bp.blogspot.com/-5KTImrglqvg/X62tezKvCQI/AAAAAAAAVXc/6fsLpWwbQ7oppci8sY2Jj62vKf3FQjCmQCLcBGAsYHQ/s320/cooperativa.jpg",
     "arguments":[
       "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
     ]
