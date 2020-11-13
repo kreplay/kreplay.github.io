@@ -1,12 +1,4 @@
-[
-                     {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-JvBfa2yjj2U/X63NGSUi_-I/AAAAAAAAVZc/zgPSjTGtDdwnwwf-2zuQT3mDwtvDInlAgCLcBGAsYHQ/s320/argentina%2Bparagiuay.jpg",
-    "arguments":[
-      "http://www.coninfo.net:1935/9linklive/live/playlist.m3u8"
-    ]
-  },    
+[   
                      {
     "title":"",
     "provider":"webview",
