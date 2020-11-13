@@ -1,24 +1,32 @@
-[
-               {
-    "title":"",
-    "provider":"stream",
-    "image": "https://i.ytimg.com/vi/e5vtgg4X07Q/maxresdefault.jpg",
-    "arguments":[
-      "http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8"
-    ]
-  },     
-               {
-    "title":"",
-    "provider":"stream",
-    "image": "https://imgur.com/lM0jLl4.jpg",
-    "arguments":[
-      "https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live.m3u8"
-    ]
-  },
-  {
+[   
+                     {
     "title":"",
     "provider":"webview",
-    "image":"https://imgur.com/IueS9II.jpg",
+    "image": "https://1.bp.blogspot.com/-dfq54Y_MCw8/X62oLJ3yiaI/AAAAAAAAVVU/cGvIkwTH7H8xCsiBDHVcHTrZZ4M021AqQCLcBGAsYHQ/s320/canal%2B13-web.jpg",
+    "arguments":[
+      "https://www.13.cl/en-vivo"
+    ]
+  },
+            {
+    "title":"",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-_Fvhgi9lV6I/X62pgNXeBHI/AAAAAAAAVWE/ZKz-wGCwPQQow1HIOribHDHN2l3ZBCnMACLcBGAsYHQ/s320/tvn-web.jpg",
+    "arguments":[
+      "https://tvn.cl/envivo/"
+    ]
+  },  
+        {
+    "title":"",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-buXYqtjzjIE/X62pfTwEp2I/AAAAAAAAVV4/5_Nf_KzqsLMlzDzokePULJ0WlYWAG_IIgCLcBGAsYHQ/s320/mega-web.jpg",
+    "arguments":[
+      "https://www.mega.cl/senal-en-vivo/"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-FKq-PF4p4DA/X62peXZs0dI/AAAAAAAAVVs/WDX8OrzvR4EhbqGlL7Z6iZ00jW6uTAjWwCLcBGAsYHQ/s320/chv-web.jpg",
     "arguments":[
       "https://www.chilevision.cl/senal-online"
     ]
@@ -26,46 +34,131 @@
    {
     "title":"",
     "provider":"webview",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/lr.jpg?raw=true",
+    "image":"https://1.bp.blogspot.com/-gWGIdgc1eXY/X62pefjZK9I/AAAAAAAAVVo/KJUEMT3B8pINm_uBu4EcdTHgUelwlaERACLcBGAsYHQ/s320/la%2Bred-web.jpg",
     "arguments":[
       "https://www.lared.cl/senal-online"
     ]
   },
-  {
+                                             {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-Pajzm4DhsnY/X62pf_3ujMI/AAAAAAAAVWA/fVJv2dtlXYs1iU98S2Ovx6aoaYqrE7FMgCLcBGAsYHQ/s320/tveducacl.jpg",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
+    ]
+  },   
+                       {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-ltrOAMJjQMk/X62rhO7uB-I/AAAAAAAAVXE/S-D7ixeXrfA2SyCuDJ3qCgq935i8IPUPwCLcBGAsYHQ/s320/camara%2Bde%2Bdiputados.jpg",
+    "arguments":[
+      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
+    ]
+  },
+             {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-GlSv20ykobk/X6201wTIkFI/AAAAAAAAVXw/SQifmswJAqUkKghiGY-WHNbABVLvYsLMwCLcBGAsYHQ/s320/teleton%2Btv.jpg",
+    "arguments":[
+      "https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8"
+    ]
+  },
+         {
     "title":"",
     "provider":"webview",
-    "image":"https://imgur.com/V8NxK1J.jpg",
+    "image":"https://1.bp.blogspot.com/-EYXqPUwAhOw/X62rhIaiTyI/AAAAAAAAVW8/D9yTpm9rEMAdLyom0Jm_iAG5j9xz-zN4wCLcBGAsYHQ/s320/tv%2Bsenado.jpg",
     "arguments":[
-      "https://www.mega.cl/senal-en-vivo/"
+      "https://janus-tv.senado.cl/embed.php"
+    ]
+  },   
+      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-vT81lbHY2Yw/X62rDxLU3LI/AAAAAAAAVWs/SlSU4wxbI9oFEIe-CfS_Ptl9iTBRIFn8ACLcBGAsYHQ/s320/t13.jpg",
+    "arguments":[
+      "http://janus-ply.t13.cl/playlist/playlist.m3u8"
+    ]
+  },
+        
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-Yc_CMSj4OY0/X62rD503XEI/AAAAAAAAVWo/lq82oL5xzAEIuK7DnYh2Nz5OCAZCq20ugCLcBGAsYHQ/s320/24hrs.jpg",
+    "arguments":[
+      "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-E6LohPDelrc/XMz_cV-5IrI/AAAAAAAATEQ/T8HrQtS1GnAn9cLeEaVF2CY3vBhg3oQywCLcBGAs/s1600/america%2Btv.jpg",
+    "image":"https://1.bp.blogspot.com/-gComwBzQUO4/X62rD1D-lEI/AAAAAAAAVWw/DxwzQRWVfv8YIOexbu3U7N3zhSre72oDgCLcBGAsYHQ/s320/mega%2Bnoticias.jpg",
+    "arguments":[
+      "https://1.bp.blogspot.com/-EBMcBONNVK0/X62jbW8HDOI/AAAAAAAAVUw/xwsh32AQaIM4sfjS6HeoEFG50m0ZmY0QQCLcBGAsYHQ/s320/mega%2Bnoticias.jpg"
+    ]
+  },
+    
+             {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-Ei9bj-IxNMk/X6208jtwRFI/AAAAAAAAVX0/p3ARObb5HwU7g4pe0-lqPVh7zK41Pp9GACLcBGAsYHQ/s320/pura%2Bnoticia.jpg",
+    "arguments":[
+      "https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8"
+    ]
+  },
+                 {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/--X5gwHX61MA/X62teo-EioI/AAAAAAAAVXU/iXftbMlZCXwMGW7UTsLHUq-pl3pwJblDgCLcBGAsYHQ/s320/adn.jpg",
+    "arguments":[
+      "http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8"
+    ]
+  },
+
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-5KTImrglqvg/X62tezKvCQI/AAAAAAAAVXc/6fsLpWwbQ7oppci8sY2Jj62vKf3FQjCmQCLcBGAsYHQ/s320/cooperativa.jpg",
+    "arguments":[
+      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+    ]
+  },        
+                                       {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-P4s_Nm8y6hM/X6215Bkrk9I/AAAAAAAAVYg/IU6xyPZT34AxLIXtY396Hfnd2HAx7Qd_gCLcBGAsYHQ/s320/onradio%2Bchile.jpg",
+    "arguments":[
+      "https://tls.cdnz.cl/onradio4/live/playlist.m3u8"
+    ]
+  },
+    
+                                              {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-DRZ_m3cXgmw/X628RskMpEI/AAAAAAAAVZQ/bWSxxAiTpJ84yY3s5SectWpz2M4JHAcUACLcBGAsYHQ/s320/on%2Bradio%2Bcl.jpg",
+    "arguments":[
+      "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-fdwzfY8MfHs/X626vWzEbhI/AAAAAAAAVYs/8sQGHyBlej8PiFrXMvNYq4_2HJ9gZOlvACLcBGAsYHQ/s320/tvchile.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
     ]
   },
-      {
-    "title":"",
-    "provider":"webview",
-    "image":"https://imgur.com/UVFiDRp.jpg",
-    "arguments":[
-      "https://tvn.cl/envivo/"
-    ]
-  },  
+
           {
     "title":"",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/uatv.jpg?raw=true",
+    "image":"https://1.bp.blogspot.com/-h1YPlRZ5Ef4/X6261jS2kAI/AAAAAAAAVY4/fnBiFyYje9wdeBN4qHUuLJtIblyao2wsQCLcBGAsYHQ/s320/uatv.jpg",
     "arguments":[
       "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ]
   },          {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-AgVVSlUpOp4/XPianX2hVvI/AAAAAAAATQs/TcbmgRgOPxMW_ZdvLoiO44MTA2cpjmrOgCLcBGAs/s1600/tv%252B.jpg",
+    "image":"https://1.bp.blogspot.com/-YMArYLHdl1k/X6261pVTKKI/AAAAAAAAVY0/jOvBXoMEW2cAiNjymKeQjpFazcPFps_kgCLcBGAsYHQ/s320/tv%252B.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8"
     ]
@@ -73,96 +166,43 @@
      {
     "title":"",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ucv.jpg?raw=true",
+    "image":"https://1.bp.blogspot.com/-1tVlT7QP6hE/X6261tZgmBI/AAAAAAAAVYw/OBjkY0fEeDsHSYwo1UiJgyf706P15WAigCLcBGAsYHQ/s320/ucv.jpg",
     "arguments":[
       "https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream3/chunks.m3u8"
     ]
   },
-                 {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cdd.jpg?raw=true",
-    "arguments":[
-      "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
-    ]
-  },
-         {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/tvs.jpg?raw=true",
-    "arguments":[
-      "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd"
-    ]
-  },           
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/24hrs.jpg?raw=true",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/t13.jpg?raw=true",
-    "arguments":[
-      "http://t13-movil-live.cdn.nedmedia.io/index.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/ahora%20noticias.jpg?raw=true",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8"
-    ]
-  },
 
-               {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/cooperativa.jpg?raw=true",
-    "arguments":[
-      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
-    ]
-  },        
-             {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-BI6PqjpW2so/XrkpQ4w846I/AAAAAAAAUhU/zWrEaExAgCoxEaTo8pTdKjgCi92DQp3TgCLcBGAsYHQ/s1600/puratv.jpg",
-    "arguments":[
-      "https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8"
-    ]
-  },
-             {
-    "title":"",
-    "provider":"stream",
-    "image":"https://4.bp.blogspot.com/-sIy3HxVdmrY/XrkuvH4CMQI/AAAAAAAAUh4/SFrvz99O_LwTXBQ7mEzlsuT2UXizo_rGwCLcBGAsYHQ/s1600/teleton.jpg",
-    "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8"
-    ]
-  },
+    
                         {
     "title":"",
     "provider":"stream",
-    "image":"https://3.bp.blogspot.com/-aVn9DDvLgC0/XrkuvCv99UI/AAAAAAAAUhw/yCs848HOIpQXerLPohqNLxyD-ZeTxGldgCLcBGAsYHQ/s1600/ufrovision.jpg",
+    "image":"https://1.bp.blogspot.com/-MdcINYI2tdk/X6262UjckSI/AAAAAAAAVY8/_AwYWNGUnvgvOZneGmUlLnNpTQOmZzVYgCLcBGAsYHQ/s320/ufrovision.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
     ]
   },
-                                              {
+    
+                        {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-rF7CxLRZgM4/XrkpPeJZuzI/AAAAAAAAUhA/xqdsor1Gj1Yd1HMni4G04SJOyIFsCAodgCLcBGAsYHQ/s1600/boing2.jpg",
+    "image":"https://1.bp.blogspot.com/-V4OnDTTy6go/X621anTT3BI/AAAAAAAAVYA/Fg9vpCQgmiYbJFCD_BkL9_EJHRjWIcwxwCLcBGAsYHQ/s320/chavo.jpg",
     "arguments":[
-      "https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8"
+      "https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8"
+    ]
+  },
+
+                        {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-XkM8a2LKzcQ/X621arRyVDI/AAAAAAAAVYE/WU3p2ob4fncQJphFbqxj1yWNNWvIR3L_gCLcBGAsYHQ/s320/animacion-j.jpg",
+    "arguments":[
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e382aac4-0de8-4051-b8b1-ff7d32c3709a&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=false"
     ]
   },
                         {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-TqOmv-BTsXo/XrkpPXx-70I/AAAAAAAAUhE/SvoGPiY7jcADhkCnU5iJtqsjW5AkrxMOACLcBGAsYHQ/s1600/loco-motion.jpg",
+    "image":"https://1.bp.blogspot.com/-Bag6B1js1eI/X621apq06_I/AAAAAAAAVYI/rllTe7djqeEAl1qt0g894qLUeWFijT1kwCLcBGAsYHQ/s320/locomotion.jpg",
     "arguments":[
       "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"
     ]
@@ -171,25 +211,9 @@
                         {
     "title":"",
     "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-qdMDH8klQ50/XrkpQfeNGXI/AAAAAAAAUhM/kMAYRxc5YWonGSOGILnkX69ylBMaMgdNwCLcBGAsYHQ/s1600/maxima.jpg",
+    "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
     "arguments":[
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
-    ]
-  },
-                                   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-CUFs8JzItbQ/XrkpQuSrHUI/AAAAAAAAUhQ/hhhjoofDi_cO1QLNg2dy5EW7e_VmYSLiwCLcBGAsYHQ/s1600/onradiochilekpop.jpg",
-    "arguments":[
-      "https://tls.cdnz.cl/onradio4/live/playlist.m3u8"
-    ]
-  },
-                                              {
-    "title":"",
-    "provider":"stream",
-    "image":"http://www.m3u.cl/logo/97299_On_Radio_Chile.png",
-    "arguments":[
-      "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
     ]
   }
            
