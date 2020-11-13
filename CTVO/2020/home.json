@@ -1,10 +1,10 @@
 [   
   {
-    "title":"",
+    "title":"CL v/s Per | Sólo wifi",
     "provider":"webview",
     "image": "https://static.t13.cl/images/original/2020/10/1602212960-0008rq3re-1.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream/5f75e77e5a444f063cb84da5?access_token=BXXmyKwTAq7FjvTGr5BPpSGdfgaiUdvHuFrgxu3UJjrk9bCxrUXXRCNCPksIIXiPmWUoSoTRPto"
+      "https://backend-functions.vercel.app/api/live-stream?_vercel_no_cache=1"
     ]
   },
   {
