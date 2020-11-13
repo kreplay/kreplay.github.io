@@ -1,12 +1,5 @@
 [   
-                    {
-    "title":"Chile v/s Perú",
-    "provider":"webview",
-    "image": "https://static.t13.cl/images/original/2020/10/1602212960-0008rq3re-1.jpg",
-    "arguments":[
-      "https://www.capodeportes.net/reproductor/canal1.php"
-    ]
-  }, 
+
   {
     "title":"",
     "provider":"webview",
