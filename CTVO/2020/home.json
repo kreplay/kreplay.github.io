@@ -1,5 +1,13 @@
 [   
   {
+    "title":"Sólo Wifi",
+    "provider":"webview",
+    "image": "https://www.latercera.com/resizer/HRp06uqyWfJEYRfKxCMf3rXaTTc=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/T3KTCJKXNRHBXCT2QEAMIWRGRU.png",
+    "arguments":[
+      "https://backend-functions.vercel.app/api/live-stream"
+    ]
+  },
+  {
     "title":"",
     "provider":"webview",
     "image": "https://1.bp.blogspot.com/-dfq54Y_MCw8/X62oLJ3yiaI/AAAAAAAAVVU/cGvIkwTH7H8xCsiBDHVcHTrZZ4M021AqQCLcBGAsYHQ/s320/canal%2B13-web.jpg",
