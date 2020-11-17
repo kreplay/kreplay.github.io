@@ -1,5 +1,13 @@
 [
            {
+    "title":"Perú v/s Argentina",
+    "provider":"stream",
+    "image": "https://e.ad.amtv.pe/seleccion-peru-vs-argentina-vivo-online-directo-eliminatorias-qatar-2022-via-movistar-deportes-lionel-messi-estadio-nacional-n409999-808x454-935612.jpg",
+    "arguments":[
+      "http://www.coninfo.net:1935/9linklive/live/playlist.m3u8"
+    ]
+  },
+           {
     "title":"",
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/AMERICATV.jpg?raw=true",
