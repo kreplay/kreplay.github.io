@@ -1,4 +1,12 @@
 [   
+    {
+    "title":"Sólo Wifi",
+    "provider":"webview",
+    "image": "https://www.latercera.com/resizer/HRp06uqyWfJEYRfKxCMf3rXaTTc=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/T3KTCJKXNRHBXCT2QEAMIWRGRU.png",
+    "arguments":[
+      "https://backend-functions.vercel.app/api/live-stream"
+    ]
+  },
                      {
     "title":"",
     "provider":"webview",
