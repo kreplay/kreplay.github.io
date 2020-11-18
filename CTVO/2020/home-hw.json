@@ -1,7 +1,7 @@
 [   
   {
     "title":"Argentina / Perú",
-    "provider":"webview",
+    "provider":"stream",
     "image": "https://depor.com/resizer/YJrQA1kbxJJ4tguAJZpz7rqQTB0=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7ZZSCH7YO5HBXEY3BXFR7TX3KQ.jpg",
     "arguments":[
       "http://www.coninfo.net:1935/9linklive/live/playlist.m3u8"
