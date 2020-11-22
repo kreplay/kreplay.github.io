@@ -60,7 +60,7 @@
     "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/UCI0.jpg?raw=true",
     "arguments":[
-      "https://59d39900ebfb8.streamlock.net/8402/8402/chunklist_w1358703401.m3u8"
+      "https://videoserver.tmcreativos.com/ucitv/ucitv/playlist.m3u8"
     ]
   },
 
