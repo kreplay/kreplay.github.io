@@ -1,20 +1,4 @@
 [
-           {
-    "title":"",
-    "provider":"stream",
-    "image": "https://e.ad.amtv.pe/seleccion-peru-vs-argentina-vivo-online-directo-eliminatorias-qatar-2022-via-movistar-deportes-lionel-messi-estadio-nacional-n409999-808x454-935612.jpg",
-    "arguments":[
-      "http://www.coninfo.net:1935/9linklive/live/playlist.m3u8"
-    ]
-  },
-                   {
-    "title":"",
-    "provider":"webview",
-    "image": "https://e.ad.amtv.pe/seleccion-peru-vs-argentina-vivo-online-directo-eliminatorias-qatar-2022-via-movistar-deportes-lionel-messi-estadio-nacional-n409999-808x454-935612.jpg",
-    "arguments":[
-      "https://www.youtube.com/embed/O690D8wJ46c"
-    ]
-  },
                               {
     "title":"",
     "provider":"stream",
@@ -25,18 +9,26 @@
   },
            {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/AMERICATV.jpg?raw=true",
     "arguments":[
-      "https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?uid=k6r6ylSpuvMH6JQXDPz1jxsbn97zXifw&sid=0Lx7hhlvMSMJWYtblGbTUdXHwLB6cuNh&pid=CyuWNeaPF1vb8N6ZxYt7A2WjEBNmVdy9&ref=&res=940x529&dnt=true&access_tok"
+      "https://tvgo.americatv.com.pe/iframe"
     ]
   },
                {
-    "title":"",
+    "title":"OP1",
     "provider":"stream",
     "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
     "arguments":[
       "https://cdnhd.iblups.com/hls/ptv2.m3u8"
+    ]
+  },
+                          {
+    "title":"OP2",
+    "provider":"webview",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
+    "arguments":[
+      "https://panamericana.pe/tvenvivo/noframes"
     ]
   },
                {
