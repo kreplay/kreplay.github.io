@@ -1,0 +1,50 @@
+[
+                        {
+    "title":"",
+    "provider":"stream",
+    "image": "http://www.m3u.cl/logo/95519_Rec_Online.png",
+    "arguments":[
+      "https://master.tucableip.com/reconline/live/video.m3u8"
+    ]
+  },
+           {
+    "title":"",
+    "provider":"stream",
+    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/rt0.jpg?raw=true",
+    "arguments":[
+      "https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8"
+    ]
+  },
+               {
+    "title":"",
+    "provider":"stream",
+    "image": "http://www.m3u.cl/logo/90570_TV_Salud.png",
+    "arguments":[
+      "https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8"
+    ]
+  },
+                          {
+    "title":"",
+    "provider":"stream",
+    "image": "http://www.m3u.cl/logo/96280_TOP_Latino_TV.png",
+    "arguments":[
+      "https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/.m3u8"
+    ]
+  },
+                                     {
+    "title":"",
+    "provider":"stream",
+    "image": "http://www.m3u.cl/logo/96977_Antena_3_Internacional.png",
+    "arguments":[
+      "https://livestartover.atresmedia.com/a3internacional/bitrate_4.m3u8"
+    ]
+  },
+                                     {
+    "title":"",
+    "provider":"stream",
+    "image": "http://www.m3u.cl/logo/83641_DW_Espanol.png",
+    "arguments":[
+      "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8"
+    ]
+  }
+]
