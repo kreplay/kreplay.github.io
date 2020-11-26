@@ -21,10 +21,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Live TV ABC",
+        "title":"Internacional",
         "provider":"stream",
         "arguments":[
-          "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "https://kreplay.github.io/py/interna.json"
         ]
       }
     ]
@@ -39,7 +39,7 @@
         "title":"Entretenimiento",
         "provider":"overview",
         "arguments":[
-          "kreplay.github.io/CTVO/2020/entretenimiento.json"
+          "https://kreplay.github.io/CTVO/2020/entretenimiento.json"
         ]
       }
     ]
