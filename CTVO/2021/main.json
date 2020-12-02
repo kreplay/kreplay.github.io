@@ -10,16 +10,4 @@
         [
           "https://kreplay.github.io/CTVO/2020/Dummyhome.json"
         ]}],"iap":false}
-,
-  {"title":"Regional",
-    "drawable":"ic_region",
-    "submenu":"",
-    "tabs":[
-      {"title":"Region",
-        "image":"",
-        "provider":"overview_list",
-        "arguments":
-        [
-          "https://kreplay.github.io/CTVO/2020/region.json"
-        ]}],"iap":false}
 ]
