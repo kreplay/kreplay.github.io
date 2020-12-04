@@ -1,12 +1,4 @@
 [
-    {
-    "title":"ADN TV",
-    "provider":"stream",
-    "image": "https://i.imgur.com/OVOueyl.png",
-    "arguments":[
-      "http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8"
-    ]
-  },
         {
     "title":"Radio Agricultura TV",
     "provider":"stream",
@@ -23,31 +15,56 @@
       "https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8"
     ]
   },
-        {
-    "title":"Cooperativa TV",
+               {
+    "title":"Candela",
     "provider":"stream",
-    "image": "https://i.imgur.com/Cp9i2sO.png",
+    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8TcGLRqyWy.png",
     "arguments":[
-      "http://unlimited6-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+      "https://unlimited6-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8"
     ]
   },
+ 
             {
     "title":"Contivisión Música",
     "provider":"stream",
-    "image": "https://i.imgur.com/LHn9ofg.png",
+    "image": "https://www.amcperformancechile.cl/pc/imagenes/radio-futuro.png",
     "arguments":[
       "http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8"
     ]
   },
-        {
-    "title":"Radio Camila TV",
+               {
+    "title":"DUOC UC AE Radio",
     "provider":"stream",
-    "image": "https://i.imgur.com/1Ct0fSh.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwUrPe5gk6cBWI87vXPuVbGQ5rHS9aQW3dQ&usqp=CAU",
     "arguments":[
-      "https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8"
+      "https://tls.cdnz.cl/aeradio/live/playlist.m3u8"
     ]
   },
-        {
+                   {
+    "title":"El conquistador Concepción",
+    "provider":"stream",
+    "image": "https://www.observatoriofucatel.cl/wp-content/uploads/2010/12/logo-el-conquistador.jpg",
+    "arguments":[
+      "http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8"
+    ]
+  },
+                {
+    "title":"Favorita",
+    "provider":"stream",
+    "image": "https://pbs.twimg.com/profile_images/946442447567118338/CRhyzrVX_400x400.jpg",
+    "arguments":[
+      "https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8"
+    ]
+  },
+    {
+    "title":"Futuro",
+    "provider":"stream",
+    "image": "https://i.imgur.com/LHn9ofg.png",
+    "arguments":[
+      "https://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8"
+    ]
+  },
+           {
     "title":"Maulina FM",
     "provider":"stream",
     "image": "https://i.imgur.com/vKBGzLp.png",
@@ -61,6 +78,64 @@
     "image": "https://i.imgur.com/hWtvjVM.png",
     "arguments":[
       "https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8"
+    ]
+  },
+               {
+    "title":"Pauta",
+    "provider":"stream",
+    "image": "https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/81/05/81050160-61bb-48fb-b423-64dce00b3cb3.png",
+    "arguments":[
+      "https://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd"
+    ]
+  },
+                   {
+    "title":"Pudahuel",
+    "provider":"stream",
+    "image": "https://cdn-profiles.tunein.com/s25172/images/logog.jpg?t=158446",
+    "arguments":[
+      "https://unlimited10-cl.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8"
+    ]
+  },
+                       {
+    "title":"Presidente Ibañez",
+    "provider":"stream",
+    "image": "https://pbs.twimg.com/profile_images/1017516082519822337/SAY7Bl7f.jpg",
+    "arguments":[
+      "https://ibanez.servercl.com/hls/live.m3u8"
+    ]
+  },
+        {
+    "title":"Radio Camila TV",
+    "provider":"stream",
+    "image": "https://i.imgur.com/1Ct0fSh.png",
+    "arguments":[
+      "https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8"
+    ]
+  },
+
+             {
+    "title":"Radio Genial",
+    "provider":"stream",
+    "image": "https://pbs.twimg.com/profile_images/1169396449727188992/VBsytnhF_400x400.jpg",
+    "arguments":[
+      "https://v2.tustreaming.cl/genialtv/live1/index.m3u8"
+    ]
+  },
+    {
+    "title":"Radio Portales",
+    "provider":"stream",
+    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/6c7j8easvgtz.png",
+    "arguments":[
+      "https://stream2.polarhost.cl/show/portales2.m3u8"
+    ]
+  },
+ 
+            {
+    "title":"Zona Play Radio",
+    "provider":"stream",
+    "image": "https://pbs.twimg.com/profile_images/1252981366314151936/BJBWXQ7p.jpg",
+    "arguments":[
+      "https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8"
     ]
   }
 
