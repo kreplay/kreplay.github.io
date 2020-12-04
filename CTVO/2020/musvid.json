@@ -1,10 +1,18 @@
 [
         {
-    "title":"Radio Agricultura TV",
+    "title":"Agricultura TV",
     "provider":"stream",
     "image": "https://i.imgur.com/R7vbQU0.jpg",
     "arguments":[
       "https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8"
+    ]
+  },
+                {
+    "title":"Alegría TV",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8"
     ]
   },
         {
@@ -104,6 +112,22 @@
       "https://ibanez.servercl.com/hls/live.m3u8"
     ]
   },
+                               {
+    "title":"On Radio Chile",
+    "provider":"stream",
+    "image": "data:image/png;base64,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",
+    "arguments":[
+      "https://tls.cdnz.cl/onradio3/live/playlist.m3u8"
+    ]
+  },
+                               {
+    "title":"On Radio Kpop",
+    "provider":"stream",
+    "image": "https://cdn-profiles.tunein.com/s305682/images/logog.jpg?t=154694",
+    "arguments":[
+      "https://tls.cdnz.cl/onradio4/live/playlist.m3u8"
+    ]
+  },
         {
     "title":"Radio Camila TV",
     "provider":"stream",
@@ -127,6 +151,14 @@
     "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/6c7j8easvgtz.png",
     "arguments":[
       "https://stream2.polarhost.cl/show/portales2.m3u8"
+    ]
+  },
+            {
+    "title":"Ruidos",
+    "provider":"stream",
+    "image": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6e/f1/122116/1/c175.png",
+    "arguments":[
+      "https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8"
     ]
   },
  
