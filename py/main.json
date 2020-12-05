@@ -22,7 +22,7 @@
     "tabs":[
       {
         "title":"Internacional",
-        "provider":"stream",
+        "provider":"overview",
         "arguments":[
           "https://kreplay.github.io/CTVO/Regions/VII.json"
         ]
