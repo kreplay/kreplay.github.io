@@ -9,7 +9,7 @@
         "title":"Inicio",
         "provider":"overview",
         "arguments":[
-          "https://kreplay.github.io/py/na.json"
+          "https://kreplay.github.io/CTVO/2020/Dummyhome.json"
         ]
       }
     ]
@@ -24,7 +24,7 @@
         "title":"Internacional",
         "provider":"stream",
         "arguments":[
-          "https://kreplay.github.io/py/interna.json"
+          "https://kreplay.github.io/CTVO/Regions/VII.json"
         ]
       }
     ]
@@ -39,7 +39,7 @@
         "title":"Entretenimiento",
         "provider":"overview",
         "arguments":[
-          "https://kreplay.github.io/CTVO/2020/entretenimiento.json"
+          "https://kreplay.github.io/CTVO/2020/Dummyhome.json"
         ]
       }
     ]
@@ -54,7 +54,7 @@
         "title":"Música",
         "provider":"overview",
         "arguments":[
-          "https://kreplay.github.io/CTVO/2020/musvid.json"
+          "https://kreplay.github.io/CTVO/2020/Dummyhome.json"
         ]
       }
     ]
