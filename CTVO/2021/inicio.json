@@ -1,12 +1,13 @@
 [
-    {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/--X5gwHX61MA/X62teo-EioI/AAAAAAAAVXU/iXftbMlZCXwMGW7UTsLHUq-pl3pwJblDgCLcBGAsYHQ/s320/adn.jpg",
+      {
+    "title":"100+ Canciones",
+    "provider":"wordpress_audio",
+    "image": "https://1.bp.blogspot.com/-3YNkm7f3hrA/X0rxIodqXAI/AAAAAAAAUww/QWEpWaWnFVIc1nIVQ5TicgeMbhP2sdS9QCLcBGAsYHQ/s400/variado.png",
     "arguments":[
-      "http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8"
+    "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "3"
     ]
   },
+
   {
     "title":"",
     "provider":"webview",
@@ -113,7 +114,14 @@
       "https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8"
     ]
   },
-
+    {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/--X5gwHX61MA/X62teo-EioI/AAAAAAAAVXU/iXftbMlZCXwMGW7UTsLHUq-pl3pwJblDgCLcBGAsYHQ/s320/adn.jpg",
+    "arguments":[
+      "http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8"
+    ]
+  },
   {
     "title":"",
     "provider":"stream",
@@ -205,14 +213,6 @@
     "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
     "arguments":[
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
-    ]
-  },
-      {
-    "title":"Tets",
-    "provider":"wordpress_audio",
-    "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
-    "arguments":[
-      "http://cuecas.chilechileno.cl/wp-json/wp/v2/" , ""
     ]
   }
 
