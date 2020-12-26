@@ -212,7 +212,7 @@
     "provider":"wordpress_audio",
     "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
     "arguments":[
-      "http://cuecas.chilechileno.cl/wp-json/wp/v2/"
+      "http://cuecas.chilechileno.cl/wp-json/wp/v2/" , ""
     ]
   }
 
