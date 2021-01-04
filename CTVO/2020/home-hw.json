@@ -1,12 +1,4 @@
 [   
-     {
-    "title":"Música para año nuevo!",
-    "provider":"wordpress_audio",
-    "image": "https://1.bp.blogspot.com/-vjPXb9xxwxE/X-5Ze3-JeBI/AAAAAAAAVgw/rzDrfD40cPISPVo4X8UL5h_t4A2lb-NWwCLcBGAsYHQ/s16000/feliz%2Ba%25C3%25B1o%2Bnuevo.jpg",
-    "arguments":[
-    "https://cuecas.chilechileno.cl/wp-json/wp/v2/posts/?per_page=100&_embed=1&page=1", "3"
-    ]
-  },
                      {
     "title":"",
     "provider":"webview",
