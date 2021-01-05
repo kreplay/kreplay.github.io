@@ -205,6 +205,13 @@
     "arguments":[
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
     ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
+    "arguments":[
+      "http://200.54.19.131:8500/play/a0g7/index.m3u8"
+    ]
   }
-
 ]
