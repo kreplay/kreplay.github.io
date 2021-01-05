@@ -17,7 +17,7 @@
   },
     {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
     "arguments":[
       "http://186.10.248.158:8000/play/a064"
@@ -33,7 +33,7 @@
   },
    {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
     "arguments":[
       "http://186.10.248.158:8000/play/a05p"
