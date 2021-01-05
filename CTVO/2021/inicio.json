@@ -15,12 +15,28 @@
       "https://token.tvn.cl/?url=57a498c4d7b86d600e5461cb&ads=true&imagen=%2F%2Fstrm.tvn.cl%2Fimg%2Flogo_tvn.png&autostart=true&volume=100&adsvolume=100&html5=true&relacionados=0&controls=true&custom_pre=&tk=&mediastream=false&DFP_Pre=https%3A//pubads.g.doubleclick.net/gampad/ads%3Fsz%3D640x480%26iu%3D/317342475/tvn_envivo_prerroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer%5D%26description_url%3D%5Bpage-url%5D%26correlator%3D%5Btimestamp%5D&DFP_Ov=https%3A//pubads.g.doubleclick.net/gampad/ads%3Fsz%3D640x480%26iu%3D/317342475/tvn_envivo_overlay%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D"
     ]
   },
+    {
+    "title":"",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
+    "arguments":[
+      "http://186.10.248.158:8000/play/a064"
+    ]
+  },
   {
     "title":"",
     "provider":"webview",
     "image":"https://1.bp.blogspot.com/-buXYqtjzjIE/X62pfTwEp2I/AAAAAAAAVV4/5_Nf_KzqsLMlzDzokePULJ0WlYWAG_IIgCLcBGAsYHQ/s320/mega-web.jpg",
     "arguments":[
       "https://www.mega.cl/senal-en-vivo/"
+    ]
+  },
+   {
+    "title":"",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
+    "arguments":[
+      "http://186.10.248.158:8000/play/a05p"
     ]
   },
   {
@@ -204,14 +220,6 @@
     "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
     "arguments":[
       "http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-AXdrvDtLVXw/X621bO9WpPI/AAAAAAAAVYM/NofKDrqTkAAmNS4ooFV0WIb_ADMtHKxRQCLcBGAsYHQ/s320/maxima%2Btv.jpg",
-    "arguments":[
-      "http://200.54.19.131:8500/play/a0g7/index.m3u8"
     ]
   }
 ]
