@@ -9,6 +9,14 @@
   },
   {
     "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-p_HoDNaJUL8/X62oLFevHxI/AAAAAAAAVVY/8CT2zsUxhi8x2TRWMiPE_OsyQ7ZoKitLACLcBGAsYHQ/s320/canal%2B13.jpg",
+    "arguments":[
+      "http://186.10.248.158:8000/play/a06f"
+    ]
+  },
+  {
+    "title":"",
     "provider":"webview",
     "image":"https://1.bp.blogspot.com/-_Fvhgi9lV6I/X62pgNXeBHI/AAAAAAAAVWE/ZKz-wGCwPQQow1HIOribHDHN2l3ZBCnMACLcBGAsYHQ/s320/tvn-web.jpg",
     "arguments":[
@@ -47,12 +55,28 @@
       "https://www.chilevision.cl/senal-online"
     ]
   },
+   {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
+    "arguments":[
+      "http://186.10.248.158:8000/play/a065"
+    ]
+  },
   {
     "title":"",
     "provider":"webview",
     "image":"https://1.bp.blogspot.com/-gWGIdgc1eXY/X62pefjZK9I/AAAAAAAAVVo/KJUEMT3B8pINm_uBu4EcdTHgUelwlaERACLcBGAsYHQ/s320/la%2Bred-web.jpg",
     "arguments":[
       "https://www.lared.cl/senal-online"
+    ]
+  },
+    {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-ClmpT3QZnlc/X62pfMn0PpI/AAAAAAAAVV0/NWvPqjxiDHEPz16t3KWL66MShKgXqIHdQCLcBGAsYHQ/s320/la%2Bred.jpg",
+    "arguments":[
+      "http://186.10.248.158:8000/play/a05k"
     ]
   },
   {
