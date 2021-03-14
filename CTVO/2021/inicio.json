@@ -1,4 +1,12 @@
 [
+    {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-nDov9Dhktbk/YE6ZVH6GnrI/AAAAAAAADQ4/L_-796Nwk6onO6D9dgDubxFh5fxx9X31wCLcBGAsYHQ/s1250/16154811545665.jpg",
+    "arguments":[
+      "http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1472_&f=.m3u8"
+    ]
+  },
   {
     "title":"",
     "provider":"webview",
