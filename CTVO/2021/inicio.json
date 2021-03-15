@@ -1,20 +1,4 @@
 [
-    {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-nDov9Dhktbk/YE6ZVH6GnrI/AAAAAAAADQ4/L_-796Nwk6onO6D9dgDubxFh5fxx9X31wCLcBGAsYHQ/s1250/16154811545665.jpg",
-    "arguments":[
-      "http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1472_&f=.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"webview",
-    "image": "https://1.bp.blogspot.com/-dfq54Y_MCw8/X62oLJ3yiaI/AAAAAAAAVVU/cGvIkwTH7H8xCsiBDHVcHTrZZ4M021AqQCLcBGAsYHQ/s320/canal%2B13-web.jpg",
-    "arguments":[
-      "https://www.13.cl/en-vivo"
-    ]
-  },
   {
     "title":"",
     "provider":"stream",
@@ -36,7 +20,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
     "arguments":[
-      "http://186.10.248.158:8000/play/a064"
+      "http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8"
     ]
   },
   {
