@@ -178,6 +178,14 @@
       "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
     ]
   },
+    {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-9clfoP14qck/YE8d8AuzRoI/AAAAAAAADRA/HTYT6uEuWlkdoHGSbfcLoWGl6S_XBoo8QCLcBGAsYHQ/s0/tvchile.jpg",
+    "arguments":[
+      "https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8"
+    ]
+  },
 
   {
     "title":"",
