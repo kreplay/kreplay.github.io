@@ -5,14 +5,14 @@ var campData = {
     "productId": 1,
     "productDescription": "Agrega stickers de Chile a WhatsApp",
     "productThumbnail": "https://1.bp.blogspot.com/-ybYzso2a3zs/YFRAYzJGrkI/AAAAAAAADSY/jsg4aby0qsMsDa2wKnc1aUQzlsD4v3aLwCLcBGAsYHQ/s320/ic_launcher.png",
-    "clickProxyURL": "appmarket://details?id=101185449",
+    "clickProxyURL": "appmarket://https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=C101185449",
     "productName": "Stickers Chilenos para WhatsApp" },
 
   {
     "productId": 1,
     "productDescription": "Agrega stickers de Chile a Telegram",
     "productThumbnail": "https://1.bp.blogspot.com/-wF-StrEAVDQ/YFRAmDFLsKI/AAAAAAAADSc/gB2DUezhlLYRD2x5hNMN6-SWP6LG0rJIwCLcBGAsYHQ/s320/ic_launcher.png",
-    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=103961853",
+    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=C103961853",
     "productName": "Stickers Chilenos para Telegram" },
     {
     "productId": 1,
