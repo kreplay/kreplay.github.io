@@ -5,7 +5,7 @@ var campData = {
     "productId": 1,
     "productDescription": "Agrega stickers de Chile a WhatsApp",
     "productThumbnail": "https://1.bp.blogspot.com/-ybYzso2a3zs/YFRAYzJGrkI/AAAAAAAADSY/jsg4aby0qsMsDa2wKnc1aUQzlsD4v3aLwCLcBGAsYHQ/s320/ic_launcher.png",
-    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C101185449",
+    "clickProxyURL": "appmarket://details?id=C101185449",
     "productName": "Stickers Chilenos para WhatsApp" },
 
   {
