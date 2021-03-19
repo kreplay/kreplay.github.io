@@ -5,32 +5,32 @@ var campData = {
     "productId": 1,
     "productDescription": "Agrega stickers de Chile a WhatsApp",
     "productThumbnail": "https://1.bp.blogspot.com/-ybYzso2a3zs/YFRAYzJGrkI/AAAAAAAADSY/jsg4aby0qsMsDa2wKnc1aUQzlsD4v3aLwCLcBGAsYHQ/s320/ic_launcher.png",
-    "clickProxyURL": "https://appgallery.cloud.huawei.com/marketshare/app/C101397611?locale=es_US&source=appshare&subsource=C101397611",
+    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C101185449?locale=es_US&source=appshare&subsource=C101185449",
     "productName": "Stickers Chilenos para WhatsApp" },
 
   {
     "productId": 1,
     "productDescription": "Agrega stickers de Chile a Telegram",
     "productThumbnail": "https://1.bp.blogspot.com/-wF-StrEAVDQ/YFRAmDFLsKI/AAAAAAAADSc/gB2DUezhlLYRD2x5hNMN6-SWP6LG0rJIwCLcBGAsYHQ/s320/ic_launcher.png",
-    "clickProxyURL": "http://ads.appia.com/v2/clickAd.jsp?siteId=4756&deviceId=7265&spotId=&sessionId=Rws12312dsda&campaignId=5168&creativeId=78772&packageName=air.com.sgn.cookiejam.gp&fulfillmentTypeId=1&placementId=1&campaignDisplayOrder=1&enc=true&ts=14a095005c5&algorithmId=143",
+    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=103961853",
     "productName": "Stickers Chilenos para Telegram" },
     {
     "productId": 1,
     "productDescription": "Escucha radios de Chile",
     "productThumbnail": "https://1.bp.blogspot.com/-fDuMR8_NT0Q/YFRAwzP7NYI/AAAAAAAADSk/MrS9jmLZM4wl8GrJsuOexGhu8GDv5p7qgCLcBGAsYHQ/s320/ice_launcher.png",
-    "clickProxyURL": "http://ads.appia.com/v2/clickAd.jsp?siteId=4756&deviceId=7265&spotId=&sessionId=Rws12312dsda&campaignId=5168&creativeId=78772&packageName=air.com.sgn.cookiejam.gp&fulfillmentTypeId=1&placementId=1&campaignDisplayOrder=1&enc=true&ts=14a095005c5&algorithmId=143",
+    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C102443381?locale=es_US&source=appshare&subsource=C102443381",
     "productName": "Radios Chilenas" },
       {
     "productId": 1,
     "productDescription": "Escucha, descarga y comparte divertidos sonidos chilenos",
     "productThumbnail": "https://1.bp.blogspot.com/-9gNuP_N0fHY/YFRA3MJdfFI/AAAAAAAADSs/IEzNRjqa_xEjSvz6l43WaMjNs7QJl7aLQCLcBGAsYHQ/s320/sonidos%2Blogo2.png",
-    "clickProxyURL": "http://ads.appia.com/v2/clickAd.jsp?siteId=4756&deviceId=7265&spotId=&sessionId=Rws12312dsda&campaignId=5168&creativeId=78772&packageName=air.com.sgn.cookiejam.gp&fulfillmentTypeId=1&placementId=1&campaignDisplayOrder=1&enc=true&ts=14a095005c5&algorithmId=143",
+    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C102154769?locale=es_US&source=appshare&subsource=C102154769",
     "productName": "Sonidos Chilenos" },
         {
     "productId": 1,
     "productDescription": "Ve TV Chilena en vivo y en directo",
     "productThumbnail": "https://1.bp.blogspot.com/-7kknpYVU52c/YFRBKqqBSgI/AAAAAAAADS4/vGHjR42tw5w87m3NK13azZQ2WliXwySVQCLcBGAsYHQ/s320/ic_launcher.jpg",
-    "clickProxyURL": "http://ads.appia.com/v2/clickAd.jsp?siteId=4756&deviceId=7265&spotId=&sessionId=Rws12312dsda&campaignId=5168&creativeId=78772&packageName=air.com.sgn.cookiejam.gp&fulfillmentTypeId=1&placementId=1&campaignDisplayOrder=1&enc=true&ts=14a095005c5&algorithmId=143",
+    "clickProxyURL": "https://appgallery.cloud.huawei.com/ag/n/app/C100983225?locale=es_US&source=appshare&subsource=C100983225",
     "productName": "Chile TV Online" }
   
  
