@@ -31,28 +31,12 @@
       "https://www.mega.cl/senal-en-vivo/"
     ]
   },
-   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
-    "arguments":[
-      "http://tv.iptv5latino.cl:8000/live/R3n4t0dtvcambio/N5y8cUke59/17304.ts"
-    ]
-  },
   {
     "title":"",
     "provider":"webview",
     "image":"https://1.bp.blogspot.com/-FKq-PF4p4DA/X62peXZs0dI/AAAAAAAAVVs/WDX8OrzvR4EhbqGlL7Z6iZ00jW6uTAjWwCLcBGAsYHQ/s320/chv-web.jpg",
     "arguments":[
       "https://www.chilevision.cl/senal-online"
-    ]
-  },
-   {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
-    "arguments":[
-      "http://200.73.117.225:8000/play/a008"
     ]
   },
   {
