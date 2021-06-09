@@ -4,7 +4,7 @@
     "provider":"stream",
     "image": "https://1.bp.blogspot.com/-p_HoDNaJUL8/X62oLFevHxI/AAAAAAAAVVY/8CT2zsUxhi8x2TRWMiPE_OsyQ7ZoKitLACLcBGAsYHQ/s320/canal%2B13.jpg",
     "arguments":[
-      "http://181.43.233.38:8000/play/a003/index.m3u8"
+      "http://62.210.247.122:25461/live/Chilean50conn/sPDmqSHTFT/23.ts"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
     "arguments":[
-      "http://181.43.233.38:8000/play/a00j/index.m3u8"
+      "http://62.210.247.122:25461/live/Chilean50conn/sPDmqSHTFT/45.ts"
     ]
   },
   {
@@ -52,7 +52,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
     "arguments":[
-      "http://181.43.233.38:8000/play/a006/index.m3u8"
+      "http://62.210.247.122:25461/live/Chilean50conn/sPDmqSHTFT/46.ts"
     ]
   },
   {
