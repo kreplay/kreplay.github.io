@@ -4,7 +4,7 @@
     "provider":"webview",
     "image": "https://1.bp.blogspot.com/-YASJ-HH_V6w/YMAVWP62kKI/AAAAAAAAV7g/LC2UcIiPf2cLP85hcE9_S5a3LviNAXUugCLcBGAsYHQ/w640-h160/covid19-wifi.png",
     "arguments":[
-      "https://backend-functions.vercel.app/api/live-stream?liveId=3"
+      "https://live.amplificador.cl/adntv/live1/"
     ]
   },
   {
