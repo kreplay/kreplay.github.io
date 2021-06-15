@@ -1,12 +1,4 @@
 [
-    {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-nY78vrrnhJs/YMfH8B23haI/AAAAAAAAV8I/mG7Y56br_e4HibJ64ciZi8xx5I0t2YsmQCLcBGAsYHQ/s16000/camerica.png",
-    "arguments":[
-      "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8"
-    ]
-  },
   {
     "title":"",
     "provider":"webview",
