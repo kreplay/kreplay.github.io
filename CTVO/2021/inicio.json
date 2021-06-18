@@ -9,10 +9,10 @@
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image": "https://1.bp.blogspot.com/-p_HoDNaJUL8/X62oLFevHxI/AAAAAAAAVVY/8CT2zsUxhi8x2TRWMiPE_OsyQ7ZoKitLACLcBGAsYHQ/s320/canal%2B13.jpg",
     "arguments":[
-      "https://www.13.cl/en-vivo"
+      "http://186.101.216.211:8000/play/ca13"
     ]
   },
   {
