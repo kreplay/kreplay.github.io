@@ -1,4 +1,12 @@
 [
+    {
+    "title":"",
+    "provider":"stream",
+    "image": "https://1.bp.blogspot.com/-pafqCHTY1WA/YOs7gPtQpmI/AAAAAAAAWLY/2H65NKJ0ahodd5oJ6RRtstFahJy7brXaQCLcBGAsYHQ/s320/eurocopa.jpg",
+    "arguments":[
+      "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8"
+    ]
+  },
   {
     "title":"",
     "provider":"stream",
