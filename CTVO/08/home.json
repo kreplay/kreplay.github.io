@@ -1,26 +1,42 @@
 [
-  {"title":"Inicio",
-    "drawable":"ic_home",
-    "submenu":"",
-    "tabs":[
-      {"title":"Inicio",
-        "image":"",
-        "provider":"overview",
-        "arguments":
-        [
-          "https://kreplay.github.io/CTVO/08/home.json"
-        ]}],"iap":false}
-,
-  {"title":"Regional",
-    "drawable":"ic_region",
-    "submenu":"",
-    "tabs":[
-      {"title":"Region",
-        "image":"",
-        "provider":"overview",
-        "arguments":
-        [
-          "https://kreplay.github.io/CTVO/2020/region.json"
-        ]}],"iap":false}
-,
-  {"title":"Noticias","drawable":"ic_news","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/news.json"]}],"iap":false},{"title":"Internacional","drawable":"ic_world","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/int.json"]}],"iap":false},{"title":"Animación/Niños","drawable":"ic_children","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/anim.json"]}],"iap":false},{"title":"Música con Video","drawable":"ic_videomusic","submenu":"","tabs":[{"title":"Musica con video","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/musvid.json"]}],"iap":false},{"title":"Radio","drawable":"ic_radio","submenu":"","tabs":[{"title":"Radio","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/radio.json"]}],"iap":false}]
+  {
+    "title":"Radio Peque TV",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+    ]
+  },
+  {
+    "title":"Pintana",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"Canal 5 - Linares",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
+    "arguments":[
+      "http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8"
+    ]
+  },
+  {
+    "title":"Canal de la U Autonoma",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+    ]
+  }
+]
