@@ -10,4 +10,17 @@
         [
           "https://kreplay.github.io/CTVO/08/home.json"
         ]}],"iap":false}
-]
+,
+  {"title":"Regional",
+    "drawable":"ic_region",
+    "submenu":"",
+    "tabs":[
+      {"title":"Region",
+        "image":"",
+        "provider":"overview",
+        "arguments":
+        [
+          "https://kreplay.github.io/CTVO/2020/region.json"
+        ]}],"iap":false}
+,
+  {"title":"Noticias","drawable":"ic_news","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/news.json"]}],"iap":false},{"title":"Internacional","drawable":"ic_world","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/int.json"]}],"iap":false},{"title":"Animación/Niños","drawable":"ic_children","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/anim.json"]}],"iap":false},{"title":"Música con Video","drawable":"ic_videomusic","submenu":"","tabs":[{"title":"Musica con video","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/musvid.json"]}],"iap":false},{"title":"Radio","drawable":"ic_radio","submenu":"","tabs":[{"title":"Radio","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/radio.json"]}],"iap":false}]
