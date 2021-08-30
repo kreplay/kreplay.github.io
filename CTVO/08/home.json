@@ -2,14 +2,6 @@
   {
     "title":"",
     "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-BYZwBV1ZFlY/YOz7LkxJ0vI/AAAAAAAAWLw/tI5dbuhj7aMlqON0mwXLxAKhaogxkmWnACLcBGAsYHQ/s320/debate%2Bpresidencial.jpg",
-    "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
-    ]
-  },
-  {
-    "title":"",
-    "provider":"stream",
     "image": "https://1.bp.blogspot.com/-p_HoDNaJUL8/X62oLFevHxI/AAAAAAAAVVY/8CT2zsUxhi8x2TRWMiPE_OsyQ7ZoKitLACLcBGAsYHQ/s320/canal%2B13.jpg",
     "arguments":[
       "http://186.101.216.211:8000/play/ca13"
