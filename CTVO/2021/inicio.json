@@ -5,7 +5,7 @@
     "provider":"stream",
     "image": "https://1.bp.blogspot.com/-p_HoDNaJUL8/X62oLFevHxI/AAAAAAAAVVY/8CT2zsUxhi8x2TRWMiPE_OsyQ7ZoKitLACLcBGAsYHQ/s320/canal%2B13.jpg",
     "arguments":[
-      "http://186.101.216.211:8000/play/ca13"
+      "http://201.182.242.135:8000/play/a04d/index.m3u8"
     ]
   },
   {
@@ -21,7 +21,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
     "arguments":[
-      "http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8"
+      "http://201.182.242.135:8000/play/a04a/index.m3u8"
     ]
   },
   {
@@ -37,7 +37,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
     "arguments":[
-      "http://62.210.247.122:25461/live/Chilean50conn/sPDmqSHTFT/45.ts"
+      "http://201.182.242.135:8000/play/a04b/index.m3u8"
     ]
   },
   {
@@ -53,7 +53,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
     "arguments":[
-      "http://62.210.247.122:25461/live/Chilean50conn/sPDmqSHTFT/46.ts"
+      "http://201.182.242.135:8000/play/a04c/index.m3u8"
     ]
   },
   {
