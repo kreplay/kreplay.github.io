@@ -23,14 +23,6 @@
       "http://201.182.242.135:8000/play/a04c/index.m3u8"
     ]
   },
-  {
-    "title":"",
-    "provider":"stream",
-    "image": "https://www.blogger.com/blog/post/edit/8500725194403348264/7713983487288145211#",
-    "arguments":[
-      "http://201.182.242.135:8000/play/a04d/index.m3u8"
-    ]
-  },
     {
     "title":"",
     "provider":"Webviewm3u8",
