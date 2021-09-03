@@ -1,7 +1,7 @@
 [
   {
     "title":"",
-    "provider":"stream",
+    "provider":"streamvlc",
     "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
     "arguments":[
       "http://45.235.37.254:8600/play/a07c"
@@ -9,7 +9,7 @@
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"streamvlc",
     "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
     "arguments":[
       "http://201.182.242.135:8000/play/a04c/index.m3u8"
