@@ -1,10 +1,10 @@
 [
   {
     "title":"",
-    "provider":"stream",
+    "provider":"webview",
     "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
     "arguments":[
-      "http://45.235.37.254:8600/play/a07c"
+      "https://live.amplificador.cl/adntv/live2/"
     ]
   },
     {
