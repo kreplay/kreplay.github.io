@@ -5,7 +5,7 @@
     "tabs":[
       {"title":"Inicio",
         "image":"",
-        "provider":"overview",
+        "provider":"https://kreplay.github.io/CTVO/2020/overview.json",
         "arguments":
         [
           "overview.json"
