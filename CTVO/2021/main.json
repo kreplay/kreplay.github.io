@@ -5,7 +5,7 @@
     "tabs":[
       {"title":"Inicio",
         "image":"",
-        "provider":"overview.json",
+        "provider":"overview",
         "arguments":
         [
           "overview.json"
