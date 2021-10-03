@@ -1,30 +1,6 @@
 [
   {
     "title":"",
-    "provider":"webview",
-    "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
-    "arguments":[
-      "https://live.amplificador.cl/adntv/live2/"
-    ]
-  },
-    {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
-    "arguments":[
-      "http://201.182.242.135:8000/play/a04c/index.m3u8"
-    ]
-  },
-      {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
-    "arguments":[
-      "http://38.131.11.34:1080/play/a008"
-    ]
-  },
-  {
-    "title":"",
     "provider":"stream",
     "image": "https://1.bp.blogspot.com/-p_HoDNaJUL8/X62oLFevHxI/AAAAAAAAVVY/8CT2zsUxhi8x2TRWMiPE_OsyQ7ZoKitLACLcBGAsYHQ/s320/canal%2B13.jpg",
     "arguments":[
