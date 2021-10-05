@@ -215,7 +215,7 @@
   "provider":"stream",
   "image":"https://1.bp.blogspot.com/-YMArYLHdl1k/X6261pVTKKI/AAAAAAAAVY0/jOvBXoMEW2cAiNjymKeQjpFazcPFps_kgCLcBGAsYHQ/s320/tv%252B.jpg",
   "arguments":[
-    "https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8"
+    "http://201.182.242.135:8002/play/a09n/index.m3u8"
   ]
 },
   {
