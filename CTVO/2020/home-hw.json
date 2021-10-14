@@ -1,4 +1,22 @@
 [   
+      {
+    "title":"Chile v/s Venezuela [Sólo wifi]",
+    "provider":"stream",
+    "provider":"webview",
+    "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
+    "arguments":[
+      "https://backend-functions.vercel.app/api/live-stream?liveId=1"
+    ]
+  },
+        {
+    "title":"Chile v/s Venezuela",
+    "provider":"stream",
+    "provider":"webview",
+    "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
+    "arguments":[
+      "https://sport-streaming.me/player/3/24"
+    ]
+  },
                      {
     "title":"",
     "provider":"webview",
