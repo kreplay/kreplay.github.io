@@ -9,7 +9,7 @@
         "provider":"overview",
         "arguments":
         [
-          "https://kreplay.github.io/CTVO/2021/inicio.json"
+          "https://kreplay.github.io/CTVO/v21/inicio.json"
         ]}],"iap":false}
 ,
   {"title":"Regional",
