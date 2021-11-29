@@ -1,4 +1,20 @@
 [
+   {
+    "title":"",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-i03cGajrBEk/X62ga02ynQI/AAAAAAAAVUE/uL-Z6jE2nZAz68zovteP2XozAvoRWGVDgCPcBGAYYCw/s16000/canal%2B13.jpg",
+    "arguments":[
+      "https://www.13.cl"
+    ]
+  },
+     {
+    "title":"",
+    "provider":"externalurl",
+    "image":"https://1.bp.blogspot.com/-i03cGajrBEk/X62ga02ynQI/AAAAAAAAVUE/uL-Z6jE2nZAz68zovteP2XozAvoRWGVDgCPcBGAYYCw/s16000/canal%2B13.jpg",
+    "arguments":[
+      "http://45.225.95.170:8001/play/a04q"
+    ]
+  },
   {
     "title":"",
     "provider":"webview",
