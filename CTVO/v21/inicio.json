@@ -2,7 +2,7 @@
   {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-_Fvhgi9lV6I/X62pgNXeBHI/AAAAAAAAVWE/ZKz-wGCwPQQow1HIOribHDHN2l3ZBCnMACLcBGAsYHQ/s320/tvn-web.jpg",
+    "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
     "arguments":[
       "https://token.tvn.cl/?url=57a498c4d7b86d600e5461cb&ads=true&imagen=%2F%2Fstrm.tvn.cl%2Fimg%2Flogo_tvn.png&autostart=true&volume=100&adsvolume=100&html5=true&relacionados=0&controls=true&custom_pre=&tk=&mediastream=false&DFP_Pre=https%3A//pubads.g.doubleclick.net/gampad/ads%3Fsz%3D640x480%26iu%3D/317342475/tvn_envivo_prerroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer%5D%26description_url%3D%5Bpage-url%5D%26correlator%3D%5Btimestamp%5D&DFP_Ov=https%3A//pubads.g.doubleclick.net/gampad/ads%3Fsz%3D640x480%26iu%3D/317342475/tvn_envivo_overlay%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D"
     ]
@@ -36,13 +36,21 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
     "arguments":[
-      "http://201.182.242.135:8002/play/a09o/index.m3u8"
+      "http://45.225.95.170:8001/play/a04o"
+    ]
+  },
+      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
+    "arguments":[
+      "https://unlimited10-cl.dps.live/mega/mega.smil/playlist.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-FKq-PF4p4DA/X62peXZs0dI/AAAAAAAAVVs/WDX8OrzvR4EhbqGlL7Z6iZ00jW6uTAjWwCLcBGAsYHQ/s320/chv-web.jpg",
+    "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
     "arguments":[
       "https://www.chilevision.cl/senal-online"
     ]
@@ -52,15 +60,31 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
     "arguments":[
-      "http://201.182.242.135:8000/play/a04c/index.m3u8"
+      "http://45.225.95.170:8001/play/a04p"
+    ]
+  },
+    {
+    "title":" ",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
+    "arguments":[
+      "https://www.lared.cl/senal-online"
     ]
   },
   {
     "title":" ",
-    "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-gWGIdgc1eXY/X62pefjZK9I/AAAAAAAAVVo/KJUEMT3B8pINm_uBu4EcdTHgUelwlaERACLcBGAsYHQ/s320/la%2Bred-web.jpg",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
     "arguments":[
-      "https://www.lared.cl/senal-online"
+      "https://unlimited10-cl.dps.live/lared/lared.smil/playlist.m3u8"
+    ]
+  },
+    {
+    "title":" ",
+    "provider":"externalurl",
+    "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
+    "arguments":[
+      "http://45.225.95.170:8001/play/a04m"
     ]
   },
   {
