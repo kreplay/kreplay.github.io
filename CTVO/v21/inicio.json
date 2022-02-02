@@ -1,20 +1,4 @@
 [
-      {
-    "title":"OP1",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
-    "arguments":[
-      "https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8"
-    ]
-  },
-      {
-    "title":"OP2",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
-    "arguments":[
-      "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"
-    ]
-  },
    {
     "title":"",
     "provider":"webview",
