@@ -1,6 +1,14 @@
 [
    {
     "title":"",
+    "provider":"stream",
+    "image":"https://raw.githubusercontent.com/kreplay/kreplay.github.io/master/PETVO/rt0.jpg",
+    "arguments":[
+      "https://rt-esp.gcdn.co/live/rtesp/playlist_800Kb.m3u8"
+    ]
+  },
+   {
+    "title":"",
     "provider":"webview",
     "image":"https://1.bp.blogspot.com/-i03cGajrBEk/X62ga02ynQI/AAAAAAAAVUE/uL-Z6jE2nZAz68zovteP2XozAvoRWGVDgCPcBGAYYCw/s16000/canal%2B13.jpg",
     "arguments":[
