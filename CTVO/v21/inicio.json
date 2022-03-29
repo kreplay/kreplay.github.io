@@ -15,14 +15,6 @@
       "http://201.236.185.134:8000/play/a00d/index.m3u8"
     ]
   },
-       {
-    "title":"",
-    "provider":"externalurl",
-    "image":"https://1.bp.blogspot.com/-i03cGajrBEk/X62ga02ynQI/AAAAAAAAVUE/uL-Z6jE2nZAz68zovteP2XozAvoRWGVDgCPcBGAYYCw/s16000/canal%2B13.jpg",
-    "arguments":[
-      "http://177.128.115.10:8000/play/a019"
-    ]
-  }, 
   {
     "title":"",
     "provider":"webview",
@@ -39,14 +31,6 @@
       "http://201.236.185.134:8000/play/a00a/index.m3u8"
     ]
   },
-        {
-    "title":"",
-    "provider":"externalurl",
-    "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
-    "arguments":[
-      "http://177.128.115.10:8000/play/a016"
-    ]
-  }, 
   {
     "title":"",
     "provider":"webview",
@@ -71,14 +55,6 @@
       "https://unlimited6-cl.dps.live/mega/mega.smil/playlist.m3u8"
     ]
   },
-       {
-    "title":"",
-    "provider":"external",
-    "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
-    "arguments":[
-      "http://177.128.115.10:8000/play/a017"
-    ]
-  },  
   {
     "title":"",
     "provider":"webview",
@@ -95,22 +71,6 @@
       "http://201.236.185.134:8000/play/a00c/index.m3u8"
     ]
   },
-     {
-    "title":"",
-    "provider":"externalurl",
-    "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
-    "arguments":[
-      "http://177.128.115.10:8000/play/a018"
-    ]
-  }, 
-      {
-    "title":"",
-    "provider":"externalurl",
-    "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
-    "arguments":[
-      "http://177.128.115.10:8000/play/a03k"
-    ]
-  }, 
     {
     "title":" ",
     "provider":"webview",
