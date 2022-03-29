@@ -80,6 +80,14 @@
     ]
   },  
     {
+    "title":"",
+    "provider":"externalurl",
+    "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
+    "arguments":[
+      "http://177.128.115.10:8000/play/a03k"
+    ]
+  },    
+    {
     "title":" ",
     "provider":"webview",
     "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
