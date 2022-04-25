@@ -1,26 +1,34 @@
 [
-  {
+   {
     "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-p_HoDNaJUL8/X62oLFevHxI/AAAAAAAAVVY/8CT2zsUxhi8x2TRWMiPE_OsyQ7ZoKitLACLcBGAsYHQ/s320/canal%2B13.jpg",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-i03cGajrBEk/X62ga02ynQI/AAAAAAAAVUE/uL-Z6jE2nZAz68zovteP2XozAvoRWGVDgCPcBGAYYCw/s16000/canal%2B13.jpg",
     "arguments":[
-      "http://201.182.242.135:8000/play/a04d/index.m3u8"
+      "https://www.13.cl"
+    ]
+  },
+     {
+    "title":"",
+    "provider":"externalurl",
+    "image":"https://1.bp.blogspot.com/-i03cGajrBEk/X62ga02ynQI/AAAAAAAAVUE/uL-Z6jE2nZAz68zovteP2XozAvoRWGVDgCPcBGAYYCw/s16000/canal%2B13.jpg",
+    "arguments":[
+      "http://179.56.10.223:8000/play/a009/index.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-_Fvhgi9lV6I/X62pgNXeBHI/AAAAAAAAVWE/ZKz-wGCwPQQow1HIOribHDHN2l3ZBCnMACLcBGAsYHQ/s320/tvn-web.jpg",
+    "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
     "arguments":[
       "https://token.tvn.cl/?url=57a498c4d7b86d600e5461cb&ads=true&imagen=%2F%2Fstrm.tvn.cl%2Fimg%2Flogo_tvn.png&autostart=true&volume=100&adsvolume=100&html5=true&relacionados=0&controls=true&custom_pre=&tk=&mediastream=false&DFP_Pre=https%3A//pubads.g.doubleclick.net/gampad/ads%3Fsz%3D640x480%26iu%3D/317342475/tvn_envivo_prerroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer%5D%26description_url%3D%5Bpage-url%5D%26correlator%3D%5Btimestamp%5D&DFP_Ov=https%3A//pubads.g.doubleclick.net/gampad/ads%3Fsz%3D640x480%26iu%3D/317342475/tvn_envivo_overlay%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D"
     ]
   },
-    {
+      {
     "title":"",
-    "provider":"stream",
+    "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
     "arguments":[
-      "https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8"
+      "http://179.56.10.223:8000/play/a006/index.m3u8"
     ]
   },
   {
@@ -33,34 +41,58 @@
   },
     {
     "title":"",
+    "provider":"externalurl",
+    "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
+    "arguments":[
+      "http://179.56.10.223:8000/play/a007/index.m3u8"
+    ]
+  },
+      {
+    "title":"",
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
     "arguments":[
-      "http://201.182.242.135:8000/play/a04b/index.m3u8"
+      "https://unlimited6-cl.dps.live/mega/mega.smil/playlist.m3u8"
     ]
   },
   {
     "title":"",
     "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-FKq-PF4p4DA/X62peXZs0dI/AAAAAAAAVVs/WDX8OrzvR4EhbqGlL7Z6iZ00jW6uTAjWwCLcBGAsYHQ/s320/chv-web.jpg",
+    "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
     "arguments":[
       "https://www.chilevision.cl/senal-online"
     ]
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
     "arguments":[
-      "http://201.182.242.135:8000/play/a04c/index.m3u8"
+      "http://179.56.10.223:8000/play/a008/index.m3u8"
+    ]
+  },
+    {
+    "title":" ",
+    "provider":"webview",
+    "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
+    "arguments":[
+      "https://www.lared.cl/senal-online"
     ]
   },
   {
-    "title":"",
-    "provider":"webview",
-    "image":"https://1.bp.blogspot.com/-gWGIdgc1eXY/X62pefjZK9I/AAAAAAAAVVo/KJUEMT3B8pINm_uBu4EcdTHgUelwlaERACLcBGAsYHQ/s320/la%2Bred-web.jpg",
+    "title":" ",
+    "provider":"stream",
+    "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
     "arguments":[
-      "https://www.lared.cl/senal-online"
+      "https://unlimited6-cl.dps.live/lared/lared.smil/playlist.m3u8"
+    ]
+  },
+    {
+    "title":" ",
+    "provider":"externalurl",
+    "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
+    "arguments":[
+      "http://179.56.10.223:8000/play/a005/index.m3u8"
     ]
   },
   {
@@ -100,24 +132,24 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-vT81lbHY2Yw/X62rDxLU3LI/AAAAAAAAVWs/SlSU4wxbI9oFEIe-CfS_Ptl9iTBRIFn8ACLcBGAsYHQ/s320/t13.jpg",
     "arguments":[
-      "http://janus-ply.t13.cl/playlist/playlist.m3u8"
+      "https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8"
     ]
   },
 
   {
     "title":"",
-    "provider":"stream",
+    "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-Yc_CMSj4OY0/X62rD503XEI/AAAAAAAAVWo/lq82oL5xzAEIuK7DnYh2Nz5OCAZCq20ugCLcBGAsYHQ/s320/24hrs.jpg",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
+      "http://179.56.10.223:8000/play/a00h/index.m3u8"
     ]
   },
     {
     "title":"",
-    "provider":"stream",
+    "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-3Y13Gky2OlM/YFBq-5pECFI/AAAAAAAADRs/SeGxKf2gR1gf-FmShTEdIHWv6mkmuCRMACLcBGAsYHQ/s447/cnn%2Bchile.jpg",
     "arguments":[
-      "https://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
+      "http://179.56.10.223:8000/play/a01e/index.m3u8"
     ]
   },
   {
@@ -199,7 +231,7 @@
   "provider":"stream",
   "image":"https://1.bp.blogspot.com/-YMArYLHdl1k/X6261pVTKKI/AAAAAAAAVY0/jOvBXoMEW2cAiNjymKeQjpFazcPFps_kgCLcBGAsYHQ/s320/tv%252B.jpg",
   "arguments":[
-    "https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8"
+    "http://201.182.242.135:8002/play/a09n/index.m3u8"
   ]
 },
   {
@@ -218,15 +250,6 @@
     "image":"https://1.bp.blogspot.com/-MdcINYI2tdk/X6262UjckSI/AAAAAAAAVY8/_AwYWNGUnvgvOZneGmUlLnNpTQOmZzVYgCLcBGAsYHQ/s320/ufrovision.jpg",
     "arguments":[
       "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
-    ]
-  },
-
-  {
-    "title":"",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-V4OnDTTy6go/X621anTT3BI/AAAAAAAAVYA/Fg9vpCQgmiYbJFCD_BkL9_EJHRjWIcwxwCLcBGAsYHQ/s320/chavo.jpg",
-    "arguments":[
-      "https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8"
     ]
   },
   {
