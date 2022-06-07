@@ -176,6 +176,14 @@
       "http://200.126.94.234:8000/play/a00u/index.m3u8"
     ]
   },
+    {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/dw%20espanol.jpg?raw=true",
+    "arguments":[
+      "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+    ]
+  }, 
   {
     "title":"",
     "provider":"stream",
