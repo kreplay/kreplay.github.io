@@ -12,7 +12,7 @@
     "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-i03cGajrBEk/X62ga02ynQI/AAAAAAAAVUE/uL-Z6jE2nZAz68zovteP2XozAvoRWGVDgCPcBGAYYCw/s16000/canal%2B13.jpg",
     "arguments":[
-      "http://200.126.94.234:8000/play/a024/index.m3u8"
+      "http://45.169.148.19:8000/play/a1bm/index.m3u8"
     ]
   },
       {
@@ -52,7 +52,7 @@
     "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-AM3xn6ZXw7g/X62pgf8wJfI/AAAAAAAAVWI/VKS_g7eoJAM8QBNnnYzs4MYmz2Nd6pujwCLcBGAsYHQ/s320/tvn.jpg",
     "arguments":[
-      "http://200.126.94.234:8000/play/a01k/index.m3u8"
+      "http://45.169.148.19:8000/play/a1bj/index.m3u8"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-NnJgI_uRs0o/X62pf96zV7I/AAAAAAAAVV8/8qYIFChvqggRPfY3oqZFwZHrNHJjvcWzgCLcBGAsYHQ/s320/mega.jpg",
     "arguments":[
-      "http://200.126.94.234:8000/play/a01l/index.m3u8"
+      "http://45.169.148.19:8000/play/a0sj/index.m3u8"
     ]
   },
       {
@@ -92,7 +92,7 @@
     "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-6Mv0eT5rp7o/X62peS6vLfI/AAAAAAAAVVw/35CytMejO5Y7GzuQsDyI1ySzXD2kAQT1QCLcBGAsYHQ/s320/chv.jpg",
     "arguments":[
-      "http://186.3.255.100:8855/play/a0dm/index.m3u8"
+      "http://45.169.148.19:8000/play/a1bl/index.m3u8"
     ]
   },
     {
@@ -103,20 +103,12 @@
       "https://www.lared.cl/senal-online"
     ]
   },
-  {
-    "title":" ",
-    "provider":"stream",
-    "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
-    "arguments":[
-      "http://200.126.94.234:8000/play/a01j/index.m3u8"
-    ]
-  },
     {
     "title":" ",
     "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-8sKSMq59Elo/X62gb6KuFmI/AAAAAAAAVT8/RutOtqX9gJEcpLUyTSY9IdOp0Cn92l-0ACPcBGAYYCw/s16000/la%2Bred.jpg",
     "arguments":[
-      "http://45.236.174.87:2501/play/a006"
+      "http://45.169.148.19:8000/play/a1bi/index.m3u8"
     ]
   },
   {
@@ -173,7 +165,7 @@
     "provider":"externalurl",
     "image":"https://1.bp.blogspot.com/-3Y13Gky2OlM/YFBq-5pECFI/AAAAAAAADRs/SeGxKf2gR1gf-FmShTEdIHWv6mkmuCRMACLcBGAsYHQ/s447/cnn%2Bchile.jpg",
     "arguments":[
-      "http://200.126.94.234:8000/play/a00u/index.m3u8"
+      "http://45.169.148.19:8000/play/a12d/index.m3u8"
     ]
   },
     {
