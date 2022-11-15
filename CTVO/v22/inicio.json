@@ -245,7 +245,7 @@
     "provider":"stream",
     "image": "https://1.bp.blogspot.com/-5KTImrglqvg/X62tezKvCQI/AAAAAAAAVXc/6fsLpWwbQ7oppci8sY2Jj62vKf3FQjCmQCLcBGAsYHQ/s320/cooperativa.jpg",
     "arguments":[
-      "http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+      "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?TecnoPlaylist"
     ]
   },
 
