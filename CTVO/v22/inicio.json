@@ -254,7 +254,8 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-h1YPlRZ5Ef4/X6261jS2kAI/AAAAAAAAVY4/fnBiFyYje9wdeBN4qHUuLJtIblyao2wsQCLcBGAsYHQ/s320/uatv.jpg",
     "arguments":[
-      "https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+      "https://pantera2-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8
+"
     ]
   },      
   {
@@ -296,7 +297,7 @@
     "provider":"stream",
     "image":"https://1.bp.blogspot.com/-I_0OBabdaG8/YFBq9M2XLAI/AAAAAAAADRk/E_BDVVOsvEMvm28fnSsNCH_YCsvY8YtIACLcBGAsYHQ/s447/biobio.jpg",
     "arguments":[
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=CL&sid=eb51c2c5-f696-11ea-b4f5-0242ac110002&userId=&serverSideAds=false"
+      "https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50e1f78d-846f-11ec-8c9a-0242ac110003"
     ]
   },
   {
