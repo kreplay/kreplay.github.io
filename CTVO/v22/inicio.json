@@ -151,6 +151,14 @@
       "https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8"
     ]
   }, 
+         {
+    "title":" ",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/t31.jpg?raw=true",
+    "arguments":[
+      "https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8"
+    ]
+  }, 
   {
     "title":"",
     "provider":"stream",
