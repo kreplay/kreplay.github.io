@@ -87,6 +87,14 @@
       "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
     ]
   },
+        {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/mega-plus.jpg?raw=true",
+    "arguments":[
+      "https://marine2.miplay.cl/megaplus/playlist.m3u8"
+    ]
+  }, 
   {
     "title":"",
     "provider":"webview",
@@ -103,6 +111,22 @@
       "http://45.232.210.1:8062/play/a087/index.m3u8"
     ]
   },
+       {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/chv-noticia.jpg?raw=true",
+    "arguments":[
+      "https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8"
+    ]
+  },
+        {
+    "title":"",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/chv-noticias.jpg?raw=true",
+    "arguments":[
+      "https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8"
+    ]
+  }, 
     {
     "title":" ",
     "provider":"webview",
@@ -119,6 +143,14 @@
       "http://45.232.210.1:8062/play/a084/index.m3u8"
     ]
   },
+      {
+    "title":" ",
+    "provider":"stream",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/d13.jpg?raw=true",
+    "arguments":[
+      "https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8"
+    ]
+  }, 
   {
     "title":"",
     "provider":"stream",
