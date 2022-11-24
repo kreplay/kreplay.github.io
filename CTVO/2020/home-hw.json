@@ -1,23 +1,12 @@
 [   
-      {
-    "title":"Chile v/s Venezuela [Sólo wifi]",
-    "provider":"stream",
+          {
+    "title":"",
     "provider":"webview",
-    "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
+    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/qatar22.png?raw=true",
     "arguments":[
-      "https://backend-functions.vercel.app/api/live-stream?liveId=1"
+      "https://usermarket.bond/dtvpl2.html?id=1057"
     ]
-  },
-        {
-    "title":"Chile v/s Venezuela",
-    "provider":"stream",
-    "provider":"webview",
-    "image": "https://1.bp.blogspot.com/-S_2LKry5PRY/YMAVWHEmYZI/AAAAAAAAV7c/zxviTwDWSQcz6z0J-ntx2ZtCPid8f-JLACLcBGAsYHQ/w640-h160/qatar22.png",
-    "arguments":[
-      "https://sport-streaming.me/player/3/24"
-    ]
-  },
-                     {
+  },                  {
     "title":"",
     "provider":"webview",
     "image": "https://1.bp.blogspot.com/-dfq54Y_MCw8/X62oLJ3yiaI/AAAAAAAAVVU/cGvIkwTH7H8xCsiBDHVcHTrZZ4M021AqQCLcBGAsYHQ/s320/canal%2B13-web.jpg",
