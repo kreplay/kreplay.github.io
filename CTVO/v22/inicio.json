@@ -17,10 +17,10 @@
   },
         {
     "title":"",
-    "provider":"externalurl",
+    "provider":"stream",
     "image":"https://github.com/kreplay/kreplay.github.io/blob/master/CTVO/qatar22.png?raw=true",
     "arguments":[
-      "http://200.52.154.125:8000/play/a06p/index.m3u8"
+      "https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL"
     ]
   },    
    {
