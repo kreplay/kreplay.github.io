@@ -1,69 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Pandrama</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta http-equiv="X-UA-Compatible" content="IE=11" />
-	<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
-	<style type="text/css">
-	html,body{width:100%;height:100%; padding:0; margin:0;}
-	#playerjwt{width:100%;height:100%;}
-	</style>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script type="text/javascript" src="https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.js"></script>
-	<script type="text/javascript">jwplayer.key="64HPbvSQorQcd52B8XFuhMtEoitbvY/EXJmMBfKcXZQU2Rnn";</script>
-</head>
-<body marginwidth="0" marginheight="0">
-<div id="playerjwt" style="height: 100%;width: 100%;"></div>
-<script type="text/javascript">
 
-jwplayer("playerjwt").setup({
- "playlist": [{
-            "file": video,
-            "drm": {
-            "clearkey": {
-              "key": cc2,
-              "keyId": cc1
-            }
-          },
-     tracks: [{ 
-            file: 'https://pandrama.com/subs/'+ slug + '/7/es/('+ ep + ').vtt',
-            label: 'Español',
-            kind: "captions",
-            "default": true 
-        },
-{ 
-            file: 'https://pandrama.com/subs/'+ slug + '/7/en/('+ ep + ').vtt',
-            label: "English",
-            kind: "captions"
-        }],
-        }
-             ],     
-  width: "100%",
-  "autostart": "false",
-  mute: false,
-  cast: {},
-  aspectratio: "16:9"
-   });
-
-var player = jwplayer();
-  player.once('play', function() {
-  let cookieData = localStorage.getItem(slug + ep);
-  const [ resumeAt, duration ] = cookieData.split(':');
-  if (resumeAt < duration) {
-    player.seek(resumeAt);
-    return;
-  } 
-
-});
-player.on('time', function(e) {
-  localStorage.setItem(en + nid, `${Math.floor(e.position)}:${player.getDuration()}`);
-});  
-
-player.on('displayClick', function() {
-			SubtitleManager.setup();
-		}); 		
-		
-</script> 
-</body>
-</html>
+[
+  {"title":"Inicio",
+    "drawable":"ic_home",
+    "submenu":"",
+    "tabs":[
+      {"title":"Inicio",
+        "image":"",
+        "provider":"overview",
+        "arguments":
+        [
+          "https://kreplay.github.io/CTVO/v22/inicio.json"
+        ]}],"iap":false}
+,
+  {"title":"Regional",
+    "drawable":"ic_region",
+    "submenu":"",
+    "tabs":[
+      {"title":"Region",
+        "image":"",
+        "provider":"overview",
+        "arguments":
+        [
+          "https://kreplay.github.io/CTVO/2020/region.json"
+        ]}],"iap":false}
+,
+  {"title":"Noticias","drawable":"ic_news","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/news.json"]}],"iap":false},{"title":"Internacional","drawable":"ic_world","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/int.json"]}],"iap":false},{"title":"Animación/Niños","drawable":"ic_children","submenu":"","tabs":[{"title":"","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/anim.json"]}],"iap":false},{"title":"Radio","drawable":"ic_radio","submenu":"","tabs":[{"title":"Radio","image":"","provider":"overview","arguments":["https://kreplay.github.io/CTVO/2020/radio.json"]}],"iap":false}]
