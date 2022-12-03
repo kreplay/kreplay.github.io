@@ -16,7 +16,18 @@
 <body marginwidth="0" marginheight="0">
 <div id="playerjwt" style="height: 100%;width: 100%;"></div>
 <script type="text/javascript">
+const params = new URLSearchParams(document.location.search);
+const video = params.get("video");
+const ep = params.get("ep");    
+const slug = params.get("slug");        
+const url = video;
+cc = url.match(/(?<=\?).*/); 
+var cc1 = url.match(/(?<=\?).+?(?=\:)/).toString(); 
+var cc2 = cc.toString().match(/(?<=\:).*/).toString();
+</script>
 
+
+<script type="text/javascript">
 jwplayer("playerjwt").setup({
  "playlist": [{
             "file": video,
