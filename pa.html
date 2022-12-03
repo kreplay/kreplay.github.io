@@ -16,25 +16,14 @@
 <body marginwidth="0" marginheight="0">
 <div id="playerjwt" style="height: 100%;width: 100%;"></div>
 <script type="text/javascript">
-const params = new URLSearchParams(document.location.search);
-const video = params.get("video");
-const ep = "1";    
-const slug = "goblin";        
-const url = video;
-cc = url.match(/(?<=\?).*/); 
-var cc1 = url.match(/(?<=\?).+?(?=\:)/).toString(); 
-var cc2 = cc.toString().match(/(?<=\:).*/).toString();
-</script>
 
-
-<script type="text/javascript">
 jwplayer("playerjwt").setup({
  "playlist": [{
-            "file": "https://m-content6-viki.s.llnwi.net/1198283v/dash/mpdhd_high_0e8ccf_2209212334.mpd",
+            "file": video,
             "drm": {
             "clearkey": {
-              "key": "f96f4ac2f34ba6228a34d49368785880",
-              "keyId": "9c826ea451184d58a88a6a42bd93dc02"
+              "key": cc2,
+              "keyId": cc1
             }
           },
      tracks: [{ 
