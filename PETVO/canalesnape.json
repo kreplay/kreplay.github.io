@@ -1,56 +1,16 @@
 [
-      {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-nDov9Dhktbk/YE6ZVH6GnrI/AAAAAAAADQ4/L_-796Nwk6onO6D9dgDubxFh5fxx9X31wCLcBGAsYHQ/s1250/16154811545665.jpg",
-    "arguments":[
-      "http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1472_&f=.m3u8"
-    ]
-  },
-        {
-    "title":"",
-    "provider":"stream",
-    "image": "https://1.bp.blogspot.com/-nDov9Dhktbk/YE6ZVH6GnrI/AAAAAAAADQ4/L_-796Nwk6onO6D9dgDubxFh5fxx9X31wCLcBGAsYHQ/s1250/16154811545665.jpg",
-    "arguments":[
-      "http://tv.iptv5latino.cl:8000/live/R3n4t0dtvcambio/N5y8cUke59/1760.ts"
-    ]
-  },
                               {
-    "title":"",
+    "title":"TV MUSICA",
     "provider":"stream",
-    "image": "https://teleon.tv/images/logos/vision-tv-musica.png",
+    "image": "",
     "arguments":[
       "https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8"
     ]
   },
-           {
-    "title":"",
-    "provider":"webview",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/AMERICATV.jpg?raw=true",
-    "arguments":[
-      "https://tvgo.americatv.com.pe/iframe"
-    ]
-  },
                {
-    "title":"OP1",
+    "title":"TVPE",
     "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
-    "arguments":[
-      "https://cdnhd.iblups.com/hls/ptv2.m3u8"
-    ]
-  },
-                          {
-    "title":"OP2",
-    "provider":"webview",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/panamericana0.jpg?raw=true",
-    "arguments":[
-      "https://panamericana.pe/tvenvivo/noframes"
-    ]
-  },
-               {
-    "title":"",
-    "provider":"stream",
-    "image": "https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpe.jpg?raw=true",
+    "image": "",
     "arguments":[
       "http://cdnh4.iblups.com/hls/irtp.m3u8 "
     ]
@@ -58,32 +18,32 @@
   {
     "title":"",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/tvpenoticias.jpg?raw=true",
+    "image":"TVPE Noticias",
     "arguments":[
       "https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8"
     ]
   },
    {
-    "title":"",
+    "title":"IPE",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/ipe.jpg?raw=true",
+    "image":"",
     "arguments":[
       "http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8"
     ]
   },
   {
-    "title":"",
+    "title":"UCI",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/UCI0.jpg?raw=true",
+    "image":"",
     "arguments":[
       "https://videoserver.tmcreativos.com/ucitv/ucitv/playlist.m3u8"
     ]
   },
 
          {
-    "title":"",
+    "title":"CONGRESO",
     "provider":"stream",
-    "image":"https://github.com/kreplay/kreplay.github.io/blob/master/PETVO/congreso.jpg?raw=true",
+    "image":"",
     "arguments":[
       "http://stream.congreso.gob.pe/_hls/playlist.m3u8"
     ]
