@@ -7,9 +7,9 @@
     "tabs":[
       {
         "title":"Noticias Chile",
-        "provider":"overview",
+        "provider":"wordpress",
         "arguments":[
-          "https://kreplay.github.io/NCL/main.json"
+          "https://delplay.app/noticiaschile/wp-json/wp/v2/",""
         ]
       }
     ]
